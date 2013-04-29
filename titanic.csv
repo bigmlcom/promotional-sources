@@ -1,0 +1,2209 @@
+Name,Age,Class/Dept,Ticket,Fare,Fare today,Group,Joined,Job,Life Boat,Body,Survived
+"ALLEN, Miss Elisabeth Walton",29,1st Class,24160,£211 6s 9d,"£16,300.00",,Southampton,,2,,TRUE
+"ALLISON, Master Hudson Trevor",0.9,1st Class,113781,£151 16s,"£11,700.00",,Southampton,,11,,TRUE
+"ALLISON, Miss Helen Loraine",2,1st Class,113781,£151 16s,"£11,700.00",,Southampton,,,,FALSE
+"ALLISON, Mr Hudson Joshua Creighton",30,1st Class,113781,£151 16s,"£11,700.00",,Southampton,Businessman,,135,FALSE
+"ALLISON, Mrs Bessie Waldo",25,1st Class,113781,£151 16s,"£11,700.00",,Southampton,,,,FALSE
+"ANDERSON, Mr Harry",47,1st Class,19952,£26 11s,"£2,050.00",,Southampton,Stockbroker,3,,TRUE
+"ANDREWS, Miss Kornelia Theodosia",62,1st Class,13502,£77 19s 2d,"£6,020.00",,Cherbourg,,10,,TRUE
+"ANDREWS, Mr Thomas",39,1st Class,112050,,,H&W Guarantee Group,Belfast,Shipbuilder,,,FALSE
+"APPLETON, Mrs Charlotte",53,1st Class,11769,£51 9s 7d,"£3,980.00",,Southampton,,D,,TRUE
+"ARTAGAVEYTIA, Mr Ramon",71,1st Class,17609,£49 10s 1d,"£3,820.00",,Cherbourg,Businessman,,22,FALSE
+"ASTOR, Colonel John Jacob",47,1st Class,17757,£247 10s 6d,"£19,100.00",,Cherbourg,Property Developer / Real Estate,,124,FALSE
+"ASTOR, Mrs Madeleine Talmage",18,1st Class,17757,£247 10s 6d,"£19,100.00",,Cherbourg,,4,,TRUE
+"AUBART, Mme. Leontine Pauline",24,1st Class,17477,£69 6s,"£5,350.00",,Cherbourg,Singer,9,,TRUE
+"BARBER, Miss Ellen ""Nellie""",26,1st Class,19877,£78 17s,"£6,090.00",Servant,Southampton,Personal Maid,6,,TRUE
+"BARKWORTH, Mr Algernon Henry",47,1st Class,27042,£30,"£2,320.00",,Southampton,Justice of the Peace,B,,TRUE
+"BAUMANN, Mr John D.",60,1st Class,17318,£25 18s 6d,"£2,000.00",,Cherbourg,Businessman,,,FALSE
+"BAXTER, Mr Quigg Edmond",24,1st Class,17558,£247 10s 5d,"£19,100.00",,Cherbourg,,,,FALSE
+"BAXTER, Mrs Hne",50,1st Class,17558,£247 10s 5d,"£19,100.00",,Cherbourg,,6,,TRUE
+"BAZZANI, Mrs Albina",36,1st Class,11813,£76 5s 10d,"£5,890.00",Servant,Cherbourg,Personal Maid,8,,TRUE
+"BEATTIE, Mr Thomson",36,1st Class,13050,£75 4s 10d,"£5,810.00",,Southampton,Landowner,A,331,FALSE
+"BECKWITH, Mr Richard Leonard",37,1st Class,11751,£52 11s 1d,"£4,060.00",,Southampton,,5,,TRUE
+"BECKWITH, Mrs Sallie",46,1st Class,11751,£52 11s 1d,"£4,060.00",,Southampton,,5,,TRUE
+"BEHR, Mr Karl Howell",26,1st Class,111369,£30,"£2,320.00",,Cherbourg,,5,,TRUE
+"BESSETTE, Miss Nellie Mayo",39,1st Class,17760,£63 7s 2d,"£4,890.00",Servant,Cherbourg,Personal Maid,8,,TRUE
+"BIDOIS, Miss Rosalie",46,1st Class,17757,£247 10s 6d,"£19,100.00",Servant,Cherbourg,Personal Maid,4,,TRUE
+"BIRD, Miss Ellen",31,1st Class,17483,£221 15s 7d,"£17,100.00",Servant,Southampton,Personal Maid,8,,TRUE
+"BIRNBAUM, Mr Jakob",24,1st Class,13905,£26,"£2,010.00",,Cherbourg,,,148,FALSE
+"BISHOP, Mr Dickinson H.",25,1st Class,11967,£91 1s 7d,"£7,030.00",,Cherbourg,,7,,TRUE
+"BISHOP, Mrs Helen",19,1st Class,11967,£91 1s 7d,"£7,030.00",,Cherbourg,,7,,TRUE
+"BJORNSTROM-STEFFANSSON, Mr Mauritz HAkan",28,1st Class,110564,£26 11s,"£2,050.00",,Southampton,Businessman,D,,TRUE
+"BLACKWELL, Mr Stephen Weart",45,1st Class,113784,£35 10s,"£2,740.00",,Southampton,,,,FALSE
+"BLANK, Mr Henry",39,1st Class,112277,£31,"£2,390.00",,Cherbourg,Jeweller,7,,TRUE
+"BONNELL, Miss Caroline",30,1st Class,36928,£164 17s 4d,"£12,700.00",,Southampton,,8,,TRUE
+"BONNELL, Miss Elizabeth",61,1st Class,113783,£26 11s,"£2,050.00",,Southampton,,8,,TRUE
+"BOREBANK, Mr John James",42,1st Class,110489,£26 11s,"£2,050.00",,Southampton,Property Developer / Real Estate,,,FALSE
+"BOWEN, Miss Grace Scott",45,1st Class,17608,£262 7s 6d,"£20,300.00",Servant,Cherbourg,Governess,4,,TRUE
+"BOWERMAN, Miss Elsie Edith",22,1st Class,113505,£55,"£4,250.00",,Southampton,,6,,TRUE
+"BRADY, Mr John Bertram",41,1st Class,113054,£30 10s,"£2,360.00",,Southampton,,,,FALSE
+"BRANDEIS, Mr Emil",48,1st Class,17591,£50 9s 11d,"£3,900.00",,Cherbourg,,,208,FALSE
+"BRERETON, Mr George Andrew",37,1st Class,111427,£26 11s,"£2,050.00",,Southampton,,9,,TRUE
+"BREWE, Dr Arthur Jackson",45,1st Class,112379,£39 12s,"£3,060.00",,Cherbourg,,,,FALSE
+"BROWN, Mrs Caroline Lane",59,1st Class,11769,£51 9s 7d,"£3,980.00",,Southampton,,D,,TRUE
+"BROWN, Mrs Margaret",44,1st Class,17610,£27 14s 5d,"£2,140.00",,Cherbourg,,6,,TRUE
+"BUCKNELL, Mrs Emma Eliza",59,1st Class,11813,£76 5s 10d,"£5,890.00",,Cherbourg,,8,,TRUE
+"BURNS, Miss Elizabeth Margaret",41,1st Class,16966,£134 10s,"£10,400.00",Servant,Cherbourg,Nursemaid,3,,TRUE
+"BUTT, Major Archibald Willingham",46,1st Class,113050,£26 11s,"£2,050.00",,Southampton,Military,,,FALSE
+"CAIRNS, Mr Alexander",,1st Class,113798,£31,"£2,390.00",Servant,Southampton,Servant,,,FALSE
+"CALDERHEAD, Mr Edward Pennington",42,1st Class,17476,£26 5s 9d,"£2,030.00",,Southampton,,5,,TRUE
+"CANDEE, Mrs Helen Churchill",52,1st Class,17606,£27 8s 11d,"£2,120.00",,Cherbourg,,6,,TRUE
+"CARDEZA, Mr Thomas Drake Martinez",36,1st Class,17755,£512 6s 7d,"£39,600.00",,Cherbourg,Gentleman,3,,TRUE
+"CARDEZA, Mrs Charlotte Wardle",58,1st Class,17755,£512 6s 7d,"£39,600.00",,Cherbourg,,3,,TRUE
+"CARLSSON, Mr Frans Olof",33,1st Class,695,£5,£386.00,,Southampton,,,,FALSE
+"CARRAU, Mr Francisco M.",31,1st Class,113059,£47 2s,"£3,640.00",,Southampton,,,,FALSE
+"CARRAU, Mr JosE Pedro",17,1st Class,113059,£47 2s,"£3,640.00",,Southampton,,,,FALSE
+"CARTER, Master William Thornton II",11,1st Class,113760,£120,"£9,270.00",,Southampton,,4,,TRUE
+"CARTER, Miss Lucile Polk",13,1st Class,113760,£120,"£9,270.00",,Southampton,,4,,TRUE
+"CARTER, Mr William Ernest",36,1st Class,113760,£120,"£9,270.00",,Southampton,,C,,TRUE
+"CARTER, Mrs Lucile",36,1st Class,113760,£120,"£9,270.00",,Southampton,,4,,TRUE
+"CASE, Mr Howard Brown",49,1st Class,19924,£26,"£2,010.00",,Southampton,,,,FALSE
+"CASSEBEER, Mrs Eleanor Genevieve",36,1st Class,17770,£27 14s 5d,"£2,140.00",,Cherbourg,,5,,TRUE
+"CAVENDISH, Mr Tyrell William",36,1st Class,19877,£78 17s,"£6,090.00",,Southampton,,,172,FALSE
+"CAVENDISH, Mrs Julia Florence",25,1st Class,19877,£78 17s,"£6,090.00",,Southampton,,6,,TRUE
+"CHAFFEE, Mr Herbert Fuller",46,1st Class,5734,£61 3s 6d,"£4,720.00",,Southampton,,,,FALSE
+"CHAFFEE, Mrs Carrie Constance",47,1st Class,5734,£61 3s 6d,"£4,720.00",,Southampton,,4,,TRUE
+"CHAMBERS, Mr Norman Campbell",27,1st Class,113806,£53 2s,"£4,100.00",,Southampton,,5,,TRUE
+"CHAMBERS, Mrs Bertha",32,1st Class,113806,£53 2s,"£4,100.00",,Southampton,,5,,TRUE
+"CHAUDANSON, Miss Victorine",36,1st Class,17608,£262 7s 6d,"£20,300.00",Servant,Cherbourg,Personal Maid,4,,TRUE
+"CHERRY, Miss Gladys",30,1st Class,110152,£86 10s,"£6,680.00",,Southampton,Of Independent Means,8,,TRUE
+"CHEVRE, Mr Paul Romaine Marie Leonce",45,1st Class,17594,£29 14s,"£2,290.00",,Cherbourg,Sculptor,7,,TRUE
+"CHIBNALL, Mrs Edith Martha Bowerman",48,1st Class,113505,£55,"£4,250.00",,Southampton,Of Independent Means,6,,TRUE
+"CHISHOLM, Mr Roderick Robert Crispin",40,1st Class,112051,,,H&W Guarantee Group,Belfast,Draughtsman,,,FALSE
+"CLARK, Mr Walter Miller",27,1st Class,13508,£136 15s 7d,"£10,600.00",,Cherbourg,,,,FALSE
+"CLARK, Mrs Virginia Estelle",26,1st Class,13508,£136 15s 7d,"£10,600.00",,Cherbourg,,4,,TRUE
+"CLEAVER, Miss Alice Catherine",22,1st Class,113781,£151 16s,"£11,700.00",Servant,Southampton,Nursemaid,11,,TRUE
+"CLIFFORD, Mr George Quincy",40,1st Class,110465,£52,"£4,020.00",,Southampton,,,,FALSE
+"COLLEY, Mr Edward Pomeroy",37,1st Class,5727,£25 11s 9d,"£1,980.00",,Southampton,,,,FALSE
+"COMPTON, Miss Sara Rebecca",39,1st Class,17756,£83 3s 2d,"£6,420.00",,Cherbourg,,14,,TRUE
+"COMPTON, Mr Alexander Taylor jr",37,1st Class,17756,£83 3s 2d,"£6,420.00",,Cherbourg,,,,FALSE
+"COMPTON, Mrs Mary Eliza",64,1st Class,17756,£83 3s 2d,"£6,420.00",,Cherbourg,,14,,TRUE
+"CORNELL, Mrs Malvina Helen",55,1st Class,11770,£25 14s 10d,"£1,990.00",,Southampton,,2,,TRUE
+"CRAFTON, Mr John Bertram",59,1st Class,113791,£26 11s,"£2,050.00",,Southampton,Businessman,,,FALSE
+"CROSBY, Captain Edward Gifford",70,1st Class,5735,£71,"£5,480.00",,Southampton,,,269,FALSE
+"CROSBY, Miss Harriette Rebecca",39,1st Class,112901,£26 11s,"£2,050.00",,Southampton,,7,,TRUE
+"CROSBY, Mrs Catherine Elizabeth",64,1st Class,5735,£71,"£5,480.00",,Southampton,,7,,TRUE
+"CUMINGS, Mr John Bradley",39,1st Class,17599,£71 5s 8d,"£5,500.00",,Cherbourg,,,,FALSE
+"CUMINGS, Mrs Florence Briggs",35,1st Class,17599,£71 5s 8d,"£5,500.00",,Cherbourg,,4,,TRUE
+"DALY, Mr Peter Dennis",51,1st Class,113055,£26 11s,"£2,050.00",,Southampton,Businessman,5,,TRUE
+"DANIEL, Mr Robert Williams",27,1st Class,113804,£30 10s,"£2,360.00",,Southampton,,3,,TRUE
+"DANIELS, Miss Sarah",33,1st Class,113781,£151 16s,"£11,700.00",Servant,Southampton,Personal Maid,8,,TRUE
+"DAVIDSON, Mr Thornton",31,1st Class,12750,£52,"£4,020.00",,Cherbourg,,,,FALSE
+"DAVIDSON, Mrs Orian",27,1st Class,12750,£52,"£4,020.00",,Cherbourg,,3,,TRUE
+"DICK, Mr Albert Adrian",31,1st Class,17474,£57,"£4,400.00",,Southampton,,3,,TRUE
+"DICK, Mrs Vera",17,1st Class,17474,£57,"£4,400.00",,Southampton,,3,,TRUE
+"DODGE, Dr Washington",52,1st Class,33638,£81 17s 2d,"£6,320.00",,Southampton,Politician,13,,TRUE
+"DODGE, Master Washington",4,1st Class,33638,£81 17s 2d,"£6,320.00",,Southampton,,5,,TRUE
+"DODGE, Mrs Ruth",34,1st Class,33638,£81 17s 2d,"£6,320.00",,Southampton,,5,,TRUE
+"DOUGLAS, Mr Walter Donald",50,1st Class,17761,£106 8s 6d,"£8,220.00",,Cherbourg,,,62,FALSE
+"DOUGLAS, Mrs Mahala",48,1st Class,17761,£106 8s 6d,"£8,220.00",,Cherbourg,,2,,TRUE
+"DOUGLAS, Mrs Mary Helene",27,1st Class,17558,£247 10s 5d,"£19,100.00",,Cherbourg,,6,,TRUE
+"DUFF GORDON, Lucy Christiana, Lady",48,1st Class,17485,£56 18s 7d,"£4,400.00",,Cherbourg,Dressmaker / CouturiàöÆre,1,,TRUE
+"DUFF GORDON, Sir Cosmo Edmund",49,1st Class,11755,£39 12s,"£3,060.00",,Cherbourg,Landowner,1,,TRUE
+"DULLES, Mr William Crothers",39,1st Class,17580,£29 14s,"£2,290.00",,Cherbourg,,,133,FALSE
+"EARNSHAW, Mrs Olive",23,1st Class,11767,£83 3s 2d,"£6,420.00",,Cherbourg,Of Independent Means,7,,TRUE
+"ENDRES, Miss Caroline Louise",39,1st Class,17757,£247 10s 6d,"£19,100.00",Servant,Cherbourg,Nurse,4,,TRUE
+"EUSTIS, Miss Elizabeth Mussey",54,1st Class,36947,£78 5s 4d,"£6,040.00",,Cherbourg,,4,,TRUE
+"EVANS, Miss Edith Corse",36,1st Class,17531,£31 13s 7d,"£2,450.00",,Cherbourg,,,,FALSE
+"FARTHING, Mr John",57,1st Class,17483,£221 15s 7d,"£17,100.00",Servant,Southampton,Servant,,,FALSE
+"FLEGENHEIM, Mrs Antoinette",48,1st Class,17598,£31 13s 8d,"£2,450.00",,Cherbourg,,7,,TRUE
+"FLEMING, Miss Margaret",42,1st Class,17421,£110 17s 8d,"£8,560.00",Servant,Cherbourg,Personal Maid,4,,TRUE
+"FLYNN, Mr John Irwin",36,1st Class,PC 14474,£26 5s 9d,"£2,030.00",,Southampton,,5,,TRUE
+"FOREMAN, Mr Benjamin Laventall",30,1st Class,113051,£27 15s,"£2,140.00",,Southampton,,,,FALSE
+"FORTUNE, Miss Alice Elizabeth",24,1st Class,19950,£263,"£20,300.00",,Southampton,,10,,TRUE
+"FORTUNE, Miss Ethel Flora",28,1st Class,19950,£263,"£20,300.00",,Southampton,,10,,TRUE
+"FORTUNE, Miss Mabel Helen",23,1st Class,19950,£263,"£20,300.00",,Southampton,,10,,TRUE
+"FORTUNE, Mr Charles Alexander",19,1st Class,19950,£263,"£20,300.00",,Southampton,,,,FALSE
+"FORTUNE, Mr Mark",64,1st Class,19950,£263,"£20,300.00",,Southampton,,,,FALSE
+"FORTUNE, Mrs Mary",60,1st Class,19950,£263,"£20,300.00",,Southampton,,10,,TRUE
+"FROLICHER-STEHLI, Mr Maximilian Josef",60,1st Class,13567,£79 4s,"£6,120.00",,Cherbourg,,5,,TRUE
+"FROLICHER-STEHLI, Mrs Margaretha Emerentia",48,1st Class,13567,£79 4s,"£6,120.00",,Cherbourg,,5,,TRUE
+"FROLICHER, Miss Hedwig Margaritha",22,1st Class,13568,£49 10s,"£3,820.00",,Cherbourg,,5,,TRUE
+"FRANCATELLI, Miss Laura Mabel",31,1st Class,17485,£56 18s 7d,"£4,400.00",Servant,Cherbourg,Secretary,1,,TRUE
+"FRANKLIN, Mr Thomas Parnham",37,1st Class,113778,£26 11s,"£2,050.00",,Southampton,,,,FALSE
+"FRAUENTHAL, Dr Henry William",49,1st Class,17611,£133 13s,"£10,300.00",,Cherbourg,Doctor,5,,TRUE
+"FRAUENTHAL, Mr Isaac Gerald",43,1st Class,17765,£27 14s 5d,"£2,140.00",,Cherbourg,,5,,TRUE
+"FRAUENTHAL, Mrs Clara",42,1st Class,17611,£133 13s,"£10,300.00",,Cherbourg,,5,,TRUE
+"FRY, Mr John Richard",39,1st Class,112058,,,Servant,Southampton,Servant,,,FALSE
+"FUTRELLE, Mr Jacques Heath",37,1st Class,113803,£53 2s,"£4,100.00",,Southampton,Writer,,,FALSE
+"FUTRELLE, Mrs Lily May",35,1st Class,113803,£53 2s,"£4,100.00",,Southampton,,D,,TRUE
+"GEE, Mr Arthur H.",47,1st Class,111320,£38 10s,"£2,970.00",,Southampton,,,275,FALSE
+"GIBSON, Miss Dorothy Winifred",22,1st Class,112378,£59 8s,"£4,590.00",,Cherbourg,,7,,TRUE
+"GIBSON, Mrs Pauline Caroline",44,1st Class,112378,£59 8s,"£4,590.00",,Cherbourg,,7,,TRUE
+"GIEGER, Miss Amalie ""Emily"" Henriette",35,1st Class,113503,£211 10s,"£16,300.00",Servant,Southampton,Personal Maid,4,,TRUE
+"GIGLIO, Mr Victor",24,1st Class,17593,£79 4s,"£6,120.00",Servant,Cherbourg,Servant,,,FALSE
+"GOLDENBERG, Mr Samuel L.",47,1st Class,17453,£89 2s 1d,"£6,880.00",,Cherbourg,,5,,TRUE
+"GOLDENBERG, Mrs Nella",40,1st Class,17453,£89 2s 1d,"£6,880.00",,Cherbourg,,5,,TRUE
+"GOLDSCHMIDT, Mr George B.",71,1st Class,17754,£34 13s 1d,"£2,680.00",,Cherbourg,,,,FALSE
+"GRACIE, Colonel Archibald",53,1st Class,113780,£28 10s,"£2,200.00",,Southampton,Writer,B,,TRUE
+"GRAHAM, Miss Margaret Edith",19,1st Class,17582,£153 9s 3d,"£11,900.00",,Southampton,,3,,TRUE
+"GRAHAM, Mr George Edward",38,1st Class,112053,£30,"£2,320.00",,Southampton,Sales Manager,,147,FALSE
+"GRAHAM, Mrs Edith",59,1st Class,17582,£153 9s 3d,"£11,900.00",,Southampton,,3,,TRUE
+"GREENFIELD, Mr William Bertram",23,1st Class,17759,£63 7s 2d,"£4,890.00",,Cherbourg,,7,,TRUE
+"GREENFIELD, Mrs Blanche",45,1st Class,17759,£63 7s 2d,"£4,890.00",,Cherbourg,,7,,TRUE
+"GUGGENHEIM, Mr Benjamin",46,1st Class,17593,£79 4s,"£6,120.00",,Cherbourg,Businessman,,,FALSE
+"HARDER, Mr George Achilles",25,1st Class,11765,£55 8s 10d,"£4,280.00",,Cherbourg,Businessman,5,,TRUE
+"HARDER, Mrs Dorothy",21,1st Class,11765,£55 8s 10d,"£4,280.00",,Cherbourg,,5,,TRUE
+"HARPER, Mr Henry Sleeper",48,1st Class,17572,£76 14s 7d,"£5,930.00",,Cherbourg,Of Independent Means,3,,TRUE
+"HARPER, Mrs Myna",49,1st Class,17572,£76 14s 7d,"£5,930.00",,Cherbourg,,3,,TRUE
+"HARRINGTON, Mr Charles Henry",37,1st Class,113796,£42 8s,"£3,270.00",Servant,Southampton,Servant,,,FALSE
+"HARRIS, Mr Henry Birkhardt",45,1st Class,36973,£83 9s 6d,"£6,450.00",,Southampton,Theatre Manager,,,FALSE
+"HARRIS, Mrs Irene",35,1st Class,36973,£83 9s 6d,"£6,450.00",,Southampton,,D,,TRUE
+"HARRISON, Mr William Henry",45,1st Class,112059,,,Servant,Southampton,Secretary,,110,FALSE
+"HASSAB, Mr Hammad",27,1st Class,17572,£76 14s 7d,"£5,930.00",Servant,Cherbourg,Servant,3,,TRUE
+"HAWKSFORD, Mr Walter James",45,1st Class,16988,£30,"£2,320.00",,Southampton,Sales Manager,3,,TRUE
+"HAYS, Miss Margaret Bechstein",24,1st Class,11767,£83 3s 2d,"£6,420.00",,Cherbourg,,7,,TRUE
+"HAYS, Mr Charles Melville",55,1st Class,12749,£93 10s,"£7,220.00",,Southampton,Businessman,,307,FALSE
+"HAYS, Mrs Clara Jennings",52,1st Class,12749,£93 10s,"£7,220.00",,Southampton,,3,,TRUE
+"HEAD, Mr Christopher",42,1st Class,113038,£42 10s,"£3,280.00",,Southampton,Politician,,,FALSE
+"HILLIARD, Mr Herbert Henry",44,1st Class,17463,£51 17s 3d,"£4,000.00",,Southampton,Buyer,,,FALSE
+"HIPKINS, Mr William Edward",55,1st Class,680,£50,"£3,860.00",,Southampton,Manufacturer,,,FALSE
+"HIPPACH, Miss Jean Gertrude",17,1st Class,111361,£57 19s 7d,"£4,480.00",,Cherbourg,,4,,TRUE
+"HIPPACH, Mrs Ida Sophia",44,1st Class,111361,£57 19s 7d,"£4,480.00",,Cherbourg,,4,,TRUE
+"HOGEBOOM, Mrs Anna Louisa",51,1st Class,13502,£77 19s 2d,"£6,020.00",,Cherbourg,Of Independent Means,10,,TRUE
+"HOLVERSON, Mr Alexander Oskar",42,1st Class,113789,£52,"£4,020.00",,Southampton,,,38,FALSE
+"HOLVERSON, Mrs Mary Aline",35,1st Class,113789,£52,"£4,020.00",,Southampton,,8,,TRUE
+"HOMER, Mr Harry",40,1st Class,111426,£26 11s,"£2,050.00",,Southampton,Gambler,15,,TRUE
+"HOYT, Mr Frederick Maxfield",38,1st Class,19943,£100,"£7,720.00",,Southampton,,D,,TRUE
+"HOYT, Mr William Fisher",42,1st Class,17600,£30 13s 11d,"£2,370.00",,Cherbourg,Businessman,14,,FALSE
+"HOYT, Mrs Jane Anne",31,1st Class,19943,£100,"£7,720.00",,Southampton,,D,,TRUE
+"ICARD, Miss Amelie ""Amelia""",38,1st Class,113572,£80,"£6,180.00",Servant,Southampton,Personal Maid,6,,TRUE
+"ISHAM, Miss Ann Elizabeth",50,1st Class,17595,£28 14s 3d,"£2,220.00",,Cherbourg,,,,FALSE
+"ISMAY, Mr Joseph Bruce",49,1st Class,112058,,,,Southampton,Shipowner,C,,TRUE
+"JONES, Mr Charles Cresson",46,1st Class,694,£26,"£2,010.00",,Southampton,Estate Manager,,80,FALSE
+"JULIAN, Mr Henry Forbes",50,1st Class,113044,£26,"£2,010.00",,Southampton,Metallurgist,,,FALSE
+"KEEPING, Mr Edwin Herbert",33,1st Class,113503,£211 10s,"£16,300.00",Servant,Southampton,Servant,,45,FALSE
+"KENT, Mr Edward Austin",58,1st Class,11771,£29 14s,"£2,290.00",,Cherbourg,Architect,,258,FALSE
+"KENYON, Mr Frederick R.",41,1st Class,17464,£51 17s 3d,"£4,000.00",,Southampton,,,,FALSE
+"KENYON, Mrs Marion",31,1st Class,17464,£51 17s 3d,"£4,000.00",,Southampton,,8,,TRUE
+"KIMBALL, Mr Edwin Nelson Jr.",42,1st Class,11753,£52 11s 1d,"£4,060.00",,Southampton,,5,,TRUE
+"KIMBALL, Mrs Gertrude",45,1st Class,11753,£52 11s 1d,"£4,060.00",,Southampton,,5,,TRUE
+"KLABER, Mr Herman",,1st Class,113028,£26 11s,"£2,050.00",,Southampton,Businessman,,,FALSE
+"KREUCHEN, Miss Emilie",29,1st Class,24160,£211 6s 9d,"£16,300.00",Servant,Southampton,Personal Maid,2,,TRUE
+"LAMBERT-WILLIAMS, Mr Fletcher Fellows",,1st Class,113510,£35,"£2,700.00",,Southampton,Businessman,,,FALSE
+"LEADER, Dr Alice",49,1st Class,17465,£25 18s 7d,"£2,000.00",,Southampton,Doctor,8,,TRUE
+"LEROY, Miss Berthe",27,1st Class,17761,£106 8s 6d,"£8,220.00",Servant,Cherbourg,Personal Maid,2,,TRUE
+"LESUEUR, Mr Gustave J.",35,1st Class,17755,£512 6s 7d,"£39,600.00",Servant,Cherbourg,Servant,3,,TRUE
+"LEWY, Mr Ervin G.",31,1st Class,17612,£27 14s 5d,"£2,140.00",,Cherbourg,Jeweller,,,FALSE
+"LINDEBERG-LIND, Mr Erik Gustaf",42,1st Class,17475,£26 11s,"£2,050.00",,Southampton,Businessman,,,FALSE
+"LINDSTROM, Mrs Sigrid",55,1st Class,112377,£27 14s 5d,"£2,140.00",,Cherbourg,,6,,TRUE
+"LINES, Miss Mary Conover",16,1st Class,17592,£39 8s,"£3,040.00",,Cherbourg,,9,,TRUE
+"LINES, Mrs Elizabeth Lindsey",50,1st Class,17592,£39 8s,"£3,040.00",,Cherbourg,,9,,TRUE
+"LONG, Mr Milton Clyde",29,1st Class,113501,£30,"£2,320.00",,Southampton,,,126,FALSE
+"LONGLEY, Miss Gretchen Fiske",21,1st Class,13502,£77 19s 2d,"£6,020.00",,Cherbourg,,10,,TRUE
+"LORING, Mr Joseph Holland",30,1st Class,113801,£45 10s,"£3,510.00",,Southampton,,,,FALSE
+"LURETTE, Miss Eugenie Elise",59,1st Class,17569,£146 10s 5d,"£11,300.00",Servant,Cherbourg,Personal Maid,6,,TRUE
+"MADILL, Miss Georgette Alexandra",16,1st Class,24160,£211 6s 9d,"£16,300.00",,Southampton,,2,,TRUE
+"MAGUIRE, Mr John Edward",30,1st Class,110469,£26,"£2,010.00",,Southampton,,,,FALSE
+"MAIONI, Miss Roberta Elizabeth Mary",19,1st Class,110152,£86 10s,"£6,680.00",Servant,Southampton,Personal Maid,8,,TRUE
+"MARECHAL, Mr Pierre",28,1st Class,11774,£29 14s,"£2,290.00",,Cherbourg,Aviator,7,,TRUE
+"MARVIN, Mr Daniel Warner",18,1st Class,113773,£53 2s,"£4,100.00",,Southampton,Of Independent Means,,,FALSE
+"MARVIN, Mrs Mary Graham Carmichael",18,1st Class,113773,£53 2s,"£4,100.00",,Southampton,,10,,TRUE
+"MAYNE, Mlle Bertha Antonine",24,1st Class,17482,£49 10s 1d,"£3,820.00",,Cherbourg,Singer,6,,TRUE
+"MCCAFFRY, Mr Thomas Francis",46,1st Class,13050,£75 4s 10d,"£5,810.00",,Southampton,Banker,,292,FALSE
+"MCCARTHY, Mr Timothy J.",54,1st Class,17463,£51 17s 3d,"£4,000.00",,Southampton,Buyer,,175,FALSE
+"MCGOUGH, Mr James Robert",35,1st Class,17473,£26 5s 9d,"£2,030.00",,Southampton,Buyer,7,,TRUE
+"MEYER, Mr Edgar Joseph",28,1st Class,17604,£82 3s 5d,"£6,350.00",,Cherbourg,Mechanical Engineer,,,FALSE
+"MEYER, Mrs Leila",25,1st Class,17604,£82 3s 5d,"£6,350.00",,Cherbourg,,6,,TRUE
+"MILLET, Mr Francis Davis",65,1st Class,13509,£26 11s,"£2,050.00",,Cherbourg,Artist,,249,FALSE
+"MINAHAN, Dr William Edward",44,1st Class,19928,£90,"£6,950.00",,,Merchant,,230,FALSE
+"MINAHAN, Miss Daisy E.",33,1st Class,19928,£90,"£6,950.00",,,,14,,TRUE
+"MINAHAN, Mrs Lillian E.",37,1st Class,19928,£90,"£6,950.00",,,,14,,TRUE
+"MOCK, Mr Philipp Edmund",30,1st Class,13236,£57 15s,"£4,460.00",,Cherbourg,,11,,TRUE
+"MOLSON, Mr Harry Markland",55,1st Class,113787,£30 10s,"£2,360.00",,Southampton,Businessman,,,FALSE
+"MOORE, Mr Clarence Bloomfield",47,1st Class,113796,£42 8s,"£3,270.00",,Southampton,Businessman,,,FALSE
+"NATSCH, Mr Charles",36,1st Class,17596,£29 14s,"£2,290.00",,Cherbourg,,,,FALSE
+"NEWELL, Miss Madeleine",31,1st Class,35273,£113 5s 6d,"£8,750.00",,Cherbourg,,6,,TRUE
+"NEWELL, Miss Marjorie Anne",23,1st Class,35273,£113 5s 6d,"£8,750.00",,Cherbourg,,6,,TRUE
+"NEWELL, Mr Arthur Webster",58,1st Class,35273,£113 5s 6d,"£8,750.00",,Cherbourg,,,122,FALSE
+"NEWSOM, Miss Helen Monypeny",19,1st Class,11752,£26 5s 8d,"£2,030.00",,Southampton,,5,,TRUE
+"NICHOLSON, Mr Arthur Ernest",64,1st Class,693,£26,"£2,010.00",,Southampton,,,263,FALSE
+"NOURNEY, Mr Alfred",20,1st Class,2166,£13 17s 3d,"£1,070.00",,Cherbourg,Gentleman,7,,TRUE
+"OLIVA Y OCANA, Dona Fermina",39,1st Class,17758,£108 18s,"£8,410.00",Servant,Cherbourg,Personal Maid,8,,TRUE
+"OMONT, Mr Alfred Fernand",29,1st Class,12998,£25 14s 10d,"£1,990.00",,Cherbourg,Dealer,7,,TRUE
+"OSTBY, Miss Helen Ragnhild",22,1st Class,113509,£61 19s 7d,"£4,790.00",,Southampton,,5,,TRUE
+"OSTBY, Mr Engelhart Cornelius",64,1st Class,113509,£61 19s 7d,"£4,790.00",,Southampton,Jeweller,,234,FALSE
+"OVIES Y RODRIGUEZ, Mr Servando Jose Florentino",36,1st Class,17562,£27 14s 5d,"£2,140.00",,Cherbourg,Merchant,,189,FALSE
+"PARR, Mr William Henry Marsh",29,1st Class,112052,,,H&W Guarantee Group,Belfast,Electrician,,,FALSE
+"PARTNER, Mr Austin",40,1st Class,113043,£28 10s,"£2,200.00",,Southampton,Stockbroker,,166,FALSE
+"PAYNE, Mr Vivian Ponsonby",22,1st Class,12749,£93 10s,"£7,220.00",Servant,Southampton,Clerk,,,FALSE
+"PENASCO Y CASTELLANA, Mr Victor",24,1st Class,17758,£108 18s,"£8,410.00",,Cherbourg,Of Independent Means,,,FALSE
+"PENASCO Y CASTELLANA, Mrs Maria Josefa Perezde Soto y Vallejo",22,1st Class,17758,£108 18s,"£8,410.00",,Cherbourg,Of Independent Means,8,,TRUE
+"PEARS, Mr Thomas Clinton",29,1st Class,113776,£66 12s,"£5,140.00",,Southampton,Of Independent Means,,,FALSE
+"PEARS, Mrs Edith",22,1st Class,113776,£66 12s,"£5,140.00",,Southampton,,8,,TRUE
+"PERREAULT, Miss Mary Anne",33,1st Class,12749,£93 10s,"£7,220.00",Servant,Southampton,Personal Maid,3,,TRUE
+"PEUCHEN, Major Arthur Godfrey",52,1st Class,113786,£30 10s,"£2,360.00",,Southampton,,6,,TRUE
+"PORTER, Mr Walter Chamberlain",46,1st Class,110465,£52,"£4,020.00",,Southampton,,,207,FALSE
+"POTTER, Mrs Lily Alexenia",56,1st Class,11767,£83 3s 2d,"£6,420.00",,Cherbourg,,7,,TRUE
+"REUCHLIN, Mr Jonkheer Johan George",38,1st Class,19972,,,,Cherbourg,,,,FALSE
+"RHEIMS, Mr George Alexander Lucien",36,1st Class,17607,£39 12s,"£3,060.00",,Cherbourg,,A,,TRUE
+"RIGHINI, Mr Sante",22,1st Class,17760,£135 12s 8d,"£10,500.00",Servant,Cherbourg,Servant,,232,FALSE
+"ROBBINS, Mr Victor",42,1st Class,17757,£247 10s 6d,"£19,100.00",Servant,Cherbourg,Servant,,,FALSE
+"ROBERT, Mrs Elisabeth Walton",43,1st Class,24160,£211 6s 9d,"£16,300.00",,Southampton,Of Independent Means,2,,TRUE
+"ROEBLING, Mr Washington Augustus II",31,1st Class,17590,£50 9s 11d,"£3,900.00",,Southampton,Of Independent Means,,,FALSE
+"ROMAINE, Mr Charles Hallace",45,1st Class,111428,£26 11s,"£2,050.00",,Southampton,,9,,TRUE
+"ROOD, Mr Hugh Roscoe",38,1st Class,113767,£50,"£3,860.00",,Southampton,,,,FALSE
+"ROSENBAUM, Miss Edith Louise",34,1st Class,17613,£27 14s 5d,"£2,140.00",,Cherbourg,Journalist,11,,TRUE
+"ROSENSHINE, Mr George",46,1st Class,17585,£79 4d,"£6,120.00",,Cherbourg,Merchant,,16,FALSE
+"ROSS, Mr John Hugo",36,1st Class,13049,£40 2s 6d,"£3,100.00",,Southampton,,,,FALSE
+"ROTHES, Lucy Noel Martha, Countess of",33,1st Class,110152,£86 10s,"£6,680.00",,Southampton,Of Independent Means,8,,TRUE
+"ROTHSCHILD, Mr Martin",46,1st Class,17603,£59 8s,"£4,590.00",,Cherbourg,,,,FALSE
+"ROTHSCHILD, Mrs Elizabeth Jane Anne",54,1st Class,17603,£59 8s,"£4,590.00",,Cherbourg,,6,,TRUE
+"ROWE, Mr Alfred G.",59,1st Class,113790,£26 11s,"£2,050.00",,Southampton,Landowner,,109,FALSE
+"RYERSON, Master John Borie",13,1st Class,17608,£262 7s 6d,"£20,300.00",,Cherbourg,,4,,TRUE
+"RYERSON, Miss Emily Borie",18,1st Class,17608,£262 7s 6d,"£20,300.00",,Cherbourg,,4,,TRUE
+"RYERSON, Miss Susan Parker ""Suzette""",21,1st Class,17608,£262 7s 6d,"£20,300.00",,Cherbourg,,4,,TRUE
+"RYERSON, Mr Arthur Larned",61,1st Class,17608,£262 7s 6d,"£20,300.00",,Cherbourg,,,,FALSE
+"RYERSON, Mrs Emily Maria",48,1st Class,17608,£262 7s 6d,"£20,300.00",,Cherbourg,,4,,TRUE
+"SAGESSER, Mlle Emma",24,1st Class,17477,£69 6s,"£5,350.00",Servant,Cherbourg,Personal Maid,9,,TRUE
+"SAALFELD, Mr Adolphe",47,1st Class,19988,£30 10s,"£2,360.00",,Southampton,Businessman,3,,TRUE
+"SALOMON, Mr Abraham Lincoln",43,1st Class,111163,£26,"£2,010.00",,Cherbourg,Businessman,1,,TRUE
+"SCHABERT, Mrs Emma",35,1st Class,13236,£57 15s,"£4,460.00",,Cherbourg,,11,,TRUE
+"SERREPLAN, Miss Auguste",30,1st Class,113798,£31,"£2,390.00",Servant,Southampton,Personal Maid,4,,TRUE
+"SEWARD, Mr Frederic Kimber",34,1st Class,113794,£26 11s,"£2,050.00",,Southampton,Lawyer,7,,TRUE
+"SHUTES, Miss Elizabeth Weed",40,1st Class,17582,£153 9s 3d,"£11,900.00",Servant,Southampton,Governess,3,,TRUE
+"SILVERTHORNE, Mr Spencer Victor",35,1st Class,17475,£26 5s 9d,"£2,030.00",,Southampton,,5,,TRUE
+"SILVEY, Mr William Baird",50,1st Class,13507,£55 18s,"£4,320.00",,Cherbourg,,,,FALSE
+"SILVEY, Mrs Alice",39,1st Class,13507,£55 18s,"£4,320.00",,Cherbourg,,11,,TRUE
+"SIMONIUS-BLUMER, Mr Colonel (Oberst) Alfons",56,1st Class,13213,£35 10s,"£2,740.00",,Southampton,Banker,3,,TRUE
+"SLOPER, Mr William Thompson",28,1st Class,113788,£35 10s,"£2,740.00",,Southampton,Stockbroker,7,,TRUE
+"SMART, Mr John Montgomery",56,1st Class,113792,£26 11s,"£2,050.00",,Southampton,,,,FALSE
+"SMITH, Mr James Clinch",56,1st Class,17764,£30 13s 11d,"£2,370.00",,Cherbourg,Military,,,FALSE
+"SMITH, Mr Lucian Philip",24,1st Class,13695,£60,"£4,630.00",,Cherbourg,,,,FALSE
+"SMITH, Mr Richard William",,1st Class,113056,£26,"£2,010.00",,Southampton,,,,FALSE
+"SMITH, Mrs Mary Eloise",18,1st Class,13695,£60,"£4,630.00",,Cherbourg,,6,,TRUE
+"SNYDER, Mr John Pillsbury",24,1st Class,21228,£82 5s 4d,"£6,350.00",,Southampton,,7,,TRUE
+"SNYDER, Mrs Nelle",23,1st Class,21228,£82 5s 4d,"£6,350.00",,Southampton,,7,,TRUE
+"SPEDDEN, Master Robert Douglas",6,1st Class,16966,£134 10s,"£10,400.00",,Cherbourg,,3,,TRUE
+"SPEDDEN, Mr Frederic Oakley",45,1st Class,16966,£134 10s,"£10,400.00",,Cherbourg,,3,,TRUE
+"SPEDDEN, Mrs Margaretta Corning",39,1st Class,16966,£134 10s,"£10,400.00",,Cherbourg,,3,,TRUE
+"SPENCER, Mr William Augustus",57,1st Class,17569,£146 10s 5d,"£11,300.00",,Cherbourg,,,,FALSE
+"SPENCER, Mrs Marie Eugenie",45,1st Class,17569,£146 10s 5d,"£11,300.00",,Cherbourg,,6,,TRUE
+"STAHELIN-MAEGLIN, Dr Max",32,1st Class,13214,£30 10s,"£2,360.00",,Southampton,Lawyer,3,,TRUE
+"STEAD, Mr William Thomas",62,1st Class,113514,£26 11s,"£2,050.00",,Southampton,Journalist,,,FALSE
+"STENGEL, Mr Charles Emil Henry",54,1st Class,11778,£55 8s 10d,"£4,280.00",,Cherbourg,Businessman,1,,TRUE
+"STENGEL, Mrs Annie May",44,1st Class,11778,£55 8s 10d,"£4,280.00",,Cherbourg,,5,,TRUE
+"STEPHENSON, Mrs Martha",52,1st Class,36947,£78 5s 4d,"£6,040.00",,Cherbourg,,4,,TRUE
+"STEWART, Mr Albert A.",54,1st Class,17605,£27 14s 5d,"£2,140.00",,Cherbourg,Businessman,,,FALSE
+"STONE, Mrs Martha Evelyn",62,1st Class,113572,£80,"£6,180.00",,Southampton,,6,,TRUE
+"STRAUS, Mr Isidor",67,1st Class,17483,£221 15s 7d,"£17,100.00",,Southampton,Businessman,,96,FALSE
+"STRAUS, Mrs Rosalie Ida",63,1st Class,17483,£221 15s 7d,"£17,100.00",,Southampton,,,,FALSE
+"SUTTON, Mr Frederick",61,1st Class,36963,£32 6s 5d,"£2,500.00",,Southampton,Property Developer / Real Estate,,46,FALSE
+"SWIFT, Mrs Margaret Welles",46,1st Class,17466,£25 18s 7d,"£2,000.00",,Southampton,,8,,TRUE
+"TAUSSIG, Miss Ruth",18,1st Class,110413,£79 13s,"£6,150.00",,Southampton,,8,,TRUE
+"TAUSSIG, Mr Emil",52,1st Class,110413,£79 13s,"£6,150.00",,Southampton,,,,FALSE
+"TAUSSIG, Mrs Tillie",39,1st Class,110413,£79 13s,"£6,150.00",,Southampton,,8,,TRUE
+"TAYLOR, Mr Elmer Zebley",48,1st Class,19996,£52,"£4,020.00",,Southampton,Manufacturer,5,,TRUE
+"TAYLOR, Mrs Juliet Cummins",49,1st Class,19996,£52,"£4,020.00",,Southampton,,5,,TRUE
+"THAYER, Mr John Borland",49,1st Class,17421,£110 17s 8d,"£8,560.00",,Cherbourg,Businessman,,,FALSE
+"THAYER, Mr John Borland jr",17,1st Class,17421,£110 17s 8d,"£8,560.00",,Cherbourg,Scholar,B,,TRUE
+"THAYER, Mrs Marian Longstreth",39,1st Class,17421,£110 17s 8d,"£8,560.00",,Cherbourg,,4,,TRUE
+"THORNE, Miss Gertrude Maybelle",38,1st Class,17585,£80 4d,"£6,190.00",,Cherbourg,,D,,TRUE
+"TUCKER, Mr Gilbert Milligan jr",31,1st Class,2543,£28 10s 9d,"£2,200.00",,Cherbourg,,7,,TRUE
+"URUCHURTU, Don. Manuel Ramirez",39,1st Class,17601,£27 14s 5d,"£2,140.00",,Cherbourg,Lawyer,,,FALSE
+"VAN DER HOEF, Mr Wyckoff",61,1st Class,111240,£33 10s,"£2,590.00",,Belfast,Businessman,,245,FALSE
+"WALKER, Mr William Anderson",48,1st Class,36967,£34 5d,"£2,640.00",,Southampton,,,,FALSE
+"WARD, Miss Annie Moore",38,1st Class,17755,£512 6s 7d,"£39,600.00",Servant,Cherbourg,Personal Maid,3,,TRUE
+"WARREN, Mr Frank Manley",63,1st Class,110813,£75 5s,"£5,810.00",,Cherbourg,,,,FALSE
+"WARREN, Mrs Anna Sophia",60,1st Class,110813,£75 5s,"£5,810.00",,Cherbourg,,5,,TRUE
+"WEIR, Colonel John",59,1st Class,113800,£26 11s,"£2,050.00",,Southampton,Military,,,FALSE
+"WHITE, Mr Percival Wayland",54,1st Class,35281,£77 5s 9d,"£5,970.00",,Southampton,Manufacturer,,,FALSE
+"WHITE, Mr Richard Frasar",21,1st Class,35281,£77 5s 9d,"£5,970.00",,Southampton,,,169,FALSE
+"WHITE, Mrs Ella",55,1st Class,17760,£135 12s 8d,"£10,500.00",,Cherbourg,,8,,TRUE
+"WICK, Miss Mary Natalie",31,1st Class,36928,£164 17s 4d,"£12,700.00",,Southampton,,8,,TRUE
+"WICK, Mr George Dennick",57,1st Class,36928,£164 17s 4d,"£12,700.00",,Southampton,,,,FALSE
+"WICK, Mrs Mary",45,1st Class,36928,£164 17s 4d,"£12,700.00",,Southampton,,8,,TRUE
+"WIDENER, Mr George Dunton",50,1st Class,113503,£211 10s,"£16,300.00",,Southampton,Banker,,,FALSE
+"WIDENER, Mr Harry Elkins",27,1st Class,113503,£211 10s,"£16,300.00",,Southampton,Bibliophile,,,FALSE
+"WIDENER, Mrs Eleanor",50,1st Class,113503,£211 10s,"£16,300.00",,Southampton,,4,,TRUE
+"WILLARD, Miss Constance",21,1st Class,113795,£26 11s,"£2,050.00",,Southampton,,8,,TRUE
+"WILLIAMS, Mr Charles Duane",51,1st Class,17597,£61 7s 7d,"£4,740.00",,Cherbourg,Lawyer,,,FALSE
+"WILLIAMS, Mr Richard Norris II",21,1st Class,17597,£61 7s 7d,"£4,740.00",,Cherbourg,Sportsman,A,,TRUE
+"WILSON, Miss Helen Alice",31,1st Class,16966,£134 10s,"£10,400.00",Servant,Cherbourg,Personal Maid,3,,TRUE
+"WOOLNER, Mr Hugh",45,1st Class,19947,£35 10s,"£2,740.00",,Southampton,Businessman,D,,TRUE
+"WRIGHT, Mr George",62,1st Class,113807,£26 11s,"£2,050.00",,Southampton,Businessman,,,FALSE
+"YOUNG, Miss Marie Grice",36,1st Class,17760,£135 12s 8d,"£10,500.00",,Cherbourg,,8,,TRUE
+"ABELSON, Mr Samuel",30,2nd Class,3381,£24,"£1,850.00",,Cherbourg,,,,FALSE
+"ABELSON, Mrs",28,2nd Class,3381,£24,"£1,850.00",,Cherbourg,,10,,TRUE
+"ALDWORTH, Mr Charles Augustus",30,2nd Class,248744,£13,"£1,000.00",Servant,Southampton,Chauffeur,,,FALSE
+"ANDREW, Mr Edgar Samuel",17,2nd Class,231945,£11 10s,£888.00,,Southampton,,,,FALSE
+"ANDREW, Mr Frank Thomas",25,2nd Class,34050,£10 10s,£811.00,,Southampton,Miner,,,FALSE
+"ANGLE, Mr William A.",32,2nd Class,226875,£26,"£2,010.00",,Southampton,,,,FALSE
+"ANGLE, Mrs Florence ""Mary"" Agnes",36,2nd Class,226875,£26,"£2,010.00",,Southampton,,11,,TRUE
+"ASHBY, Mr John",57,2nd Class,244346,£13,"£1,000.00",,Southampton,,,,FALSE
+"BAILEY, Mr Percy Andrew",15,2nd Class,29108,£11 10s,£888.00,,Southampton,Butcher's Assistant,,,FALSE
+"BAINBRIGGE, Mr Charles Robert",23,2nd Class,31030,£10 10s,£811.00,,Southampton,Horse Trainer,,,FALSE
+"BALL, Mrs Ada E.",36,2nd Class,28551,£13,"£1,000.00",,Southampton,,10,,TRUE
+"BANFIELD, Mr Frederick James",28,2nd Class,34068,£10 10s,£811.00,,Southampton,Miner,,,FALSE
+"BATEMAN, Fr Robert James",51,2nd Class,1166,£12 10s 6d,£967.00,,Southampton,Priest / Minister,,174,FALSE
+"BEANE, Mr Edward",32,2nd Class,2908,£26,"£2,010.00",,Southampton,,13,,TRUE
+"BEANE, Mrs Ethel",19,2nd Class,2908,£26,"£2,010.00",,Southampton,,13,,TRUE
+"BEAUCHAMP, Mr Henry James",28,2nd Class,244358,£26,"£2,010.00",,Southampton,,,,FALSE
+"BECKER, Master Richard F.",1,2nd Class,230136,£39,"£3,010.00",,Southampton,,11,,TRUE
+"BECKER, Miss Marion Louise",4,2nd Class,230136,£39,"£3,010.00",,Southampton,,11,,TRUE
+"BECKER, Miss Ruth Elizabeth",12,2nd Class,230136,£39,"£3,010.00",,Southampton,,13,,TRUE
+"BECKER, Mrs Nellie E.",35,2nd Class,230136,£39,"£3,010.00",,Southampton,,11,,TRUE
+"BEESLEY, Mr Lawrence",34,2nd Class,248698,£13,"£1,000.00",,Southampton,Teacher,13,,TRUE
+"BENTHAM, Miss Lillian W.",19,2nd Class,28404,£13,"£1,000.00",,Southampton,,12,,TRUE
+"BERRIMAN, Mr William John",23,2nd Class,28425,£13,"£1,000.00",,Southampton,,,,FALSE
+"BOTSFORD, Mr William Hull",25,2nd Class,237670,£13,"£1,000.00",,Southampton,,,,FALSE
+"BOWENUR, Mr Solomon",42,2nd Class,211535,£13,"£1,000.00",,Southampton,Merchant,,,FALSE
+"BRACKEN, Mr James H.",29,2nd Class,220367,£13,"£1,000.00",,Southampton,Stockman,,,FALSE
+"BRAILEY, Mr W. Theodore Ronald",24,2nd Class,250654,,,Musician,Southampton,Musician,,,FALSE
+"BRICOUX, Mr Roger Marie",20,2nd Class,250654,,,Musician,Southampton,Musician,,,FALSE
+"BRITO, Mr Jose Joaquim de",32,2nd Class,244360,£13,"£1,000.00",,Southampton,,,,FALSE
+"BROWN, Miss Amelia Mary ""Mildred""",18,2nd Class,248733,£13,"£1,000.00",Servant,Southampton,Cook (Personal),11,,TRUE
+"BROWN, Miss Edith Eileen",15,2nd Class,29750,£39,"£3,010.00",,Southampton,Scholar,14,,TRUE
+"BROWN, Mr Thomas William Solomon",60,2nd Class,29750,£39,"£3,010.00",,Southampton,Hotelier,,,FALSE
+"BROWN, Mrs Elizabeth Catherine",40,2nd Class,29750,£39,"£3,010.00",,Southampton,,14,,TRUE
+"BRYHL, Miss Dagmar Jenny Ingeborg",20,2nd Class,236853,£26,"£2,010.00",,Southampton,,12,,TRUE
+"BRYHL, Mr Kurt Arnold Gottfrid",25,2nd Class,236853,£26,"£2,010.00",,Southampton,,,,FALSE
+"BUSS, Miss Kate",36,2nd Class,27849,£13,"£1,000.00",,Southampton,,9,,TRUE
+"BUTLER, Mr Reginald Fenton",25,2nd Class,234686,£13,"£1,000.00",,Southampton,Mechanical Engineer,,97,FALSE
+"BYLES, Fr Thomas Roussel Davids",42,2nd Class,244310,£13,"£1,000.00",,Southampton,Priest / Minister,,,FALSE
+"BYSTROM, Mrs Karolina",42,2nd Class,236852,£13,"£1,000.00",,Southampton,,,,TRUE
+"CALDWELL, Master Alden Gates",0,2nd Class,248738,£29,"£2,240.00",,Southampton,,13,,TRUE
+"CALDWELL, Mr Albert Francis",26,2nd Class,248738,£29,"£2,240.00",,Southampton,,13,,TRUE
+"CALDWELL, Mrs Sylvia Mae",28,2nd Class,248738,£29,"£2,240.00",,Southampton,,13,,TRUE
+"CAMERON, Miss Clear Annie",35,2nd Class,13528,£21,"£1,620.00",,Southampton,,14,,TRUE
+"CAMPBELL, Mr William Henry",21,2nd Class,239853,,,H&W Guarantee Group,Belfast,,,,FALSE
+"CARBINES, Mr William",19,2nd Class,28424,£13,"£1,000.00",,Southampton,Miner,,18,FALSE
+"CARTER, Fr Ernest Courtenay",54,2nd Class,244252,£26,"£2,010.00",,Southampton,Priest / Minister,,,FALSE
+"CARTER, Mrs Lilian",45,2nd Class,244252,£26,"£2,010.00",,Southampton,,,,FALSE
+"CHAPMAN, Mr Charles Henry",52,2nd Class,248731,£13 10s,"£1,040.00",,Southampton,,,130,FALSE
+"CHAPMAN, Mr John Henry",36,2nd Class,29037,£26,"£2,010.00",,Southampton,Farmer,,17,FALSE
+"CHAPMAN, Mrs Sara Elizabeth",28,2nd Class,29037,£26,"£2,010.00",,Southampton,,,,FALSE
+"CHRISTY, Miss Rachel Julie Cohen",25,2nd Class,237789,£30,"£2,320.00",,Southampton,,12,,TRUE
+"CHRISTY, Mrs Alice Frances",45,2nd Class,237789,£30,"£2,320.00",,Southampton,,12,,TRUE
+"CLARKE, Mr Charles Valentine",29,2nd Class,2003,£26,"£2,010.00",,Southampton,Dairy Worker,,,FALSE
+"CLARKE, Mr John Frederick Preston",30,2nd Class,250654,,,Musician,Southampton,Musician,,202,FALSE
+"CLARKE, Mrs Ada Maria",28,2nd Class,2003,£27,"£2,080.00",,Southampton,,14,,TRUE
+"COLERIDGE, Mr Reginald Charles",29,2nd Class,14263,£10 10s,£811.00,,Southampton,Advertising Consultant,,,FALSE
+"COLLANDER, Mr Erik Gustaf",27,2nd Class,248740,£13,"£1,000.00",,Southampton,,,,FALSE
+"COLLETT, Mr Sidney Clarence Stuart",25,2nd Class,28034,£10 10s,£811.00,,Southampton,,9,,TRUE
+"COLLYER, Miss Marjorie Charlotte ""Lottie""",8,2nd Class,31921,£26 5s,"£2,030.00",,Southampton,,14,,TRUE
+"COLLYER, Mr Harvey",31,2nd Class,31921,£26 5s,"£2,030.00",,Southampton,Grocer,,,FALSE
+"COLLYER, Mrs Charlotte Annie",31,2nd Class,31921,£26 5s,"£2,030.00",,Southampton,,14,,TRUE
+"COOK, Mrs Selena",22,2nd Class,14266,£10 10s,£811.00,,Southampton,,14,,TRUE
+"CORBETT, Mrs Irene",30,2nd Class,237249,£13,"£1,000.00",,Southampton,Musician,,,FALSE
+"COREY, Mrs Mary Phyllis Elizabeth",30,2nd Class,13534,£21,"£1,620.00",,Southampton,,,,FALSE
+"COTTERILL, Mr Henry ""Harry""",20,2nd Class,29107,£11 10s,£888.00,,Southampton,Carpenter / Joiner,,,FALSE
+"CUNNINGHAM, Mr Alfred Fleming",21,2nd Class,239853,,,H&W Guarantee Group,Belfast,Fitter,,,FALSE
+"DAVIES, Master John Morgan jr",8,2nd Class,33112,£36 15s,"£2,840.00",,Southampton,,14,,TRUE
+"DAVIES, Mr Charles Henry",21,2nd Class,14879,£73 10s,"£5,680.00",,Southampton,,,,FALSE
+"DAVIES, Mrs Elizabeth Agnes Mary",48,2nd Class,33112,£36 15s,"£2,840.00",,Southampton,,14,,TRUE
+"DAVIS, Miss Mary",28,2nd Class,237668,£13,"£1,000.00",,Southampton,,13,,TRUE
+"DEACON, Mr Percy William",20,2nd Class,14879,£73 10s,"£5,680.00",,Southampton,,,,FALSE
+"DEL CARLO, Mr Sebastiano",29,2nd Class,2167,£27 14s 5d,"£2,140.00",,Cherbourg,,,295,FALSE
+"DEL CARLO, Mrs Argene",24,2nd Class,2167,£27 14s 5d,"£2,140.00",,Cherbourg,,11,,TRUE
+"DENBUOY, Mr Albert (""Herbert"")",25,2nd Class,31029,£31 10s,"£2,430.00",,Southampton,,,,FALSE
+"DIBDEN, Mr William",18,2nd Class,14879,£73 10s,"£5,680.00",,Southampton,,,,FALSE
+"DOLING, Miss Elsie",18,2nd Class,231919,£23,"£1,780.00",,Southampton,,,,TRUE
+"DOLING, Mrs Ada Julia",34,2nd Class,231919,£23,"£1,780.00",,Southampton,,,,TRUE
+"DOUTON, Mr William Joseph",55,2nd Class,28403,£26,"£2,010.00",,Southampton,Quarryman,,,FALSE
+"DREW, Master Marshall Brines",8,2nd Class,28220,£32 10s,"£2,510.00",,Southampton,,10,,TRUE
+"DREW, Mr James Vivian",42,2nd Class,28220,£32 10s,"£2,510.00",,Southampton,,,,FALSE
+"DREW, Mrs Lulu Thorne",34,2nd Class,28220,£32 10s,"£2,510.00",,Southampton,,10,,TRUE
+"DURAN Y MORE, Miss Asuncion",27,2nd Class,2149,£13 17s 2d,"£1,070.00",,Cherbourg,,12,,TRUE
+"DURAN Y MORE, Miss Florentina",30,2nd Class,2148,£13 17s 2d,"£1,070.00",,Cherbourg,,12,,TRUE
+"EITEMILLER, Mr George Floyd",23,2nd Class,29751,£13,"£1,000.00",,Southampton,,,,FALSE
+"ENANDER, Mr Ingvar",21,2nd Class,236854,£13,"£1,000.00",,Southampton,,,,FALSE
+"FAHLSTROM, Mr Arne Joma",18,2nd Class,236171,£13,"£1,000.00",,Southampton,,,,FALSE
+"FAUNTHORPE, Mr Harry Bartram",40,2nd Class,2926,£26,"£2,010.00",,Southampton,,,286,FALSE
+"FILLBROOK, Mr Joseph Charles",18,2nd Class,15185,£10 10s,£811.00,,Southampton,Painter & Decorator,,,FALSE
+"FOX, Mr Stanley Hubert",38,2nd Class,229236,£13,"£1,000.00",,Southampton,,,236,FALSE
+"FROST, Mr Anthony Wood",37,2nd Class,239854,,,H&W Guarantee Group,Belfast,Fitter,,,FALSE
+"FUNK, Miss Annie Clemmer",38,2nd Class,237671,£13,"£1,000.00",,Southampton,Missionary,,,FALSE
+"FYNNEY, Mr Joseph J.",35,2nd Class,239865,£26,"£2,010.00",,Southampton,,,322,FALSE
+"GALE, Mr Harry",38,2nd Class,28664,£21,"£1,620.00",,Southampton,Miner,,,FALSE
+"GALE, Mr Shadrach",33,2nd Class,28664,£21,"£1,620.00",,Southampton,Miner,,,FALSE
+"GARSIDE, Miss Ethel",34,2nd Class,243880,£13,"£1,000.00",,Southampton,,12,,TRUE
+"GASKELL, Mr Alfred",16,2nd Class,239865,£26,"£2,010.00",,Southampton,,,,FALSE
+"GAVEY, Mr Laurence",26,2nd Class,31028,£10 10s,£811.00,,Southampton,,,,FALSE
+"GILBERT, Mr William",47,2nd Class,30769,£10 10s,£811.00,,Southampton,,,,FALSE
+"GILES, Mr Edgar",21,2nd Class,28133,£11 10s,£888.00,,Southampton,Carpenter / Joiner,,,FALSE
+"GILES, Mr Frederick Edward",20,2nd Class,28134,£11 10s,£888.00,,Southampton,Carpenter / Joiner,,,FALSE
+"GILES, Mr Ralph",24,2nd Class,248726,£13 10s,"£1,040.00",,Southampton,,,297,FALSE
+"GILL, Mr John William",24,2nd Class,233866,£13,"£1,000.00",,Southampton,Chauffeur,,155,FALSE
+"GILLESPIE, Mr William Henry",34,2nd Class,12233,£13,"£1,000.00",,Southampton,Clerk,,,FALSE
+"GIVARD, Mr Hans Kristensen",30,2nd Class,250646,£13,"£1,000.00",,Southampton,,,305,FALSE
+"GREENBERG, Mr Samuel",52,2nd Class,250647,£13,"£1,000.00",,Southampton,,,19,FALSE
+"HAMALAINEN, Master Viljo Unto Johannes",0,2nd Class,250649,£14 10s,"£1,120.00",,Southampton,,4,,TRUE
+"HAMALAINEN, Mrs Anna",23,2nd Class,250649,£14 10s,"£1,120.00",,Southampton,,4,,TRUE
+"HALE, Mr Reginald",30,2nd Class,250653,£13,"£1,000.00",,Southampton,Gardener,,75,FALSE
+"HARBECK, Mr William H.",44,2nd Class,248746,£13,"£1,000.00",,Southampton,Cinematographer,,35,FALSE
+"HARPER, Miss Annie Jessie",6,2nd Class,248727,£33,"£2,550.00",,Southampton,,11,,TRUE
+"HARPER, Rev. John",39,2nd Class,248727,£33,"£2,550.00",,Southampton,Priest / Minister,,,FALSE
+"HARRIS, Mr George",62,2nd Class,752,£10 10s,£811.00,,Southampton,,15,,TRUE
+"HARRIS, Mr Walter",30,2nd Class,14208,£10 10s,£811.00,,Southampton,,,,FALSE
+"HART, Miss Eva Miriam",7,2nd Class,13529,£26 5s,"£2,030.00",,Southampton,,14,,TRUE
+"HART, Mr Benjamin",47,2nd Class,13529,£26 5s,"£2,030.00",,Southampton,Builder,,,FALSE
+"HART, Mrs Esther Ada",48,2nd Class,13529,£26 5s,"£2,030.00",,Southampton,,14,,TRUE
+"HARTLEY, Mr Wallace Henry",33,2nd Class,250654,,,Musician,Southampton,Musician,,224,FALSE
+"HERMAN, Miss Alice",24,2nd Class,220845,£65,"£5,020.00",,Southampton,,9,,TRUE
+"HERMAN, Miss Kate",24,2nd Class,220845,£65,"£5,020.00",,Southampton,,9,,TRUE
+"HERMAN, Mr Samuel",49,2nd Class,220845,£65,"£5,020.00",,Southampton,Farmer,,,FALSE
+"HERMAN, Mrs Jane",48,2nd Class,220845,£65,"£5,020.00",,Southampton,,9,,TRUE
+"HEWLETT, Mrs Mary Dunbar",56,2nd Class,248706,£16,"£1,240.00",,Southampton,,13,,TRUE
+"HICKMAN, Mr Leonard Mark",24,2nd Class,14879,£73 10s,"£5,680.00",,Southampton,,,,FALSE
+"HICKMAN, Mr Lewis",30,2nd Class,14879,£73 10s,"£5,680.00",,Southampton,,,256,FALSE
+"HICKMAN, Mr Stanley George",20,2nd Class,14879,£73 10s,"£5,680.00",,Southampton,,,,FALSE
+"HILTUNEN, Miss Marta",18,2nd Class,250650,£13,"£1,000.00",,Southampton,,,,FALSE
+"HOCKING, Miss Ellen ""Nellie""",20,2nd Class,29105,£23,"£1,780.00",,Southampton,,4,,TRUE
+"HOCKING, Mr Richard George",23,2nd Class,29104,£11 10s,£888.00,,Southampton,Baker,,,FALSE
+"HOCKING, Mr Samuel James Metcalfe",36,2nd Class,242963,£13,"£1,000.00",,Southampton,Painter & Decorator,,,FALSE
+"HOCKING, Mrs Elizabeth ""Eliza""",54,2nd Class,29105,£23,"£1,780.00",,Southampton,,4,,TRUE
+"HODGES, Mr Henry Price",50,2nd Class,250643,£13,"£1,000.00",,Southampton,Musical Instrument Vendor,,149,FALSE
+"HOLD, Mr Stephen",44,2nd Class,26707,£26,"£2,010.00",,Southampton,Clerk,,,FALSE
+"HOLD, Mrs Annie Margaret",29,2nd Class,26707,£26,"£2,010.00",,Southampton,,10,,TRUE
+"HOOD, Mr Ambrose Jr",22,2nd Class,14879,£73 10s,"£5,680.00",,Southampton,,,,FALSE
+"HOSONO, Mr Masabumi",41,2nd Class,237798,£13,"£1,000.00",,Southampton,Civil Servant,10,,TRUE
+"HOWARD, Mr Benjamin",63,2nd Class,24065,£26,"£2,010.00",,Southampton,Retired,,,FALSE
+"HOWARD, Mrs Ellen Truelove",60,2nd Class,24065,£26,"£2,010.00",,Southampton,,,,FALSE
+"HUME, Mr John Law",29,2nd Class,250654,,,Musician,Southampton,Musician,,193,FALSE
+"HUNT, Mr George Henry",33,2nd Class,1585,£12 5s 6d,£948.00,,Southampton,Gardener,,,FALSE
+"ILETT, Miss Bertha",17,2nd Class,14885,£10 10s,£811.00,,Southampton,,,,TRUE
+"JACOBSOHN, Mr Sidney Samuel",40,2nd Class,243847,£27,"£2,080.00",,Southampton,,,,FALSE
+"JACOBSOHN, Mrs Amy Frances Christy",24,2nd Class,243847,£27,"£2,080.00",,Southampton,,12,,TRUE
+"JARVIS, Mr Denzil John",47,2nd Class,237565,£15,"£1,160.00",,Southampton,Engineer,,,FALSE
+"JEFFERYS, Mr Clifford Thomas",24,2nd Class,31029,£31 10s,"£2,430.00",,Southampton,,,,FALSE
+"JEFFERYS, Mr Ernest Wilfred",22,2nd Class,31029,£31 10s,"£2,430.00",,Southampton,,,,FALSE
+"JENKIN, Mr Stephen Curnow",32,2nd Class,33111,£10 10s,£811.00,,Southampton,Miner,,,FALSE
+"JERWAN, Mrs Marie Marthe",23,2nd Class,541,£13 15s 10d,"£1,060.00",,Cherbourg,,11,,TRUE
+"KANTOR, Mr Sinai",34,2nd Class,244367,£26,"£2,010.00",,Southampton,,,283,FALSE
+"KANTOR, Mrs Miriam",24,2nd Class,244367,£26,"£2,010.00",,Southampton,,12,,TRUE
+"KARNES, Mrs Claire",28,2nd Class,13534,£21,"£1,620.00",,Southampton,,,,FALSE
+"KEANE, Miss Nora Agnes",46,2nd Class,226593,£12 7s,£954.00,,Queenstown,,10,,TRUE
+"KEANE, Mr Daniel",35,2nd Class,233734,£12 7s,£954.00,,Queenstown,,,,FALSE
+"KELLY, Mrs Florence ""Fannie""",45,2nd Class,223596,£13 10s,"£1,040.00",,Southampton,,9,,TRUE
+"KIRKLAND, Fr Charles Leonard",52,2nd Class,219533,£12 7s,£954.00,,Queenstown,Priest / Minister,,,FALSE
+"KNIGHT, Mr Robert J.",39,2nd Class,239855,,,H&W Guarantee Group,Belfast,Fitter,,,FALSE
+"KRINS, Mr Georges Alexandre",23,2nd Class,250654,,,Musician,Southampton,Musician,,,FALSE
+"KVILLNER, Mr Johan Henrik Johannesson",31,2nd Class,18723,£10 10s,£811.00,,Southampton,Mechanical Engineer,,165,FALSE
+"LEVY, Mr Rene Jacques",36,2nd Class,2163,£12 17s 6d,£994.00,,Southampton,Chemist,,,FALSE
+"LAHTINEN, Fr William",35,2nd Class,250651,£26,"£2,010.00",,Southampton,Priest / Minister,,,FALSE
+"LAHTINEN, Mrs Anna Amelia",34,2nd Class,250651,£26,"£2,010.00",,Southampton,,,,FALSE
+"LAMB, Mr John Joseph",30,2nd Class,240261,£10 14s 2d,£827.00,,Queenstown,Gentleman,,,FALSE
+"LAROCHE, Miss Louise",1,2nd Class,2123,£41 11s 7d,"£3,210.00",,Cherbourg,,14,,TRUE
+"LAROCHE, Miss Simonne Marie Anne Andre",3,2nd Class,2123,£41 11s 7d,"£3,210.00",,Cherbourg,,14,,TRUE
+"LAROCHE, Mr Joseph Philippe Lemercier",25,2nd Class,2123,£41 11s 7d,"£3,210.00",,Cherbourg,Engineer,,,FALSE
+"LAROCHE, Mrs Juliette Marie Louise",22,2nd Class,2123,£41 11s 7d,"£3,210.00",,Cherbourg,,14,,TRUE
+"LEHMANN, Miss Bertha",17,2nd Class,1748,£12,£927.00,,Cherbourg,,12,,TRUE
+"LEITCH, Miss Jessie Wills",31,2nd Class,248727,£33,"£2,550.00",,Southampton,,11,,TRUE
+"LEMORE, Mrs Amelia ""Milley""",34,2nd Class,34260,£10 10s,£811.00,,Southampton,,14,,TRUE
+"LEYSON, Mr Robert William Norman",25,2nd Class,29566,£10 10s,£811.00,,Southampton,Engineer,,108,FALSE
+"LINNANE, Mr John",61,2nd Class,235509,£12 7s,£954.00,,Queenstown,Gentleman,,,FALSE
+"LOUCH, Mr Charles Alexander",50,2nd Class,3085,£26,"£2,010.00",,Southampton,Saddler,,121,FALSE
+"LOUCH, Mrs Alice Adelaide",42,2nd Class,3085,£26,"£2,010.00",,Southampton,,,,TRUE
+"LUNDIN, Miss Olga Elida",23,2nd Class,347469,£7 17s 1d,£606.00,,Southampton,,10,,TRUE
+"MACK, Mrs Mary",57,2nd Class,S.O./C. 3,£10 10s,£811.00,,Southampton,,,52,FALSE
+"MALACHARD, Mr Jean-Noel",25,2nd Class,237735,£15 11d,"£1,160.00",,Cherbourg,,,,FALSE
+"MALLET, Master Andre Clement",1,2nd Class,2079,£37 1d,"£2,860.00",,Cherbourg,,10,,TRUE
+"MALLET, Mr Albert",31,2nd Class,2079,£37 1d,"£2,860.00",,Cherbourg,Merchant,,,FALSE
+"MALLET, Mrs Antonine Marie",24,2nd Class,2079,£37 1d,"£2,860.00",,Cherbourg,,10,,TRUE
+"MANGIAVACCHI, Mr Serafino Emilio",30,2nd Class,32861,£15 11s 7d,"£1,200.00",,Cherbourg,Clerk,,,FALSE
+"MATTHEWS, Mr William John",30,2nd Class,28228,£13,"£1,000.00",,Southampton,China Clay Worker,,,FALSE
+"MAYBERY, Mr Frank Hubert",36,2nd Class,239059,£16,"£1,240.00",,Southampton,Property Developer / Real Estate,,,FALSE
+"MCCRAE, Mr Arthur Gordon",32,2nd Class,237216,£13 10s,"£1,040.00",,Southampton,Engineer,,209,FALSE
+"MCCRIE, Mr James Matthew",30,2nd Class,233478,£13,"£1,000.00",,Southampton,Oil Worker,,,FALSE
+"MCKANE, Mr Peter David",46,2nd Class,28403,£26,"£2,010.00",,Southampton,,,,FALSE
+"MELLINGER, Miss Madeleine Violet",13,2nd Class,250644,£19 10s,"£1,510.00",,Southampton,,14,,TRUE
+"MELLINGER, Mrs Elizabeth Anne",41,2nd Class,250644,£19 10s,"£1,510.00",,Southampton,,14,,TRUE
+"MELLORS, Mr William John",19,2nd Class,751,£10 10s,£811.00,,Southampton,Salesman,B,,TRUE
+"MEYER, Mr August",31,2nd Class,248723,£13,"£1,000.00",,Southampton,Baker,,,FALSE
+"MILLING, Mr Jacob Christian",48,2nd Class,234360,£13,"£1,000.00",,Southampton,Machine Inspector,,271,FALSE
+"MITCHELL, Mr Henry Michael",71,2nd Class,24580,£10 10s,£811.00,,Southampton,Coach Painter,,,FALSE
+"MONTVILA, Fr Juozas",27,2nd Class,211536,£13,"£1,000.00",,Southampton,Priest / Minister,,,FALSE
+"MORAWECK, Dr Ernest",54,2nd Class,29011,£14,"£1,080.00",,Southampton,Doctor,,,FALSE
+"MORLEY, Mr Henry Samuel",38,2nd Class,250655,£26,"£2,010.00",,Southampton,Confectioner,,,FALSE
+"MUDD, Mr Thomas Charles",16,2nd Class,S.O./P.P 3,£10 10s,£811.00,,Southampton,,,,FALSE
+"MYLES, Mr Thomas Francis",63,2nd Class,240276,£9 13s 9d,£748.00,,Queenstown,Gentleman,,,FALSE
+"NASSER, Mr Nicholas",28,2nd Class,237736,£30 1s 5d,"£2,320.00",,Cherbourg,,,43,FALSE
+"NASSER, Mrs Adele",14,2nd Class,237736,£30 1s 5d,"£2,320.00",,Cherbourg,,,,TRUE
+"NAVRATIL, Master Edmond Roger",2,2nd Class,230080,£26,"£2,010.00",,Southampton,,D,,TRUE
+"NAVRATIL, Master Michel Marcel",3,2nd Class,230080,£26,"£2,010.00",,Southampton,,D,,TRUE
+"NAVRATIL, Mr Michel",32,2nd Class,230080,£26,"£2,010.00",,Southampton,,,15,FALSE
+"NESSON, Mr Israel",26,2nd Class,244368,£13,"£1,000.00",,Southampton,Electrician,,,FALSE
+"NICHOLLS, Mr Joseph Charles",19,2nd Class,33112,£36 15s,"£2,840.00",,Southampton,Miner,,101,FALSE
+"NORMAN, Mr Robert Douglas",28,2nd Class,218629,£13 10s,"£1,040.00",,Southampton,Electrical Engineer,,287,FALSE
+"NYE, Mrs Elizabeth",29,2nd Class,29395,£10 10s,£811.00,,Southampton,,11,,TRUE
+"OTTER, Mr Richard",38,2nd Class,28213,£13,"£1,000.00",,Southampton,Stone Cutter,,,FALSE
+"OXENHAM, Mr Percy Thomas",22,2nd Class,14260,£10 10s,£811.00,,Southampton,Mason,13,,TRUE
+"PADRON MANENT, Mr Julian",26,2nd Class,2146,£13 17s 3d,"£1,070.00",,Cherbourg,Chauffeur,9,,TRUE
+"PAIN, Dr Alfred",23,2nd Class,244278,£10 10s,£811.00,,Southampton,Doctor,,,FALSE
+"PALLAS Y CASTELLO, Mr Emilio",29,2nd Class,2147,£13 17s 2d,"£1,070.00",,Cherbourg,,9,,TRUE
+"PARKER, Mr Clifford Richard",28,2nd Class,14888,£10 10s,£811.00,,Southampton,Clerk,,,FALSE
+"PARKES, Mr Francis ""Frank""",18,2nd Class,239853,,,H&W Guarantee Group,Belfast,Plumber,,,FALSE
+"PARRISH, Mrs Lutie Davis",59,2nd Class,230433,£26,"£2,010.00",,Southampton,,12,,TRUE
+"PENGELLY, Mr Frederick William",19,2nd Class,28665,£10 10s,£811.00,,Southampton,Miner,,,FALSE
+"PERNOT, Mr Rene",39,2nd Class,2131,£15 1s,"£1,160.00",Servant,Cherbourg,Chauffeur,,,FALSE
+"PERUSCHITZ, Fr Josef",41,2nd Class,237393,£13,"£1,000.00",,Southampton,Priest / Minister,,,FALSE
+"PHILLIPS, Miss Alice Frances Louisa",21,2nd Class,2,£21,"£1,620.00",,Southampton,,12,,TRUE
+"PHILLIPS, Miss Kate Florence",19,2nd Class,250655,£26,"£2,010.00",,Southampton,,11,,TRUE
+"PHILLIPS, Mr Escott Robert",42,2nd Class,2,£21,"£1,620.00",,Southampton,,,,FALSE
+"PINSKY, Mrs Rosa",32,2nd Class,234604,£13,"£1,000.00",,Southampton,,9,,TRUE
+"PONESELL, Mr Martin",24,2nd Class,250647,£13,"£1,000.00",,Southampton,,,,FALSE
+"PORTALUPPI, Mr Emilio Ilario Giuseppe",30,2nd Class,34644,£12 14s 9d,£984.00,,Cherbourg,,14,,TRUE
+"PULBAUM, Mr Franz",27,2nd Class,2168,£15 8d,"£1,190.00",,Cherbourg,,,,FALSE
+"QUICK, Miss Phyllis May",2,2nd Class,26360,£26,"£2,010.00",,Southampton,,11,,TRUE
+"QUICK, Miss Winifred Vera",8,2nd Class,26360,£26,"£2,010.00",,Southampton,,11,,TRUE
+"QUICK, Mrs Jane",33,2nd Class,26360,£26,"£2,010.00",,Southampton,,11,,TRUE
+"REEVES, Mr David",36,2nd Class,17248,£10 10s,£811.00,,Southampton,Carpenter / Joiner,,,FALSE
+"RENOUF, Mr Peter Henry",33,2nd Class,31027,£21,"£1,620.00",,Southampton,Carpenter / Joiner,,,FALSE
+"RENOUF, Mrs Lillian",30,2nd Class,31027,£21,"£1,620.00",,Southampton,,,,TRUE
+"REYNALDO, Ms Encarnacion",28,2nd Class,230434,£13,"£1,000.00",,Southampton,,9,,TRUE
+"RICHARD, Mr Emile Phillippe",23,2nd Class,2133,£15 11d,"£1,160.00",,Cherbourg,,,,FALSE
+"RICHARDS, Master Sibley George",0,2nd Class,29106,£18 15s,"£1,450.00",,Southampton,,4,,TRUE
+"RICHARDS, Master William Rowe",3,2nd Class,29106,£18 15s,"£1,450.00",,Southampton,,4,,TRUE
+"RICHARDS, Mrs Emily",24,2nd Class,29106,£18 15s,"£1,450.00",,Southampton,,4,,TRUE
+"RIDSDALE, Miss Lucy",50,2nd Class,14258,£10 10s,£811.00,,Southampton,,13,,TRUE
+"ROGERS, Mr Reginald Harry",18,2nd Class,28004,£10 10s,£811.00,,Southampton,,,,FALSE
+"RUGG, Miss Emily",21,2nd Class,31026,£10 10s,£811.00,,Southampton,,12,,TRUE
+"SCHMIDT, Mr August",26,2nd Class,248659,£13,"£1,000.00",,Southampton,,,,FALSE
+"SEDGWICK, Mr Charles Frederick Waddington",25,2nd Class,244361,£13,"£1,000.00",,Southampton,,,,FALSE
+"SHARP, Mr Percival James R.",27,2nd Class,244358,£26,"£2,010.00",,Southampton,,,,FALSE
+"SHELLEY, Mrs Imanita Parrish",25,2nd Class,230433,£26,"£2,010.00",,Southampton,,12,,TRUE
+"SILVEN, Miss Lyyli Karoliina",17,2nd Class,250652,£13,"£1,000.00",,Southampton,,16,,TRUE
+"SINCOCK, Miss Maude",20,2nd Class,33112,£36 15s,"£2,840.00",,Southampton,,11,,TRUE
+"SINKKONEN, Miss Anna",30,2nd Class,250648,£13,"£1,000.00",,Southampton,,10,,TRUE
+"SJOSTEDT, Mr Ernst Adolf",59,2nd Class,237442,£13 10s,"£1,040.00",,Southampton,,,,FALSE
+"SLAYTER, Miss Hilda Mary",30,2nd Class,234818,£12 7s,£954.00,,Queenstown,,13,,TRUE
+"SLEMEN, Mr Richard James",35,2nd Class,28206,£10 10s,£811.00,,Southampton,,,,FALSE
+"SMITH, Miss Marion Elsie",39,2nd Class,31418,£13,"£1,000.00",,Southampton,,9,,TRUE
+"SOBEY, Mr Samuel James Hayden",25,2nd Class,29178,£13,"£1,000.00",,Southampton,Quarryman,,,FALSE
+"STANTON, Mr Samuel Ward",42,2nd Class,237734,£15 11d,"£1,160.00",,Cherbourg,,,,FALSE
+"STOKES, Mr Philip Joseph",25,2nd Class,13540,£10 10s,£811.00,,Southampton,Bricklayer,,81,FALSE
+"SWANE, Mr George",26,2nd Class,248734,£13,"£1,000.00",Servant,Southampton,Chauffeur,,294,FALSE
+"SWEET, Mr George Frederick",14,2nd Class,220845,£65,"£5,020.00",,Southampton,Farm Labourer,,,FALSE
+"TAYLOR, Mr Percy Cornelius",32,2nd Class,250654,,,Musician,Southampton,Musician,,,FALSE
+"TOOMEY, Miss Ellen Mary",48,2nd Class,13531,£10 10s,£811.00,,Southampton,Servant,9,,TRUE
+"TROUPIANSKY, Mr Moses Aaron",23,2nd Class,233639,£13,"£1,000.00",,Southampton,Shop Assistant,,,FALSE
+"TROUT, Mrs Jessie L.",26,2nd Class,240929,£12 13s,£977.00,,Southampton,,9,,TRUE
+"TROUTT, Miss Edwina Celia",27,2nd Class,34218,£10 10s,£811.00,,Southampton,,16,,TRUE
+"TURPIN, Mr William John Robert",29,2nd Class,11668,£21,"£1,620.00",,Southampton,Carpenter / Joiner,,,FALSE
+"TURPIN, Mrs Dorothy Ann",27,2nd Class,11668,£21,"£1,620.00",,Southampton,Housewife,,,FALSE
+"VEAL, Mr James",40,2nd Class,28221,£13,"£1,000.00",,Southampton,,,,FALSE
+"WALLCROFT, Miss Ellen ""Nellie""",36,2nd Class,13528,£21,"£1,620.00",,Southampton,,14,,TRUE
+"WARE, Mr John James",45,2nd Class,31352,£21,"£1,620.00",,Southampton,,,,FALSE
+"WARE, Mr William Jeffery",23,2nd Class,28666,£10 10s,£811.00,,Southampton,,,,FALSE
+"WARE, Mrs Florence Louise",31,2nd Class,31352,£21,"£1,620.00",,Southampton,,10,,TRUE
+"WATSON, Mr Ennis Hastings",15,2nd Class,239856,,,H&W Guarantee Group,Belfast,Apprentice Electrician,,,FALSE
+"WATT, Miss Robertha Josephine ""Bertha""",12,2nd Class,33595,£15 15s,"£1,220.00",,Southampton,,9,,TRUE
+"WATT, Mrs Elizabeth ""Bessie"" Inglis",40,2nd Class,33595,£15 15s,"£1,220.00",,Southampton,,9,,TRUE
+"WEBBER, Miss Susan",37,2nd Class,27267,£13,"£1,000.00",,Southampton,,12,,TRUE
+"WEISZ, Mr Leopold",28,2nd Class,228414,£26,"£2,010.00",,Southampton,,,293,FALSE
+"WEISZ, Mrs Mathilde Francoise",37,2nd Class,228414,£26,"£2,010.00",,Southampton,,10,,TRUE
+"WELLS, Master Ralph Lester",2,2nd Class,29103,£23,"£1,780.00",,Southampton,,14,,TRUE
+"WELLS, Miss Joan",4,2nd Class,29103,£23,"£1,780.00",,Southampton,,14,,TRUE
+"WELLS, Mrs ""Addie"" Dart",29,2nd Class,29103,£23,"£1,780.00",,Southampton,,14,,TRUE
+"WEST, Miss Barbara Joyce",0,2nd Class,34651,£27 15s,"£2,140.00",,Southampton,,10,,TRUE
+"WEST, Miss Constance Mirium",4,2nd Class,34651,£27 15s,"£2,140.00",,Southampton,,10,,TRUE
+"WEST, Mr Edwy Arthur",36,2nd Class,34651,£27 15s,"£2,140.00",,Southampton,,,,FALSE
+"WEST, Mrs Ada Mary",33,2nd Class,34651,£27 15s,"£2,140.00",,Southampton,,10,,TRUE
+"WHEADON, Mr Edward H.",66,2nd Class,24579,£10 10s,£811.00,,Southampton,Farmer,,,FALSE
+"WHEELER, Mr Edwin Charles ""Fred""",24,2nd Class,2159,£12 17s 6d,£994.00,Servant,Southampton,Servant,,,FALSE
+"WILHELMS, Mr Charles",32,2nd Class,244270,£13,"£1,000.00",,Southampton,,9,,TRUE
+"WILKINSON, Mrs Elizabeth Anne",35,2nd Class,2926,£26,"£2,010.00",,Southampton,,16,,TRUE
+"WILLIAMS, Mr Charles Eugene",23,2nd Class,244373,£13,"£1,000.00",,Southampton,Sportsman,14,,TRUE
+"WOODWARD, Mr John Wesley",32,2nd Class,250654,,,Musician,Southampton,Musician,,,FALSE
+"WRIGHT, Miss Marion",26,2nd Class,220844,£13 10s,"£1,040.00",,Southampton,,9,,TRUE
+"YVOIS, Miss Henriette",24,2nd Class,248747,£13,"£1,000.00",,Southampton,,,,FALSE
+"ODAHL, Mr Nils Martin",23,3rd Class,7267,£9 4s 6d,£712.00,,Southampton,General Labourer,,,FALSE
+"ADAHL, Mr Mauritz Nils Martin",30,3rd Class,7076,£7 5s,£560.00,,Southampton,General Labourer,,72,FALSE
+"OHMAN, Miss Velin",22,3rd Class,347085,£7 15s 6d,£600.00,,Southampton,,C,,TRUE
+"ABBING, Mr Anthony",42,3rd Class,5547,£7 11s,£583.00,,Southampton,Blacksmith,,,FALSE
+"ABBOTT, Mr Eugene Joseph",14,3rd Class,CA2673,£20 5s,"£1,560.00",,Southampton,Scholar,,,FALSE
+"ABBOTT, Mr Rossmore Edward",16,3rd Class,CA2673,£20 5s,"£1,560.00",,Southampton,Jeweller,,190,FALSE
+"ABBOTT, Mrs Rhoda Mary 'Rosa'",39,3rd Class,CA2673,£20 5s,"£1,560.00",,Southampton,,A,,TRUE
+"ABELSETH, Miss Karen Marie",16,3rd Class,348125,£7 13s,£591.00,,Southampton,,16,,TRUE
+"ABELSETH, Mr Olaus Jorgensen",25,3rd Class,348122,£7 13s,£591.00,,Southampton,Farmer,A,,TRUE
+"ABRAHAMSSON, Mr Abraham August Johannes",20,3rd Class,3101284,£7 18s 6d,£612.00,,Southampton,,15,,TRUE
+"ABRAHIM, Mrs Mary Sophie Halaut",18,3rd Class,2657,£7 4s 7d,£558.00,,Cherbourg,,C,,TRUE
+"ADAMS, Mr John",26,3rd Class,341826,£8 1s,£622.00,,Southampton,,,103,FALSE
+"AHLIN, Mrs Johanna Persdotter",40,3rd Class,7546,£9 9s 6d,£732.00,,Southampton,,,,FALSE
+"AKS, Master Frank Philip",0.8,3rd Class,392091,£9 7s,£722.00,,Southampton,,11,,TRUE
+"AKS, Mrs Leah",18,3rd Class,392091,£9 7s,£722.00,,Southampton,,13,,TRUE
+"ALBIMONA, Mr Nassef Cassem",26,3rd Class,2699,£18 15s 9d,"£1,450.00",,Cherbourg,,15,,TRUE
+"ALEXANDER, Mr William",23,3rd Class,3474,£7 17s 9d,£609.00,,Southampton,General Labourer,,,FALSE
+"ALHOMAKI, Mr Ilmari Rudolf",19,3rd Class,3101287,£7 18s 6d,£612.00,,Southampton,General Labourer,,,FALSE
+"ALI, Mr Ahmed",24,3rd Class,3101311,£7 1s,£544.00,,Southampton,General Labourer,,,FALSE
+"ALI, Mr William",25,3rd Class,3101312,£7 1s,£544.00,,Southampton,General Labourer,,79,FALSE
+"ALLEN, Mr William Henry",35,3rd Class,373450,£8 1s,£622.00,,Southampton,Tool Maker,,,FALSE
+"ALLUM, Mr Owen George",15,3rd Class,2223,£8 6s,£641.00,,Southampton,Gardener,,259,FALSE
+"ANDERSEN-JENSEN, Miss Carla Christine Nielsine",19,3rd Class,350046,£7 17s 1d,£606.00,,Southampton,,16,,TRUE
+"ANDERSEN, Mr Albert Karvin",33,3rd Class,4001,£22 10s 6d,"£1,740.00",,Southampton,Engineer,,260,FALSE
+"ANDERSSON, Master Sigvard Harald Elias",4,3rd Class,347082,£31 5s 6d,"£2,420.00",,Southampton,,,,FALSE
+"ANDERSSON, Miss Ebba Iris Alfrida",6,3rd Class,347082,£31 5s 6d,"£2,420.00",,Southampton,,,,FALSE
+"ANDERSSON, Miss Ellis Anna Maria",2,3rd Class,347082,£31 5s 6d,"£2,420.00",,Southampton,,,,FALSE
+"ANDERSSON, Miss Erna Alexandra",17,3rd Class,3101281,£7 18s 6d,£612.00,,Southampton,,D,,TRUE
+"ANDERSSON, Miss Ida Augusta Margareta",38,3rd Class,347091,£7 15s 6d,£600.00,,Southampton,,,,FALSE
+"ANDERSSON, Miss Ingeborg Constanzia",9,3rd Class,347082,£31 5s 6d,"£2,420.00",,Southampton,,,,FALSE
+"ANDERSSON, Miss Sigrid Elisabeth",11,3rd Class,347082,£31 5s 6d,"£2,420.00",,Southampton,,,,FALSE
+"ANDERSSON, Mr Anders Johan",39,3rd Class,347082,£31 5s 6d,"£2,420.00",,Southampton,General Labourer,,,FALSE
+"ANDERSSON, Mr Johan Samuel",26,3rd Class,347075,£7 15s 6d,£600.00,,Southampton,General Labourer,,,FALSE
+"ANDERSSON, Mrs Alfrida Konstantia Brogren",39,3rd Class,347082,£31 5s 6d,"£2,420.00",,Southampton,,,,FALSE
+"ANDREASSON, Mr Paul Edvin",20,3rd Class,347466,£7 17s 1d,£606.00,,Southampton,General Labourer,,,FALSE
+"ANGHELOFF, Mr Minko",26,3rd Class,349202,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"ARNOLD-FRANCHI, Mr Josef",25,3rd Class,349237,£17 16s,"£1,380.00",,Southampton,General Labourer,,,FALSE
+"ARNOLD-FRANCHI, Mrs Josefine",18,3rd Class,349237,£17 16s,"£1,380.00",,Southampton,,,,FALSE
+"ARONSSON, Mr Ernst Axel Algot",24,3rd Class,349911,£7 15s 6d,£600.00,,Southampton,General Labourer,,,FALSE
+"ASIM, Mr Adola",35,3rd Class,3101310,£7 1s,£544.00,,Southampton,General Labourer,,,FALSE
+"ASPLUND, Master Carl Edgar",5,3rd Class,347077,£31 7s 9d,"£2,420.00",,Southampton,,,,FALSE
+"ASPLUND, Master Clarence Gustaf Hugo",9,3rd Class,347077,£31 7s 9d,"£2,420.00",,Southampton,,,,FALSE
+"ASPLUND, Master Edvin Rojj Felix",3,3rd Class,347077,£31 7s 9d,"£2,420.00",,Southampton,,15,,TRUE
+"ASPLUND, Master Filip Oscar",13,3rd Class,347077,£31 7s 9d,"£2,420.00",,Southampton,,,,FALSE
+"ASPLUND, Miss Lillian Gertrud",5,3rd Class,347077,£31 7s 9d,"£2,420.00",,Southampton,,15,,TRUE
+"ASPLUND, Mr Carl Oscar Vilhelm Gustafsson",40,3rd Class,347077,£31 7s 9d,"£2,420.00",,Southampton,General Labourer,,142,FALSE
+"ASPLUND, Mr Johan Charles",23,3rd Class,350054,£7 15s 11d,£602.00,,Southampton,,13,,TRUE
+"ASPLUND, Mrs Selma Augusta Emilia",38,3rd Class,347077,£31 7s 9d,"£2,420.00",,Southampton,,15,,TRUE
+"ASSAF, Mrs Mariana",45,3rd Class,2696,£7 4s 6d,£558.00,,Cherbourg,,C,,TRUE
+"ASSAM, Mr Ali",23,3rd Class,3101309,£7 1s,£544.00,,Southampton,General Labourer,,,FALSE
+"ATTALA, Mr Sleiman",27,3rd Class,2694,£7 4s 6d,£558.00,,Cherbourg,Journalist,,,FALSE
+"ATTALAH, Miss Malake",17,3rd Class,2627,£14 9s 2d,"£1,120.00",,Cherbourg,,,,FALSE
+"AUGUSTSSON, Mr Albert",23,3rd Class,347468,£7 17s 1d,£606.00,,Southampton,General Labourer,,,FALSE
+"AYOUB DAHER, Miss Banoura",15,3rd Class,2687,£7 4s 7d,£558.00,,Cherbourg,,C,,TRUE
+"BACCOS, Mr Raffull",20,3rd Class,2679,£7 4s 6d,£558.00,,Cherbourg,Farm Labourer,,,FALSE
+"BACKSTROM, Mr Karl Alfred",32,3rd Class,3101278,£15 17s,"£1,220.00",,Southampton,General Labourer,,,FALSE
+"BACKSTROM, Mrs Maria Mathilda",33,3rd Class,3101278,£15 17s,"£1,220.00",,Southampton,,D,,TRUE
+"BACLINI, Miss Eugenie",3,3rd Class,2666,£19 5s 2d,"£1,490.00",,Cherbourg,,C,,TRUE
+"BACLINI, Miss Helene Barbara",0,3rd Class,2666,£19 5s 2d,"£1,490.00",,Cherbourg,,C,,TRUE
+"BACLINI, Miss Marie Catherine",5,3rd Class,2666,£19 5s 2d,"£1,490.00",,Cherbourg,,C,,TRUE
+"BACLINI, Mrs Latifa",24,3rd Class,2666,£19 5s 2d,"£1,490.00",,Cherbourg,,C,,TRUE
+"BADMAN, Miss Emily Louisa",18,3rd Class,31416,£8 1s,£622.00,,Southampton,Servant,C,,TRUE
+"BADT, Mr Mohamed",40,3rd Class,2623,£7 4s 6d,£558.00,,Cherbourg,Farmer,,,FALSE
+"BALKIC, Mr Cerin",26,3rd Class,349248,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"BANSKI, Mrs Mara",31,3rd Class,349244,£8 13s 8d,£671.00,,Southampton,,,,TRUE
+"BARBARA, Miss Saiide",18,3rd Class,2691,£14 9s 1d,"£1,120.00",,Cherbourg,Housekeeper,,,FALSE
+"BARBARA, Mrs Catherine David",45,3rd Class,2691,£14 9s 1d,"£1,120.00",,Cherbourg,Housekeeper,,,FALSE
+"BARRY, Miss Julia",26,3rd Class,330844,£7 17s 7d,£608.00,,Queenstown,Housekeeper,,,FALSE
+"BARTON, Mr David John",22,3rd Class,324669,£8 1s,£622.00,,Southampton,General Labourer,,,FALSE
+"BEAVAN, Mr William Thomas",18,3rd Class,323951,£8 1s,£622.00,,Southampton,General Labourer,,,FALSE
+"BENGTSSON, Mr Johan Viktor",26,3rd Class,347068,£7 15s 6d,£600.00,,Southampton,General Labourer,,,FALSE
+"BERGLUND, Mr Karl Ivar Sven",22,3rd Class,4348,£9 7s,£722.00,,Southampton,General Labourer,,,FALSE
+"BETROS, Mr Tannous",20,3rd Class,2648,£7 4s 7d,£558.00,,Cherbourg,Shoemaker,,,FALSE
+"BING, Mr Lee",32,3rd Class,1601,£56 9s 11d,"£4,360.00",,Southampton,Seaman,C,,TRUE
+"BIRKELAND, Mr Hans Martin Monsen",21,3rd Class,312992,£7 15s 6d,£600.00,,Southampton,Seaman,,,FALSE
+"BJORKLUND, Mr Ernst Herbert",18,3rd Class,347090,£7 15s,£598.00,,Southampton,General Labourer,,,FALSE
+"BOSTANDYEFF, Mr Guentcho",26,3rd Class,349224,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"BOULOS, Master Akar",9,3rd Class,2678,£15 4s 11d,"£1,180.00",,Cherbourg,,,,FALSE
+"BOULOS, Miss Nourelain",7,3rd Class,2678,£15 4s 11d,"£1,180.00",,Cherbourg,,,,FALSE
+"BOULOS, Mrs Sultana",40,3rd Class,2678,£15 4s 11d,"£1,180.00",,Cherbourg,,,,FALSE
+"BOURKE, Miss Mary",40,3rd Class,364848,£7 15s,£598.00,,Queenstown,,,,FALSE
+"BOURKE, Mr John",42,3rd Class,364849,£15 10s,"£1,200.00",,Queenstown,Farmer,,,FALSE
+"BOURKE, Mrs Catherine",32,3rd Class,364849,£15 10s,"£1,200.00",,Queenstown,Housewife,,,FALSE
+"BOWEN, Mr David John ""Dai""",26,3rd Class,54636,£16 2s,"£1,240.00",,Southampton,Pugilist,,,FALSE
+"BRADLEY, Miss Bridget Delia",22,3rd Class,334914,£7 14s 6d,£597.00,,Queenstown,,13,,TRUE
+"BRAF, Miss Elin Ester Maria",20,3rd Class,347471,£7 17s 1d,£606.00,,Southampton,Servant,,,FALSE
+"BRAUND, Mr Lewis Richard",29,3rd Class,3460,£7 11d,£583.00,,Southampton,Farm Labourer,,,FALSE
+"BRAUND, Mr Owen Harris",22,3rd Class,21171,£7 5s,£560.00,,Southampton,Ironmonger,,,FALSE
+"BROBECK, Mr Karl Rudolf",22,3rd Class,350045,£7 15s 11d,£602.00,,Southampton,Farm Labourer,,,FALSE
+"BROCKLEBANK, Mr William Alfred",35,3rd Class,364512,£8 1s,£622.00,,Southampton,Groom,,,FALSE
+"BUCKLEY, Miss Katherine",22,3rd Class,329944,£7 5s 8d,£562.00,,Queenstown,,,299,FALSE
+"BUCKLEY, Mr Daniel",21,3rd Class,330920,£7 15s 17d,£602.00,,Queenstown,Farm Labourer,13,,TRUE
+"BURKE, Mr Jeremiah",19,3rd Class,365222,£6 15s,£521.00,,Queenstown,Farm Labourer,,,FALSE
+"BURNS, Miss Mary Delia",17,3rd Class,330963,£7 17s 7d,£608.00,,Queenstown,,,,FALSE
+"CACIC, Miss Manda",21,3rd Class,315087,£8 13s 3d,£669.00,,Southampton,Farm Labourer,,,FALSE
+"CACIC, Miss Marija",30,3rd Class,315084,£8 13s 3d,£669.00,,Southampton,Farm Labourer,,,FALSE
+"CACIC, Mr Jego Grga",18,3rd Class,315091,£8 13s 3d,£669.00,,Southampton,Farmer,,,FALSE
+"CACIC, Mr Luka",38,3rd Class,315089,£8 13s 3d,£669.00,,Southampton,Farmer,,,FALSE
+"CALIC, Mr Jovo",17,3rd Class,315093,£8 13s 3d,£669.00,,Southampton,,,,FALSE
+"CALIC, Mr Petar",17,3rd Class,315086,£8 13s 3d,£669.00,,Southampton,Farm Labourer,,,FALSE
+"CANAVAN, Miss Mary",22,3rd Class,364846,£7 15s,£598.00,,Queenstown,,,,FALSE
+"CANAVAN, Mr Patrick",21,3rd Class,364858,£7 15s,£598.00,,Queenstown,General Labourer,,,FALSE
+"CANN, Mr Ernest Charles",21,3rd Class,2152,£8 1s,£622.00,,Southampton,Miner,,,FALSE
+"CARAM, Mr Joseph",28,3rd Class,2689,£14 9s 2d,"£1,120.00",,Cherbourg,Merchant,,,FALSE
+"CARAM, Mrs Maria Elias",18,3rd Class,2689,£14 9s 2d,"£1,120.00",,Cherbourg,Housekeeper,,,FALSE
+"CARLSSON, Mr August Sigfrid",28,3rd Class,350042,£7 15s 11d,£602.00,,Southampton,Farmer,,,FALSE
+"CARLSSON, Mr Carl Robert",24,3rd Class,350409,£7 17s 1d,£606.00,,Southampton,General Labourer,,,FALSE
+"CARR, Miss Jane",45,3rd Class,368364,£7 15s,£598.00,,Queenstown,,,,FALSE
+"CARVER, Mr Alfred John",28,3rd Class,370160,£7 5s,£560.00,,Southampton,Seaman,,,FALSE
+"CELOTTI, Mr Francesco",24,3rd Class,343275,£8 1s,£622.00,,Southampton,Stoker,,,FALSE
+"CHARTERS, Mr David",20,3rd Class,13032,£7 14s 8d,£597.00,,Queenstown,General Labourer,,,FALSE
+"CHEHAB/SHIHAB, Mr Emir Farres",29,3rd Class,2631,£7 4s 6d,£558.00,,Cherbourg,General Labourer,,,FALSE
+"CHIP, Mr Chang",32,3rd Class,1601,£56 9s 11d,"£4,360.00",,Southampton,Seaman,C,,TRUE
+"CHRISTMANN, Mr Emil",29,3rd Class,343276,£8 1s,£622.00,,Southampton,Clerk,,,FALSE
+"CHRONOPOULOS, Mr Apostolos M.",26,3rd Class,2680,£14 9s 1d,"£1,120.00",,Cherbourg,General Labourer,,,FALSE
+"CHRONOPOULOS, Mr Dimitrios M.",21,3rd Class,2680,£14 9s 1d,"£1,120.00",,Cherbourg,General Labourer,,,FALSE
+"COELHO, Mr Domingos Fernandeo",20,3rd Class,3101307,£7 1s,£544.00,,Southampton,General Labourer,,,FALSE
+"COHEN, Mr Gurshon ""Gus""",18,3rd Class,3540,£8 1s,£622.00,,Southampton,Printer / Compositor,12,,TRUE
+"COLBERT, Mr Patrick",24,3rd Class,371109,£7 5s,£560.00,,Queenstown,General Labourer,,,FALSE
+"COLEFF, Mr Satio",24,3rd Class,349209,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"COLTCHEFF, Mr Peju",36,3rd Class,349210,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"CONLON, Mr Thomas Henry",31,3rd Class,21332,£7 14s 8d,£597.00,,Queenstown,General Labourer,,,FALSE
+"CONNAGHTON, Mr Michael",31,3rd Class,335097,£7 15s,£598.00,,Queenstown,Farm Labourer,,,FALSE
+"CONNOLLY, Miss Kate",35,3rd Class,330972,£7 12s 7d,£589.00,,Queenstown,,,,FALSE
+"CONNOLLY, Miss Kate",23,3rd Class,370373,£7 15s,£598.00,,Queenstown,,13,,TRUE
+"CONNORS, Mr Patrick",66,3rd Class,370369,£7 15s,£598.00,,Queenstown,Farm Labourer,,171,FALSE
+"COOK, Mr Jacob",43,3rd Class,3536,£8 1s,£622.00,,Southampton,Wood Carver,,,FALSE
+"COR, Mr Bartol",35,3rd Class,349230,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"COR, Mr Ivan",27,3rd Class,349229,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"COR, Mr Liudevit",19,3rd Class,349231,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"CORN, Mr Harry",30,3rd Class,392090,£8 1s,£622.00,,Southampton,Upholsterer,,,FALSE
+"CORR, Miss Helen",16,3rd Class,367231,£7 15s,£598.00,,Queenstown,,16,,TRUE
+"COUTTS, Master Neville Leslie",3,3rd Class,37671,£15 18s,"£1,230.00",,Southampton,,2,,TRUE
+"COUTTS, Master William Loch ""Willie""",9,3rd Class,37671,£15 18s,"£1,230.00",,Southampton,,2,,TRUE
+"COUTTS, Mrs Winnie ""Minnie""",36,3rd Class,37671,£15 18s,"£1,230.00",,Southampton,,2,,TRUE
+"COXON, Mr Daniel",59,3rd Class,364500,£7 5s,£560.00,,Southampton,Dealer,,,FALSE
+"CREASE, Mr Ernest James",19,3rd Class,3464,£8 3s 2d,£630.00,,Southampton,Tinsmith,,,FALSE
+"CRIBB, Miss Laura Mae",16,3rd Class,371362,£16 2s,"£1,240.00",,Southampton,Shop Assistant,12,,TRUE
+"CRIBB, Mr John Hatfield",44,3rd Class,371362,£16 2s,"£1,240.00",,Southampton,Butler,,,FALSE
+"CULUMOVIC, Mr Jeso",17,3rd Class,315090,£8 13s 3d,£669.00,,Southampton,,,,FALSE
+"DAHER, Mr Tannous",28,3rd Class,2686,£7 4s 7d,£558.00,,Cherbourg,,,,FALSE
+"DAHL, Mr Charles Edward",45,3rd Class,7598,£8 1s,£622.00,,Southampton,Carpenter / Joiner,15,,TRUE
+"DAHLBERG, Miss Gerda Ulrika",22,3rd Class,7552,£10 10s 4d,£812.00,,Southampton,,,,FALSE
+"DAKIC, Mr Branko",19,3rd Class,349228,£10 3s 5d,£785.00,,Southampton,General Labourer,,,FALSE
+"DALY, Miss Margaret Marcella ""Maggie""",30,3rd Class,382650,£6 19s,£537.00,,Queenstown,Housekeeper,15,,TRUE
+"DALY, Mr Eugene Patrick",29,3rd Class,382651,£7 15s,£598.00,,Queenstown,Farm Labourer,B,,TRUE
+"DANBOM, Master Gilbert Sigvard Emanuel",0,3rd Class,347080,£14 8s,"£1,110.00",,Southampton,,,,FALSE
+"DANBOM, Mr Ernst Gilbert",34,3rd Class,347080,£14 8s,"£1,110.00",,Southampton,General Labourer,,197,FALSE
+"DANBOM, Mrs Anna Sigrid Maria",28,3rd Class,347080,£14 8s,"£1,110.00",,Southampton,,,,FALSE
+"DANOFF, Mr Yoto",27,3rd Class,349219,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"DANTCHEFF, Mr Ristiu",25,3rd Class,349203,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"DAVIES, Mr Alfred J.",24,3rd Class,48871,£24 3s,"£1,860.00",,Southampton,Caster,,,FALSE
+"DAVIES, Mr Evan",22,3rd Class,23568,£8 1s,£622.00,,Southampton,Miner,,,FALSE
+"DAVIES, Mr John Samuel",21,3rd Class,48871,£24 3s,"£1,860.00",,Southampton,Ironworker,,,FALSE
+"DAVIES, Mr Joseph",17,3rd Class,48873,£8 1s,£622.00,,Southampton,Ironworker,,,FALSE
+"DAVISON, Mr Thomas Henry",32,3rd Class,386525,£16 2s,"£1,240.00",,Southampton,Blacksmith,,,FALSE
+"DAVISON, Mrs Mary E.",34,3rd Class,386525,£16 2s,"£1,240.00",,Southampton,,16,,TRUE
+"DE MESSEMAEKER, Mr Guillaume Joseph",36,3rd Class,345572,£17 8s,"£1,340.00",,Southampton,,15,,TRUE
+"DE MESSEMAEKER, Mrs Anna",36,3rd Class,345572,£17 8s,"£1,340.00",,Southampton,,13,,TRUE
+"DE MULDER, Mr Theodoor",30,3rd Class,345774,£9 10s,£734.00,,Southampton,,11,,TRUE
+"DE PELSMAEKER, Mr Alfons",16,3rd Class,345778,£9 10s,£734.00,,Southampton,Farm Labourer,,,FALSE
+"DEAN, Master Bertram Vere",1,3rd Class,2315,£20 11s 6d,"£1,590.00",,Southampton,,10,,TRUE
+"DEAN, Miss Elizabeth Gladys 'Millvina'",0,3rd Class,2315,£20 11s 6d,"£1,590.00",,Southampton,,10,,TRUE
+"DEAN, Mr Bertram Frank",25,3rd Class,2315,£20 11s 6d,"£1,590.00",,Southampton,Farmer,,,FALSE
+"DEAN, Mrs Eva Georgetta",32,3rd Class,2315,£20 11s 6d,"£1,590.00",,Southampton,,10,,TRUE
+"DELALIC, Mr Redjo",25,3rd Class,349250,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"DENKOFF, Mr Mitto",30,3rd Class,349225,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"DENNIS, Mr Samuel",22,3rd Class,21172,£7 5s,£560.00,,Southampton,Farmer,,,FALSE
+"DENNIS, Mr William",26,3rd Class,21175,£7 5s,£560.00,,Southampton,Farmer,,,FALSE
+"DEVANEY, Miss Margaret Delia",19,3rd Class,330958,£7 17s 7d,£608.00,,Queenstown,,C,,TRUE
+"DIKA, Mr Mirko",17,3rd Class,349232,£7 17s 11d,£610.00,,Southampton,,,,FALSE
+"DIMIC, Mr Jovan",42,3rd Class,315088,£8 13s 3d,£669.00,,Southampton,,,,FALSE
+"DINTCHEFF, Mr Valtcho",43,3rd Class,349226,£7 17s 11d,£610.00,,Southampton,,,,FALSE
+"DONOHOE, Miss Bridget",21,3rd Class,364856,£7 15s,£598.00,,Queenstown,,,,FALSE
+"DOOLEY, Mr Patrick",38,3rd Class,370376,£7 15s,£598.00,,Queenstown,General Labourer,,,FALSE
+"DORKING, Mr Edward Arthur",18,3rd Class,10482,£8 1s,£622.00,,Southampton,Groom,B,,TRUE
+"DOUGHERTY, Mr William John",22,3rd Class,330877,£8 9s 2d,£653.00,,Queenstown,,,,FALSE
+"DOWDELL, Miss Elizabeth",31,3rd Class,364516,£12 9s 6d,£963.00,,Southampton,Housekeeper,13,,TRUE
+"DOYLE, Miss Elizabeth",24,3rd Class,368702,£7 15s,£598.00,,Queenstown,,,,FALSE
+"DRAZENOVIC, Mr Jozef",33,3rd Class,349241,£7 17s 11d,£610.00,,Cherbourg,General Labourer,,51,FALSE
+"DROPKIN, Miss Jennie",24,3rd Class,392083,£8 1s,£622.00,,Southampton,Box Maker,,,TRUE
+"DUQUEMIN, Mr Joseph Pierre",19,3rd Class,752,£7 11s,£583.00,,Southampton,Mason,D,,TRUE
+"DWAN, Mr Frank",65,3rd Class,336439,£7 15s,£598.00,,Queenstown,Farm Labourer,,,FALSE
+"DYKER, Mr Adolf Fredrik",23,3rd Class,347072,£13 18s,"£1,070.00",,Southampton,General Labourer,,,FALSE
+"DYKER, Mrs Anna Elisabeth Judith",22,3rd Class,347072,£13 18s,"£1,070.00",,Southampton,,16,,TRUE
+"EDVARDSSON, Mr Gustaf Hjalmar",18,3rd Class,349912,£7 15s 6d,£600.00,,Southampton,General Labourer,,,FALSE
+"EKLUND, Mr Hans Linus",16,3rd Class,347074,£7 15s 6d,£600.00,,Southampton,General Labourer,,,FALSE
+"EKSTROM, Mr Johan",45,3rd Class,347061,£6 19s 6d,£539.00,,Southampton,General Labourer,,,FALSE
+"ELIAS NASRALLAH, Mr Tannous",22,3rd Class,2695,£7 4s 7d,£558.00,,Cherbourg,General Labourer,,,FALSE
+"ELIAS, Mr Dibo",29,3rd Class,2674,£7 4s 6d,£558.00,,Cherbourg,General Labourer,,,FALSE
+"ELIAS, Mr Joseph jr.",15,3rd Class,2690,£7 4s 7d,£558.00,,Cherbourg,General Labourer,,,FALSE
+"ELSBURY, Mr William James",47,3rd Class,3902,£7 5s,£560.00,,Southampton,Farmer,,,FALSE
+"EMANUEL, Miss Virginia Ethel",5,3rd Class,364516,£12 9s 6d,£963.00,,Southampton,,13,,TRUE
+"ESTANISLAU, Mr Manuel GonÄö√†√∂àö√ºalves",37,3rd Class,3101306,£7 1s,£544.00,,Southampton,General Labourer,,,FALSE
+"EVERETT, Mr Thomas James",39,3rd Class,6212,£15 2s,"£1,170.00",,Southampton,Crane Operator,,187,FALSE
+"FARRELL, Mr James ""Jim""",25,3rd Class,367232,£7 15s,£598.00,,Queenstown,Farm Labourer,,68,FALSE
+"FINOLI, Mr Luigi",34,3rd Class,3101308,£7 1s,£544.00,,Southampton,,15,,TRUE
+"FISCHER, Mr Eberhard Thelander",18,3rd Class,350036,£7 15s 11d,£602.00,,Southampton,,,,FALSE
+"FLEMING, Miss Honora",22,3rd Class,364859,£7 15s,£598.00,,Queenstown,,,,FALSE
+"FLYNN, Mr James",28,3rd Class,364851,£7 15s,£598.00,,Queenstown,General Labourer,,,FALSE
+"FLYNN, Mr John",42,3rd Class,368323,£6 19s,£537.00,,Queenstown,Farm Labourer,,,FALSE
+"FOLEY, Mr Joseph",19,3rd Class,330910,£7 17s 7d,£608.00,,Queenstown,Farm Labourer,,,FALSE
+"FOLEY, Mr William",20,3rd Class,365235,£7 15s,£598.00,,Queenstown,Farm Labourer,,,FALSE
+"FOO, Mr Choong",32,3rd Class,1601,£56 9s 11d,"£4,360.00",,Southampton,Seaman,13,,TRUE
+"FORD, Miss Dollina Margaret",20,3rd Class,6608,£34 7s 6d,"£2,650.00",,Southampton,Servant,,,FALSE
+"FORD, Miss Robina Maggie",7,3rd Class,6608,£34 7s 6d,"£2,650.00",,Southampton,,,,FALSE
+"FORD, Mr Arthur",22,3rd Class,1478,£8 1s,£622.00,,Southampton,Carpenter / Joiner,,,FALSE
+"FORD, Mr Edward Watson",18,3rd Class,6608,£34 7s 6d,"£2,650.00",,Southampton,Blacksmith,,,FALSE
+"FORD, Mr William Neal Thomas",16,3rd Class,6608,£34 7s 6d,"£2,650.00",,Southampton,Messenger,,,FALSE
+"FORD, Mrs Margaret Ann Watson",48,3rd Class,6608,£34 7s 6d,"£2,650.00",,Southampton,Farmer,,,FALSE
+"FOX, Mr Patrick",28,3rd Class,368573,£7 15s,£598.00,,Queenstown,General Labourer,,,FALSE
+"FRANKLIN, Mr Charles (""Charles Fardon"")",38,3rd Class,3101314,£7 5s,£560.00,,Southampton,Carpenter / Joiner,,,FALSE
+"GALLAGHER, Mr Martin",29,3rd Class,36864,£7 14s 10d,£598.00,,Queenstown,Farm Labourer,,,FALSE
+"GARFIRTH, Mr John",21,3rd Class,358585,£14 10s,"£1,120.00",,Southampton,Shoemaker,,,FALSE
+"GEORGE/JOSEPH, Mrs Shawneene",38,3rd Class,2688,£7 4s 7d,£558.00,,Cherbourg,,C,,TRUE
+"GERIOS THAMAH, Mr Assaf",21,3rd Class,2692,£7 4s 6d,£558.00,,Cherbourg,Farm Labourer,,,FALSE
+"GHEORGHEFF, Mr Stanio",,3rd Class,349254,£7 17s 11d,£610.00,,Cherbourg,General Labourer,,,FALSE
+"GILINSKI, Mr Eliezer",22,3rd Class,14973,£8 1s,£622.00,,Southampton,Locksmith,,47,FALSE
+"GILNAGH, Miss Mary Katherine ""Katie""",17,3rd Class,35851,£7 14s 8d,£597.00,,Queenstown,,16,,TRUE
+"GLYNN, Miss Mary Agatha",19,3rd Class,335677,£7 15s,£598.00,,Queenstown,,13,,TRUE
+"GOLDSMITH, Master Frank John William",9,3rd Class,363291,£20 10s 6d,"£1,580.00",,Southampton,,C,,TRUE
+"GOLDSMITH, Mr Frank John",33,3rd Class,363291,£20 10s 6d,"£1,580.00",,Southampton,Turner,,,FALSE
+"GOLDSMITH, Mr Nathan",41,3rd Class,3101263,£7 17s,£606.00,,Southampton,Shoemaker,,,FALSE
+"GOLDSMITH, Mrs Emily Alice",31,3rd Class,363291,£20 10s 6d,"£1,580.00",,Southampton,,C,,TRUE
+"GOODWIN, Master Harold Victor",9,3rd Class,2144,£46 18s,"£3,620.00",,Southampton,,,,FALSE
+"GOODWIN, Master Sidney Leslie",1,3rd Class,2144,£46 18s,"£3,620.00",,Southampton,,,4,FALSE
+"GOODWIN, Master William Frederick",11,3rd Class,2144,£46 18s,"£3,620.00",,Southampton,,,,FALSE
+"GOODWIN, Miss Jessie Allis",10,3rd Class,2144,£46 18s,"£3,620.00",,Southampton,,,,FALSE
+"GOODWIN, Miss Lillian Amy",16,3rd Class,2144,£46 18s,"£3,620.00",,Southampton,Servant,,,FALSE
+"GOODWIN, Mr Charles Edward",14,3rd Class,2144,£46 18s,"£3,620.00",,Southampton,Scholar,,,FALSE
+"GOODWIN, Mr Frederick Joseph",42,3rd Class,2144,£46 18s,"£3,620.00",,Southampton,Engineer,,,FALSE
+"GOODWIN, Mrs Augusta",43,3rd Class,2144,£46 18s,"£3,620.00",,Southampton,,,,FALSE
+"GRONNESTAD, Mr Daniel Danielsen",32,3rd Class,8471,£8 6s 15d,£646.00,,Southampton,General Labourer,,,FALSE
+"GREEN, Mr George Henry",40,3rd Class,21440,£8 1s,£622.00,,Southampton,Farrier,,,FALSE
+"GUEST, Mr Robert",23,3rd Class,376563,£8 1s,£622.00,,Southampton,General Labourer,,,FALSE
+"GUSTAFSSON, Mr Alfred Ossian",19,3rd Class,7534,£9 16s 11d,£760.00,,Southampton,General Labourer,,,FALSE
+"GUSTAFSSON, Mr Anders Vilhelm",37,3rd Class,3101276,£7 18s 6d,£612.00,,Southampton,General Labourer,,98,FALSE
+"GUSTAFSSON, Mr Johan Birger",28,3rd Class,3101277,£7 18s 6d,£612.00,,Southampton,,,,FALSE
+"GUSTAFSSON, Mr Karl Gideon",19,3rd Class,347069,£7 15s 6d,£600.00,,Southampton,General Labourer,,,FALSE
+"HAAS, Miss Aloisia",24,3rd Class,349236,£8 17s,£683.00,,Southampton,General Labourer,,,FALSE
+"HAGLAND, Mr Ingvald Olai Olsen",28,3rd Class,65303,£6 19s 4d,£538.00,,Southampton,General Labourer,,,FALSE
+"HAGLAND, Mr Konrad Mathias Reiersen",19,3rd Class,65304,£6 19s 4d,£538.00,,Southampton,General Labourer,,,FALSE
+"HAKKARAINEN, Mr Pekka Pietari",28,3rd Class,3101279,£15 17s,"£1,220.00",,Southampton,General Labourer,,,FALSE
+"HAKKARAINEN, Mrs Elin Matilda",24,3rd Class,3101279,£15 17s,"£1,220.00",,Southampton,,15,,TRUE
+"HAMPE, Mr Leon Jerome",19,3rd Class,345769,£9 10s,£734.00,,Southampton,Painter & Decorator,,,FALSE
+"HANNA, Mr Boulos",18,3rd Class,2664,£7 4s 6d,£558.00,,Cherbourg,General Labourer,,,FALSE
+"HANNA, Mr Mansour",35,3rd Class,2693,£7 4s 7d,£558.00,,Cherbourg,,,188,FALSE
+"HANNAH, Mr Borak (""Hannah Assi Borah"")",27,3rd Class,2663,£7 4s 7d,£558.00,,Cherbourg,,15,,TRUE
+"HANSEN, Mr Claus Peter",41,3rd Class,350026,£14 2s 2d,"£1,090.00",,Southampton,Barber,,,FALSE
+"HANSEN, Mr Henrik Juul",26,3rd Class,350025,£7 17s 1d,£606.00,,Southampton,Farmer,,,FALSE
+"HANSEN, Mr Henry Damsgaard",21,3rd Class,350029,£7 17s 1d,£606.00,,Southampton,Manufacturer,,69,FALSE
+"HANSEN, Mrs Jennie Louise",45,3rd Class,350026,£14 2s 2d,"£1,090.00",,Southampton,,11,,TRUE
+"HARGADON, Miss Catherine ""Kate""",17,3rd Class,30631,£7 14s 8d,£597.00,,Queenstown,,,,FALSE
+"HARKNETT, Miss Alice Phoebe",21,3rd Class,6609,£7 11s,£583.00,,Southampton,Servant,,,FALSE
+"HART, Mr Henry",28,3rd Class,394140,£6 17s 2d,£530.00,,Queenstown,General Labourer,,,FALSE
+"HASSAN ABILMONA, Mr Houssein Mohamed",11,3rd Class,2699,£18 15s 9d,"£1,450.00",,Cherbourg,,,,FALSE
+"HEALY, Miss Hanora ""Nora""",29,3rd Class,370375,£7 15s,£598.00,,Queenstown,,16,,TRUE
+"HEDMAN, Mr Oskar Arvid",27,3rd Class,347089,£6 19s 6d,£539.00,,Southampton,Settler Recruiter,15,,TRUE
+"HEE, Mr Ling",24,3rd Class,1601,£56 9s 11d,"£4,360.00",,Southampton,Seaman,C,,TRUE
+"HEGARTY, Miss Hanora ""Nora""",18,3rd Class,365226,£6 15s,£521.00,,Queenstown,,,,FALSE
+"HEIKKINEN, Miss Laina",26,3rd Class,3101282,£7 18s 6d,£612.00,,Southampton,,,,TRUE
+"HEININEN, Miss Wendla Maria",23,3rd Class,3101290,£7 18s 6d,£612.00,,Southampton,Servant,,8,FALSE
+"HELLSTROM, Miss Hilda Maria",22,3rd Class,7548,£8 19s 3d,£692.00,,Southampton,,C,,TRUE
+"HENDEKOVIC, Mr Ignjac",28,3rd Class,349243,£7 17s 11d,£610.00,,Southampton,General Labourer,,306,FALSE
+"HENRIKSSON, Miss Jenny Lovisa",28,3rd Class,347086,£7 15s 6d,£600.00,,Southampton,Servant,,3,FALSE
+"HENRY, Miss Bridget Delia",21,3rd Class,382649,£7 15s,£598.00,,Queenstown,,,,FALSE
+"HIRVONEN, Miss Hildur Elisabeth",2,3rd Class,3101298,£12 5s 9d,£949.00,,Southampton,,15,,TRUE
+"HIRVONEN, Mrs Helga Elisabeth Lindqvist",22,3rd Class,3101298,£12 5s 9d,£949.00,,Southampton,,15,,TRUE
+"HOLM, Mr John Fredrik Alexander",43,3rd Class,7075,£6 9s,£498.00,,Southampton,Farmer,,,FALSE
+"HOLTHEN, Mr Johan Martin",28,3rd Class,4001,£22 10s 6d,"£1,740.00",,Southampton,Seaman,,,FALSE
+"HONKANEN, Miss Eliina",27,3rd Class,3101283,£7 18s 6d,£612.00,,Southampton,,,,TRUE
+"HORGAN, Mr John",22,3rd Class,370377,£7 15s,£598.00,,Queenstown,General Labourer,,,FALSE
+"HOWARD, Miss May Elizabeth",27,3rd Class,39186,£8 1s,£622.00,,Southampton,Laundry Worker,C,,TRUE
+"HUMBLEN, Mr Adolf Mathias Nicolai Olsen",42,3rd Class,348121,£7 13s,£591.00,,Southampton,Farmer,,120,FALSE
+"HYMAN, Mr Abraham Joseph",34,3rd Class,3470,£7 17s 9d,£609.00,,Southampton,Framer,C,,TRUE
+"IBRAHIM SHAWAH, Mr Yousseff",33,3rd Class,2627,£14 9s 2d,"£1,120.00",,Cherbourg,,,,FALSE
+"ILIEFF, Mr Ylio",32,3rd Class,349220,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"ILMAKANGAS, Miss Ida Livija",27,3rd Class,3101270,£7 18s 6d,£612.00,,Southampton,Servant,,,FALSE
+"ILMAKANGAS, Miss Pieta Sofia",25,3rd Class,3101271,£7 18s 6d,£612.00,,Southampton,Servant,,,FALSE
+"IVANOFF, Mr Kanio",20,3rd Class,349201,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"JONSSON, Mr Nils Hilding",27,3rd Class,350408,£7 17s 1d,£606.00,,Southampton,General Labourer,,,FALSE
+"JABBUR (ZABOUR), Miss Hileni",16,3rd Class,2665,£14 9s 1d,"£1,120.00",,Cherbourg,Housekeeper,,328,FALSE
+"JABBUR (ZABOUR), Miss Thamine",19,3rd Class,2665,£14 9s 1d,"£1,120.00",,Cherbourg,Housekeeper,,,FALSE
+"JALCEVAC, Mr Ivan",29,3rd Class,349240,£7 17s 11d,£610.00,,Cherbourg,,15,,TRUE
+"JANSSON, Mr Carl Olof",21,3rd Class,350034,£7 15s 11d,£602.00,,Southampton,,A,,TRUE
+"JARDIM, Mr Jose Neto",21,3rd Class,3101305,£7 1s,£544.00,,Southampton,General Labourer,,,FALSE
+"JENSEN, Mr Hans Peder",20,3rd Class,350050,£7 17s 1d,£606.00,,Southampton,,,,FALSE
+"JENSEN, Mr Niels Peder (""Rasmus"")",48,3rd Class,350048,£7 1s 1d,£545.00,,Southampton,Farmer,,,FALSE
+"JENSEN, Mr Svend Lauritz",17,3rd Class,350047,£7 17s 1d,£606.00,,Southampton,Farmer,,,FALSE
+"JERMYN, Miss Annie Jane",26,3rd Class,14313,£7 15s,£598.00,,Queenstown,,D,,TRUE
+"JOHANNESEN, Mr Bernt Johannes",29,3rd Class,65306,£8 2s 3d,£626.00,,Southampton,,13,,TRUE
+"JOHANSON, Mr Jakob Alfred",34,3rd Class,3101264,£6 9s 11d,£502.00,,Southampton,General Labourer,,143,FALSE
+"JOHANSSON PALMQUIST, Mr Oskar Leander",26,3rd Class,347070,£7 15s 6d,£600.00,,Southampton,,15,,TRUE
+"JOHANSSON, Mr Erik",22,3rd Class,350052,£7 15s 11d,£602.00,,Southampton,General Labourer,,156,FALSE
+"JOHANSSON, Mr Gustaf Joel",33,3rd Class,7540,£8 13s 1d,£668.00,,Southampton,,,285,FALSE
+"JOHANSSON, Mr Karl Johan",31,3rd Class,347063,£7 15s 6d,£600.00,,Southampton,,,,FALSE
+"JOHANSSON, Mr Nils",29,3rd Class,347467,£7 17s 1d,£606.00,,Southampton,General Labourer,,,FALSE
+"JOHNSON, Master Harold Theodor",4,3rd Class,347742,£11 2s 8d,£860.00,,Southampton,,15,,TRUE
+"JOHNSON, Miss Eleanor Ileen",1,3rd Class,347742,£11 2s 8d,£860.00,,Southampton,,15,,TRUE
+"JOHNSON, Mr Alfred",49,3rd Class,370160,,,,Southampton,Seaman,,,FALSE
+"JOHNSON, Mr Malkolm Joackim",33,3rd Class,347062,£7 15s 6d,£600.00,,Southampton,General Labourer,,37,FALSE
+"JOHNSON, Mr William Cahoone Jr.",19,3rd Class,370160,,,,Southampton,Seaman,,,FALSE
+"JOHNSON, Mrs Elisabeth Vilhelmina",26,3rd Class,347742,£11 2s 8d,£860.00,,Southampton,,15,,TRUE
+"JOHNSTON, Master William Andrew",8,3rd Class,6607,£23 9s,"£1,810.00",,Southampton,,,,FALSE
+"JOHNSTON, Miss Catherine Nellie",7,3rd Class,6607,£23 9s,"£1,810.00",,Southampton,,,,FALSE
+"JOHNSTON, Mr Andrew Emslie",35,3rd Class,6607,£23 9s,"£1,810.00",,Southampton,Plumber,,,FALSE
+"JOHNSTON, Mrs Eliza",34,3rd Class,6607,£23 9s,"£1,810.00",,Southampton,,,,FALSE
+"JONKOFF, Mr Lalio",23,3rd Class,349204,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"JONSSON, Mr Carl",25,3rd Class,350417,£7 17s 1d,£606.00,,Southampton,General Labourer,15,,TRUE
+"JOSEPH (SHAHIN), Mr Elias",39,3rd Class,2675,£7 4s 7d,£558.00,,Cherbourg,,,,FALSE
+"JUSSILA, Miss Katriina",20,3rd Class,4136,£9 16s 10d,£760.00,,Southampton,Servant,,,FALSE
+"JUSSILA, Miss Mari Aina",21,3rd Class,4137,£9 16s 10d,£760.00,,Southampton,Servant,,,FALSE
+"JUSSILA, Mr Eiriik",32,3rd Class,3101286,£7 18s 6d,£612.00,,Southampton,,15,,TRUE
+"KALLIO, Mr Nikolai Erland",17,3rd Class,3101274,£7 2s 6d,£550.00,,Southampton,General Labourer,,,FALSE
+"KALVIK, Mr Johannes Halvorsen",21,3rd Class,8475,£8 8s 8d,£651.00,,Southampton,General Labourer,,,FALSE
+"KARAJIC, Mr Milan",30,3rd Class,349246,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"KARLSSON, Mr Einar Gervasius",21,3rd Class,350053,£7 15s 11d,£602.00,,Southampton,Military,13,,TRUE
+"KARLSSON, Mr Julius Konrad Eugen",33,3rd Class,347465,£7 17s 1d,£606.00,,Southampton,Engineer,,,FALSE
+"KARLSSON, Mr Nils August",22,3rd Class,350060,£7 10s 5d,£581.00,,Southampton,Farmer,,,FALSE
+"KARUN, Miss Manca",4,3rd Class,349256,£13 8s 4d,"£1,040.00",,Cherbourg,,15,,TRUE
+"KARUN, Mr Franz",39,3rd Class,349256,£13 8s 4d,"£1,040.00",,Cherbourg,Hotelier,15,,TRUE
+"KASSEM HOUSSEIN, Mr Fared",18,3rd Class,2700,£7 4s 7d,£558.00,,Cherbourg,Farmer,,,FALSE
+"KATAVELOS, Mr Vasilios G.",19,3rd Class,2682,£7 4s 7d,£558.00,,Cherbourg,Farmer,,58,FALSE
+"KEANE, Mr Andrew ""Andy""",23,3rd Class,12460,£7 15s,£598.00,,Queenstown,Farm Labourer,,,FALSE
+"KEEFE, Mr Arthur",39,3rd Class,323592,£7 5s,£560.00,,Southampton,Farmer,A,332,FALSE
+"KELLY, Miss Anna Katherine",20,3rd Class,9234,£7 15s,£598.00,,Queenstown,,16,,TRUE
+"KELLY, Miss Mary",22,3rd Class,14312,£7 15s,£598.00,,Queenstown,,D,,TRUE
+"KELLY, Mr James",44,3rd Class,330911,£7 16s 7d,£605.00,,Queenstown,Farm Labourer,,70,FALSE
+"KELLY, Mr James",19,3rd Class,363592,£8 1s,£622.00,,Southampton,Painter & Decorator,,,FALSE
+"KENNEDY, Mr John",24,3rd Class,368783,£7 15s,£598.00,,Queenstown,Farm Labourer,,,TRUE
+"KHALIL, Mr Betros",25,3rd Class,2660,£14 9s 1d,"£1,120.00",,Cherbourg,Farm Labourer,,,FALSE
+"KHALIL, Mrs Zahie ""Maria""",20,3rd Class,2660,£14 9s 1d,"£1,120.00",,Cherbourg,Farm Labourer,,,FALSE
+"KIERNAN, Mr John",25,3rd Class,367227,£7 15s,£598.00,,Queenstown,General Labourer,,,FALSE
+"KIERNAN, Mr Philip",22,3rd Class,367229,£7 15s,£598.00,,Queenstown,General Labourer,,,FALSE
+"KILGANNON, Mr Thomas",22,3rd Class,36865,£7 14s 9d,£597.00,,Queenstown,Farm Labourer,,,FALSE
+"KINK-HEILMANN, Miss Luise Gretchen",4,3rd Class,315153,£22 6d,"£1,720.00",,Southampton,,2,,TRUE
+"KINK-HEILMANN, Mrs Luise",26,3rd Class,315153,£22 6d,"£1,720.00",,Southampton,,2,,TRUE
+"KINK, Miss Maria",22,3rd Class,315152,£8 13s 3d,£669.00,,Southampton,,,,FALSE
+"KINK, Mr Anton",29,3rd Class,315153,£22 6d,"£1,720.00",,Southampton,,2,,TRUE
+"KINK, Mr Vincenz",26,3rd Class,315151,£8 13s 3d,£669.00,,Southampton,Magazineer,,,FALSE
+"KLASEN, Miss Gertrud Emilia",1,3rd Class,350405,£12 3s 8d,£941.00,,Southampton,,,,FALSE
+"KLASEN, Mr Klas Albin",18,3rd Class,350404,£7 17s 1d,£606.00,,Southampton,Farm Labourer,,,FALSE
+"KLASEN, Mrs Hulda Kristina Eugenia",36,3rd Class,350405,£12 3s 8d,£941.00,,Southampton,Housewife,,,FALSE
+"KRAEFF, Mr Theodor",,3rd Class,349253,£7 17s 11d,£610.00,,Cherbourg,General Labourer,,,FALSE
+"KREKORIAN, Mr Neshan",25,3rd Class,2654,£7 4s 7d,£558.00,,Cherbourg,General Labourer,10,,TRUE
+"KUTSCHER (LITHMAN), Mr Simon",26,3rd Class,251,£7 11s,£583.00,,Southampton,Baker,,,FALSE
+"LAHOUD ISHAQ MOWAD, Mr Sarkis",30,3rd Class,2624,£7 4s 6d,£558.00,,Cherbourg,General Labourer,,,FALSE
+"LAITINEN, Miss Kristina Sofia",37,3rd Class,4135,£9 11s 9d,£740.00,,Southampton,Housekeeper,,,FALSE
+"LALEFF, Mr Kristo",23,3rd Class,349217,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"LAM, Mr Ali",38,3rd Class,1601,£56 9s 11d,"£4,360.00",,Southampton,Seaman,C,,TRUE
+"LAM, Mr Len",23,3rd Class,1601,£56 9s 11d,"£4,360.00",,Southampton,Seaman,,,FALSE
+"LANDERGREN, Miss Aurora Adelia",22,3rd Class,7077,£7 5s,£560.00,,Southampton,,13,,TRUE
+"LANE, Mr Patrick",16,3rd Class,7935,£7 15s,£598.00,,Queenstown,Farm Labourer,,,FALSE
+"LANG, Mr Fang",32,3rd Class,1601,£56 9s 11d,"£4,360.00",,Southampton,Seaman,14,,TRUE
+"LARSSON-RONDBERG, Mr Edvard A.",22,3rd Class,347065,£7 15s 6d,£600.00,,Southampton,General Labourer,,,FALSE
+"LARSSON, Mr August Viktor",29,3rd Class,7545,£9 9s 8d,£732.00,,Southampton,General Labourer,,,FALSE
+"LARSSON, Mr Bengt Edvin",29,3rd Class,347067,£7 15s 6d,£600.00,,Southampton,General Labourer,,,FALSE
+"LEENI, Mr Fahim (""Philip Zenni"")",22,3rd Class,2620,£7 4s 6d,£558.00,,Cherbourg,General Labourer,6,,TRUE
+"LEFEBVRE, Master Henry",5,3rd Class,4133,£25 9s 4d,"£1,970.00",,Southampton,,,,FALSE
+"LEFEBVRE, Miss Ida",3,3rd Class,4133,£25 9s 4d,"£1,970.00",,Southampton,,,,FALSE
+"LEFEBVRE, Miss Jeannie",8,3rd Class,4133,£25 9s 4d,"£1,970.00",,Southampton,,,,FALSE
+"LEFEBVRE, Miss Mathilde",12,3rd Class,4133,£25 9s 4d,"£1,970.00",,Southampton,,,,FALSE
+"LEFEBVRE, Mrs Frances Marie",40,3rd Class,4133,£25 9s 4d,"£1,970.00",,Southampton,,,,FALSE
+"LEINONEN, Mr Antti Gustaf",32,3rd Class,3101292,£7 18s 6d,£612.00,,Southampton,,,,FALSE
+"LENNON, Mr Denis",20,3rd Class,370371,£15 10s,"£1,200.00",,Queenstown,General Labourer,,,FALSE
+"LEONARD, Mr Lionel",36,3rd Class,370160,,,,Southampton,Seaman,,,FALSE
+"LESTER, Mr James",26,3rd Class,48871,£24 3s,"£1,860.00",,Southampton,Dipper,,,FALSE
+"LIEVENS, Mr Rene Aime",24,3rd Class,345781,£9 10s,£734.00,,Southampton,Farmer,,,FALSE
+"LINDAHL, Miss Agda Thorilda Viktoria",25,3rd Class,347071,£7 15s 6d,£600.00,,Southampton,,,,FALSE
+"LINDBLOM, Miss Augusta Charlotta",45,3rd Class,347073,£7 15s,£598.00,,Southampton,,,,FALSE
+"LINDELL, Mr Edvard Bengtsson",36,3rd Class,349910,£15 11s,"£1,200.00",,Southampton,General Labourer,A,,FALSE
+"LINDELL, Mrs Elin Gerda",30,3rd Class,349910,£15 11s,"£1,200.00",,Southampton,,A,,FALSE
+"LINDQVIST, Mr Eino William",20,3rd Class,3101285,£7 18s 6d,£612.00,,Southampton,,15,,TRUE
+"LINEHAN, Mr Michael",21,3rd Class,330971,£7 17s 7d,£608.00,,Queenstown,Farm Labourer,,,FALSE
+"LING, Mr Lee",28,3rd Class,1601,£56 9s 11d,"£4,360.00",,Southampton,Seaman,,,FALSE
+"LINHART, Mr Wenzel",27,3rd Class,345775,£9 10s,£734.00,,Southampton,Baker,,298,FALSE
+"LIVSHIN, Mr David (Abraham Harmer)",25,3rd Class,374887,£7 5s,£560.00,,Southampton,Jeweller,B,,FALSE
+"LOBB, Mr William Arthur",30,3rd Class,3336,£16 2s,"£1,240.00",,Southampton,Engineer,,,FALSE
+"LOBB, Mrs Cordelia K.",26,3rd Class,3336,£16 2s,"£1,240.00",,Southampton,,,55,FALSE
+"LOCKYER, Mr Edward Thomas",21,3rd Class,1222,£7 17s 7d,£608.00,,Southampton,Grocers Assistant,,153,FALSE
+"LOVELL, Mr John Hall (""Henry"")",20,3rd Class,21173,£7 5s,£560.00,,Southampton,Farmer,,,FALSE
+"LULIC, Mr Nikola",29,3rd Class,315098,£8 13s 3d,£669.00,,Southampton,,15,,TRUE
+"LUNDAHL, Mr Johan Svensson",51,3rd Class,347743,£7 1s 1d,£545.00,,Southampton,General Labourer,,,FALSE
+"LUNDSTROM, Mr Thure Edvin",32,3rd Class,350403,£7 11s 7d,£585.00,,Southampton,,15,,TRUE
+"LYMPEROPOULUS, Mr Panagiotis K.",30,3rd Class,2683,£6 8s 9d,£497.00,,Cherbourg,General Labourer,,196,FALSE
+"LYNTAKOFF, Mr Stanko",44,3rd Class,349235,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+MAENPAA Mr Matti Alexanteri,22,3rd Class,3101275,£7 2s 6d,£550.00,,Southampton,,,,FALSE
+"MAKINEN, Mr Kalle Edvard",29,3rd Class,3101268,£7 18s 6d,£612.00,,Southampton,General Labourer,,,FALSE
+"MACKAY, Mr George William",20,3rd Class,42795,£7 11s,£583.00,,Southampton,Butler,,,FALSE
+"MADIGAN, Miss Margaret ""Maggie""",21,3rd Class,370370,£7 15s,£598.00,,Queenstown,,15,,TRUE
+"MADSEN, Mr Fridtjof Arne",24,3rd Class,17369,£7 2s 10d,£551.00,,Southampton,,13,,TRUE
+"MAHON, Miss Bridget Delia",20,3rd Class,330924,£7 17s 7d,£608.00,,Queenstown,,,,FALSE
+"MAISNER, Mr Simon",34,3rd Class,2816,£8 1s,£622.00,,Southampton,Tailor,,,FALSE
+"MAMEE, Mr Hanna",20,3rd Class,2677,£7 4s 7d,£558.00,,Cherbourg,,15,,TRUE
+"MANGAN, Miss Mary",32,3rd Class,364850,£7 15s,£598.00,,Queenstown,,,61,FALSE
+"MANNION, Miss Margaret",28,3rd Class,36866,£7 14s 9d,£597.00,,Queenstown,,16,,TRUE
+"MARDIROSIAN, Mr Sarkis",25,3rd Class,2655,£7 4s 7d,£558.00,,Cherbourg,Farm Labourer,,,FALSE
+"MARINKO, Mr Dmitri",23,3rd Class,349238,£7 17s 11d,£610.00,,Southampton,,,,FALSE
+"MARKOFF, Mr Marin",35,3rd Class,349213,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"MARKUN, Mr Johann",33,3rd Class,349257,£7 17s 11d,£610.00,,Cherbourg,General Labourer,,,FALSE
+"MATINOFF, Mr Nicola",30,3rd Class,349255,£7 17s 11d,£610.00,,Cherbourg,,,,FALSE
+"MCCARTHY, Miss Catherine ""Katie""",24,3rd Class,383123,£7 15s,£598.00,,Queenstown,,15,,TRUE
+"MCCORMACK, Mr Thomas Joseph",19,3rd Class,367228,£7 15s,£598.00,,Queenstown,Barman,,,TRUE
+"MCCOY, Miss Agnes",29,3rd Class,367226,£23 5s,"£1,800.00",,Queenstown,,16,,TRUE
+"MCCOY, Miss Alicia",26,3rd Class,367226,£23 5s,"£1,800.00",,Queenstown,,16,,TRUE
+"MCCOY, Mr Bernard",24,3rd Class,367226,£23 5s,"£1,800.00",,Queenstown,General Labourer,16,,TRUE
+"MCDERMOTT, Miss Bridget Delia",31,3rd Class,330932,£7 15s 8d,£600.00,,Queenstown,,13,,TRUE
+"MCEVOY, Mr Michael",19,3rd Class,36568,£15 10s,"£1,200.00",,Queenstown,Farm Labourer,,,FALSE
+"MCGOVERN, Ms Mary",22,3rd Class,330931,£7 17s 7d,£608.00,,Queenstown,,13,,TRUE
+"MCGOWAN, Miss Anna ""Annie""",17,3rd Class,330923,£8 7d,£645.00,,Queenstown,,,,TRUE
+"MCGOWAN, Miss Katherine",42,3rd Class,9232,£7 15s,£598.00,,Queenstown,,,,FALSE
+"MCMAHON, Mr Martin",20,3rd Class,370372,£7 15s,£598.00,,Queenstown,Farm Labourer,,,FALSE
+"MCNAMEE, Mr Neal",27,3rd Class,376566,£16 2s,"£1,240.00",,Southampton,Provision Manager,,,FALSE
+"MCNAMEE, Mrs Eileen",19,3rd Class,376566,£16 2s,"£1,240.00",,Southampton,,,53,FALSE
+"MCNEILL, Miss Bridget",27,3rd Class,370368,£7 15s,£598.00,,Queenstown,,,,FALSE
+"MEANWELL, Mrs Marian",63,3rd Class,392087,£8 1s,£622.00,,Southampton,Milliner,,,FALSE
+"MEEHON, Mr John",22,3rd Class,3130,£7 15s,£598.00,,Queenstown,General Labourer,,,FALSE
+"MEEK, Mrs Annie Louise Rowley",31,3rd Class,343095,£8 1s,£622.00,,Southampton,,,,FALSE
+"MEO (MARTINO), Mr Alfonzo",48,3rd Class,11206,£8 1s,£622.00,,Southampton,Musician,,201,FALSE
+"MERNAGH, Mr Robert",28,3rd Class,368703,£7 15s,£598.00,,Queenstown,Farm Labourer,,,FALSE
+"MIDTSJO, Mr Karl Albert",21,3rd Class,345501,£7 15s 6d,£600.00,,Southampton,Farmer,15,,TRUE
+"MIHOFF, Mr Stoytcho",28,3rd Class,349207,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"MILES, Mr Frank",23,3rd Class,359306,£8 1s,£622.00,,Southampton,Engineer,,,FALSE
+"MINEFF, Mr Ivan",24,3rd Class,349233,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"MINKOFF, Mr Lazar",21,3rd Class,349211,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"MITKOFF, Mr Mito",23,3rd Class,349221,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"MOCKLER, Miss Ellen Mary",23,3rd Class,330980,£7 17s 7d,£608.00,,Queenstown,,16,,TRUE
+"MOEN, Mr Sigurd Hansen",27,3rd Class,348123,£7 13s,£591.00,,Southampton,Carpenter / Joiner,,309,FALSE
+"MOOR, Master Meier",7,3rd Class,392096,£12 9s 6d,£963.00,,Southampton,,14,,TRUE
+"MOOR, Mrs Beila",29,3rd Class,392096,£12 9s 6d,£963.00,,Southampton,Tailor,14,,TRUE
+"MOORE, Mr Leonard Charles",19,3rd Class,54510,£8 1s,£622.00,,Southampton,Bricklayer,,,FALSE
+"MORAN, Miss Bertha Bridget",28,3rd Class,371110,£24 3s,"£1,860.00",,Queenstown,,16,,TRUE
+"MORAN, Mr Daniel James",27,3rd Class,371110,£24 3s,"£1,860.00",,Queenstown,General Labourer,,,FALSE
+"MORLEY, Mr William",34,3rd Class,364506,£8 1s,£622.00,,Southampton,Carpenter / Joiner,,,FALSE
+"MORROW, Mr Thomas Rowan",30,3rd Class,372622,£7 15s,£598.00,,Queenstown,General Labourer,,,FALSE
+"MOSS, Mr Albert Johan",29,3rd Class,312991,£7 15s 6d,£600.00,,Southampton,,B,,TRUE
+"MOUBAREK, Master Gerios (""George _"")",7,3rd Class,2661,£15 4s 11d,"£1,180.00",,Cherbourg,,C,,TRUE
+"MOUBAREK, Master Halim Gonios (""William George"")",4,3rd Class,2661,£15 4s 11d,"£1,180.00",,Cherbourg,,C,,TRUE
+"MOUBAREK, Mrs Omine",24,3rd Class,2661,£15 4s 11d,"£1,180.00",,Cherbourg,,C,,TRUE
+"MOUSSA, Mrs Mantoura Boulos",35,3rd Class,2626,£7 4s 7d,£558.00,,Cherbourg,Housewife,,,TRUE
+"MOUSSELMANI, Mrs Fatima",22,3rd Class,2649,£7 4s 6d,£558.00,,Cherbourg,,C,,TRUE
+"MOUTAL, Mr Rahamin Haim",28,3rd Class,374746,£8 1s,£622.00,,Southampton,Traveller,,,FALSE
+"MULLEN, Miss Katherine ""Katie""",21,3rd Class,35852,£7 14s 8d,£597.00,,Queenstown,,16,,TRUE
+"MULLIN, Miss Mary (_Lennon)",18,3rd Class,370371,£15 10s,"£1,200.00",,Queenstown,,,,FALSE
+"MULVIHILL, Miss Bridget Elizabeth",25,3rd Class,382653,£7 15s,£598.00,,Queenstown,,15,,TRUE
+"MURDLIN, Mr Joseph",22,3rd Class,3235,£8 1s,£622.00,,Southampton,Chemist,,,FALSE
+"MURPHY, Miss Catherine ""Kate""",18,3rd Class,367230,£15 10s,"£1,200.00",,Queenstown,,16,,TRUE
+"MURPHY, Miss Margaret Jane ""Mary"" ""Maggie""",25,3rd Class,367230,£15 10s,"£1,200.00",,Queenstown,,16,,TRUE
+"MURPHY, Miss Nora",34,3rd Class,36568,£15 10s,"£1,200.00",,Queenstown,,16,,TRUE
+"MYHRMAN, Mr Pehr Fabian Oliver Malkolm",18,3rd Class,347078,£7 15s,£598.00,,Southampton,General Labourer,,,FALSE
+"NAIDENOFF, Mr Penko",22,3rd Class,349206,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"NAJIB KIAMIE, Miss Adele ""Jane""",15,3rd Class,2667,£7 4s 6d,£558.00,,Cherbourg,,C,,TRUE
+"NAKHLI, Mr Toufik",17,3rd Class,2641,£7 4s 7d,£558.00,,Cherbourg,,,,FALSE
+"NAKID, Miss Maria",1,3rd Class,2653,£15 14s 10d,"£1,220.00",,Cherbourg,,C,,TRUE
+"NAKID, Mr Sahid",20,3rd Class,2653,£15 14s 10d,"£1,220.00",,Cherbourg,,C,,TRUE
+"NAKID, Mrs Waika ""Mary""",19,3rd Class,2653,£15 14s 10d,"£1,220.00",,Cherbourg,,C,,TRUE
+"NANCARROW, Mr William Henry",34,3rd Class,3338,£8 1s,£622.00,,Southampton,Mason,,,FALSE
+"NANKOFF, Mr Minko",32,3rd Class,349218,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"NASR ALMA, Mr Mustafa",20,3rd Class,2652,£7 4s 7d,£558.00,,Cherbourg,Farm Labourer,,,FALSE
+"NASSR RIZQ, Mr Saade",20,3rd Class,2676,£7 4s 6d,£558.00,,Cherbourg,,,,FALSE
+"NAUGHTON, Miss Hannah",21,3rd Class,365237,£7 15s,£598.00,,Queenstown,,,,FALSE
+"NENKOFF, Mr Christo",22,3rd Class,349234,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"NICOLA-YARRED, Master Elias (""Louis Garrett"")",11,3rd Class,2651,£11 4s 10d,£868.00,,Cherbourg,,C,,TRUE
+"NICOLA-YARRED, Miss Jamila (""Amelia Garrett"")",14,3rd Class,2651,£11 4s 10d,£868.00,,Cherbourg,,C,,TRUE
+"NIEMINEN, Miss Manta Josefina",29,3rd Class,3101297,£7 18s 6d,£612.00,,Southampton,Servant,,,FALSE
+"NIKLASSON, Mr Samuel",28,3rd Class,363611,£8 1s,£622.00,,Southampton,General Labourer,,,FALSE
+"NILSSON, Miss Berta Olivia",18,3rd Class,347066,£7 15s 6d,£600.00,,Southampton,,D,,TRUE
+"NILSSON, Miss Helmina Josefina",26,3rd Class,347470,£7 17s 1d,£606.00,,Southampton,,13,,TRUE
+"NILSSON, Mr August Ferdinand",21,3rd Class,350410,£7 17s 1d,£606.00,,Southampton,General Labourer,,,FALSE
+"NIRVA, Mr Iisakki Antino",41,3rd Class,3101272,£7 2s 6d,£550.00,,Southampton,General Labourer,,,FALSE
+"NISKANEN, Mr Juha",39,3rd Class,3101289,£7 18s 6d,£612.00,,Southampton,,9,,TRUE
+"NOFAL, Mr Mansouer",20,3rd Class,2697,£7 4s 7d,£558.00,,Cherbourg,Journalist,,181,FALSE
+"NOSWORTHY, Mr Richard Cater",21,3rd Class,39886,£7 16s,£602.00,,Southampton,Farm Labourer,,,FALSE
+"NYSTEN, Miss Anna Sofia",22,3rd Class,347081,£7 15s,£598.00,,Southampton,,13,,TRUE
+"NYSVEEN, Mr Johan Hansen",60,3rd Class,345364,£6 4s 9d,£482.00,,Southampton,Farmer,,,FALSE
+"O'BRIEN, Mr Thomas",27,3rd Class,370365,£15 10s,"£1,200.00",,Queenstown,Farm Labourer,,,FALSE
+"O'BRIEN, Mr Timothy",21,3rd Class,330979,£7 16s 7d,£605.00,,Queenstown,,,,FALSE
+"O'BRIEN, Mrs Johanna ""Hannah""",26,3rd Class,370365,£15 10s,"£1,200.00",,Queenstown,Housewife,,,TRUE
+"O'CONNELL, Mr Patrick Denis",17,3rd Class,334912,£7 14s 8d,£597.00,,Queenstown,General Labourer,,,FALSE
+"O'CONNOR, Mr Maurice",16,3rd Class,371060,£7 15s,£598.00,,Queenstown,General Labourer,,,FALSE
+"O'CONNOR, Mr Patrick",23,3rd Class,366713,£7 15s,£598.00,,Queenstown,Farmer,,,FALSE
+"O'DRISCOLL, Miss Bridget",27,3rd Class,14311,£7 15s,£598.00,,Queenstown,,D,,TRUE
+"O'DWYER, Miss Ellen ""Nellie""",25,3rd Class,330959,£7 17s 7d,£608.00,,Queenstown,,,,TRUE
+"O'KEEFE, Mr Patrick",21,3rd Class,368402,£7 15s,£598.00,,Queenstown,Farm Labourer,B,,TRUE
+"O'LEARY, Miss Hanora ""Nora""",16,3rd Class,330919,£7 16s 7d,£605.00,,Queenstown,,13,,TRUE
+"O'SULLIVAN, Miss Bridget Mary",21,3rd Class,330909,£7 12s 7d,£589.00,,Queenstown,,,,FALSE
+"OLSEN, Master Artur Karl",9,3rd Class,17368,£3 3s 5d,£245.00,,Southampton,,13,,TRUE
+"OLSEN, Mr Henry Margido",28,3rd Class,4001,£22 10s 6d,"£1,740.00",,Southampton,Engineer,,173,FALSE
+"OLSEN, Mr Karl Siegwart Andreas",42,3rd Class,4579,£8 8s 1d,£649.00,,Southampton,General Labourer,,,FALSE
+"OLSEN, Mr Ole Martin",27,3rd Class,265302,£7 6s 3d,£565.00,,Southampton,General Labourer,,,FALSE
+"OLSSON, Miss Elina",31,3rd Class,350407,£7 17s 1d,£606.00,,Southampton,,,,FALSE
+"OLSSON, Mr Nils Johan Geransson",28,3rd Class,347464,£7 17s 1d,£606.00,,Southampton,,,,FALSE
+"OLSSON, Mr Oscar Wilhelm",32,3rd Class,347079,£7 15s 6d,£600.00,,Southampton,,A,,TRUE
+"OLSVIGEN, Mr Thor Anderson",20,3rd Class,6563,£9 4s 6d,£712.00,,Southampton,Salesman,,89,FALSE
+"ORESKOVIC, Miss Jelka",23,3rd Class,315085,£8 13s 3d,£669.00,,Southampton,Farmer,,,FALSE
+"ORESKOVIC, Miss Marija",20,3rd Class,315096,£8 13s 3d,£669.00,,Southampton,Farm Labourer,,,FALSE
+"ORESKOVIC, Mr Luka",20,3rd Class,315094,£8 13s 3d,£669.00,,Southampton,Farmer,,,FALSE
+"OSEN, Mr Olaf Elon",16,3rd Class,7534,£9 4s 4d,£712.00,,Southampton,Farm Labourer,,,FALSE
+"PALSSON, Master Gusta Leonard",2,3rd Class,349909,£21 1s 6d,"£1,630.00",,Southampton,,,,FALSE
+"PALSSON, Master Paul Folke",6,3rd Class,349909,£21 1s 6d,"£1,630.00",,Southampton,,,,FALSE
+"PALSSON, Miss Stina Viola",3,3rd Class,349909,£21 1s 6d,"£1,630.00",,Southampton,,,,FALSE
+"PALSSON, Miss Torborg Danira",8,3rd Class,349909,£21 1s 6d,"£1,630.00",,Southampton,,,,FALSE
+"PALSSON, Mrs Alma Cornelia",29,3rd Class,349909,£21 1s 6d,"£1,630.00",,Southampton,Housewife,,206,FALSE
+"PANULA, Master Eino Viljam",1,3rd Class,3101295,£39 13s 9d,"£3,060.00",,Southampton,,,,FALSE
+"PANULA, Master Jaako Arnold",14,3rd Class,3101295,£39 13s 9d,"£3,060.00",,Southampton,General Labourer,,,FALSE
+"PANULA, Master Juha Niilo",7,3rd Class,3101295,£39 13s 9d,"£3,060.00",,Southampton,,,,FALSE
+"PANULA, Master Urho Abraham",2,3rd Class,3101295,£39 13s 9d,"£3,060.00",,Southampton,,,,FALSE
+"PANULA, Mr Ernesti Arvid",16,3rd Class,3101295,£39 13s 9d,"£3,060.00",,Southampton,General Labourer,,,FALSE
+"PANULA, Mrs Maija Emelia Abrahamintytar",41,3rd Class,3101295,£39 13s 9d,"£3,060.00",,Southampton,,,,FALSE
+"PASIC, Mr Jakob",21,3rd Class,315097,£8 13s 3d,£669.00,,Southampton,Farmer,,,FALSE
+"PATCHETT, Mr George",19,3rd Class,358585,£14 10s,"£1,120.00",,Southampton,Shoemaker,,,FALSE
+"PAVLOVIC, Mr Stefo",32,3rd Class,349242,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"PEACOCK, Master Alfred Edward",0,3rd Class,3101315,£13 15s 6d,"£1,060.00",,Southampton,,,,FALSE
+"PEACOCK, Miss Treasteall",3,3rd Class,3101315,£13 15s 6d,"£1,060.00",,Southampton,,,,FALSE
+"PEACOCK, Mrs Edith",26,3rd Class,3101315,£13 15s 6d,"£1,060.00",,Southampton,,,,FALSE
+"PEARCE, Mr Ernest",32,3rd Class,343271,£7,£541.00,,Southampton,Farmer,,,FALSE
+"PEDERSEN, Mr Olaf",28,3rd Class,345498,£7 15s 6d,£600.00,,Southampton,General Labourer,,,FALSE
+"PEDUZZI, Mr Giuseppe",24,3rd Class,2817,£8 1s,£622.00,,Southampton,Waiter,,,FALSE
+"PEKONIEMI, Mr Edvard",21,3rd Class,3101294,£7 18s 6d,£612.00,,Southampton,General Labourer,,,FALSE
+"PELTOMAKI, Mr Nikolai Johannes",25,3rd Class,3101291,£7 18s 6d,£612.00,,Southampton,General Labourer,,,FALSE
+"PERKIN, Mr John Henry",22,3rd Class,21174,£7 5s,£560.00,,Southampton,Farmer,,,FALSE
+"PERSSON, Mr Ernst Ulrik",25,3rd Class,347083,£7 15s 6d,£600.00,,Southampton,Chauffeur,15,,TRUE
+"PETER / JOSEPH, Master Michael J. (""Michael Joseph"")",4,3rd Class,2668,£22 7s 2d,"£1,730.00",,Cherbourg,,D,,TRUE
+"PETER / JOSEPH, Miss Anna (""Mary Joseph"")",2,3rd Class,2668,£22 7s 2d,"£1,730.00",,Cherbourg,,C,,TRUE
+"PETER / JOSEPH, Mrs Catherine",24,3rd Class,2668,£22 7s 2d,"£1,730.00",,Cherbourg,,C,,TRUE
+"PETERS, Miss Katie",26,3rd Class,330935,£8 2s 9d,£628.00,,Queenstown,,,,FALSE
+"PETERSEN, Mr Marius",24,3rd Class,342441,£8 1s,£622.00,,Southampton,Dairy Worker,,,FALSE
+"PETRANEC, Miss Matilda",28,3rd Class,349245,£7 17s 11d,£610.00,,Southampton,Servant,,,FALSE
+"PETROFF, Mr Nedialco",19,3rd Class,349212,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"PETROFF, Mr Pastcho",29,3rd Class,349215,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"PETTERSSON, Miss Ellen Natalia",18,3rd Class,347087,£7 15s 6d,£600.00,,Southampton,,,,FALSE
+"PETTERSSON, Mr Johan Emil",25,3rd Class,347076,£7 15s 6d,£600.00,,Southampton,General Labourer,,,FALSE
+"PICKARD, Mr Berk",32,3rd Class,392078,£8 1s,£622.00,,Southampton,Leather Worker,9,,TRUE
+"PLOTCHARSKY, Mr Vasil",27,3rd Class,349227,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"POKRNIC, Mr Mate",17,3rd Class,315095,£8 13s 3d,£669.00,,Southampton,,,,FALSE
+"POKRNIC, Mr Tome",24,3rd Class,315092,£8 13s 3d,£669.00,,Southampton,,,,FALSE
+"PULNER, Mr Uscher",16,3rd Class,3411,£8 14s 3d,£673.00,,Cherbourg,,,,FALSE
+"RADEFF, Mr Alexander",27,3rd Class,349223,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"RASMUSSEN, Mrs Lena Jakobsen",63,3rd Class,65305,£8 2s 3d,£626.00,,Southampton,,,,FALSE
+"RAZI, Mr Raihed",30,3rd Class,2629,£7 4s 7d,£558.00,,Cherbourg,,,,FALSE
+"REED, Mr James George",19,3rd Class,362316,£7 5s,£560.00,,Southampton,Butcher,,,FALSE
+"REKIC, Mr Tido",38,3rd Class,349249,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"REYNOLDS, Mr Harold J.",21,3rd Class,342684,£8 1s,£622.00,,Southampton,Baker,,327,FALSE
+"RICE, Master Albert",10,3rd Class,382652,£29 2s 6d,"£2,250.00",,Queenstown,,,,FALSE
+"RICE, Master Arthur",4,3rd Class,382652,£29 2s 6d,"£2,250.00",,Queenstown,,,,FALSE
+"RICE, Master Eric",7,3rd Class,382652,£29 2s 6d,"£2,250.00",,Queenstown,,,,FALSE
+"RICE, Master Eugene Francis",2,3rd Class,382652,£29 2s 6d,"£2,250.00",,Queenstown,,,,FALSE
+"RICE, Master George Hugh",8,3rd Class,382652,£29 2s 6d,"£2,250.00",,Queenstown,,,,FALSE
+"RICE, Mrs Margaret",39,3rd Class,382652,£29 2s 6d,"£2,250.00",,Queenstown,Housekeeper,,12,FALSE
+"RIIHIVUORI, Miss Susanna ""Sanni""",22,3rd Class,3101295,£39 13s 9d,"£3,060.00",,Southampton,,,,FALSE
+"RINTAMAKI, Mr Matti",35,3rd Class,3101273,£7 2s 6d,£550.00,,Southampton,General Labourer,,,FALSE
+"RIORDAN, Miss Hannah",18,3rd Class,334915,£7 14s 5d,£596.00,,Queenstown,,13,,TRUE
+"RISIEN, Mr Samuel Beard",69,3rd Class,364498,£14 10s,"£1,120.00",,Southampton,Hotelier,,,FALSE
+"RISIEN, Mrs Emma",58,3rd Class,364498,£14 10s,"£1,120.00",,Southampton,,,,FALSE
+"ROBINS, Mr Alexander A.",50,3rd Class,3337,£14 10s,"£1,120.00",,Southampton,Mason,,119,FALSE
+"ROBINS, Mrs Grace Charity",47,3rd Class,3337,£14 10s,"£1,120.00",,Southampton,,,7,FALSE
+"ROGERS, Mr William John",29,3rd Class,23567,£8 1s,£622.00,,Southampton,Miner,,,FALSE
+"ROMMETVEDT, Mr Knud Paust",49,3rd Class,312993,£7 15s 6d,£600.00,,Southampton,Tailor,,,FALSE
+"ROSBLOM, Miss Salli Helena",2,3rd Class,370129,£20 4s 3d,"£1,560.00",,Southampton,,,,FALSE
+"ROSBLOM, Mr Viktor Richard",18,3rd Class,370129,£20 4s 3d,"£1,560.00",,Southampton,General Labourer,,,FALSE
+"ROSBLOM, Mrs Helena Wilhelmina",41,3rd Class,370129,£20 4s 3d,"£1,560.00",,Southampton,,,,FALSE
+"ROTH, Miss Sarah A.",26,3rd Class,342712,£8 1s,£622.00,,Southampton,Tailor,C,,TRUE
+"ROUSE, Mr Richard Henry",53,3rd Class,3594,£8 1s,£622.00,,Southampton,Farm Labourer,,,FALSE
+"RUSH, Mr Alfred George John",16,3rd Class,20589,£8 1s,£622.00,,Southampton,Porter,,,FALSE
+"RYAN, Mr Edward",24,3rd Class,383162,£7 15s,£598.00,,Queenstown,General Labourer,14,,TRUE
+"RYAN, Mr Patrick",29,3rd Class,371110,£24 3s,"£1,860.00",,Queenstown,General Labourer,,,FALSE
+"SOHOLT, Mr Peter Andreas Lauritz Andersen",19,3rd Class,348124,£7 13s,£591.00,,Southampton,Carpenter / Joiner,,,FALSE
+"SAETHER, Mr Simon Sivertsen",43,3rd Class,3101262,£7 5s,£560.00,,Southampton,Miner,,32,FALSE
+"SAAD, Mr Amin",30,3rd Class,2671,£7 4s 7d,£558.00,,Cherbourg,Farm Labourer,,,FALSE
+"SAAD, Mr Khalil",27,3rd Class,2672,£7 4s 6d,£558.00,,Cherbourg,Farm Labourer,,,FALSE
+"SADLIER, Mr Matthew",20,3rd Class,367655,£7 14s 7d,£597.00,,Queenstown,Farm Labourer,,,FALSE
+"SADOWITZ, Mr Harry",17,3rd Class,1588,£7 11s 10d,£586.00,,Southampton,Fur Cutter,,,FALSE
+"SAGE, Master Anthony William",12,3rd Class,2343,£69 11s,"£5,370.00",,Southampton,,,67,FALSE
+"SAGE, Master Thomas Henry",4,3rd Class,2343,£69 11s,"£5,370.00",,Southampton,,,,FALSE
+"SAGE, Miss Constance Gladys",7,3rd Class,2343,£69 11s,"£5,370.00",,Southampton,,,,FALSE
+"SAGE, Miss Dorothy",14,3rd Class,2343,£69 11s,"£5,370.00",,Southampton,Scholar,,,FALSE
+"SAGE, Miss Elizabeth Ada",10,3rd Class,2343,£69 11s,"£5,370.00",,Southampton,,,,FALSE
+"SAGE, Miss Stella Anne",20,3rd Class,2343,£69 11s,"£5,370.00",,Southampton,Dressmaker / CouturiÄö√†√∂√Üre,,,FALSE
+"SAGE, Mr Douglas Bullen",18,3rd Class,2343,£69 11s,"£5,370.00",,Southampton,Baker,,,FALSE
+"SAGE, Mr Frederick",16,3rd Class,2343,£69 11s,"£5,370.00",,Southampton,Cook,,,FALSE
+"SAGE, Mr George John",19,3rd Class,2343,£69 11s,"£5,370.00",,Southampton,Barman,,,FALSE
+"SAGE, Mr John George",44,3rd Class,2343,£69 11s,"£5,370.00",,Southampton,Tradesman,,,FALSE
+"SAGE, Mrs Annie Elizabeth",44,3rd Class,2343,£69 11s,"£5,370.00",,Southampton,,,,FALSE
+"SALANDER, Mr Karl Johan",24,3rd Class,7266,£9 6s 6d,£720.00,,Southampton,General Labourer,,,FALSE
+"SALKJELSVIK, Miss Anna Kristine",21,3rd Class,343120,£7 13s,£591.00,,Southampton,,C,,TRUE
+"SALONEN, Mr Johan Werner",29,3rd Class,3101296,£7 18s 6d,£612.00,,Southampton,General Labourer,,,FALSE
+"SAMAAN, Mr Elias",17,3rd Class,2662,£21 13s 7d,"£1,670.00",,Cherbourg,General Labourer,,,FALSE
+"SAMAAN, Mr Hanna Elias",40,3rd Class,2662,£21 13s 7d,"£1,670.00",,Cherbourg,General Labourer,,,FALSE
+"SAMAAN, Mr Youssef (""Joseph"")",15,3rd Class,2662,£21 13s 7d,"£1,670.00",,Cherbourg,General Labourer,,,FALSE
+"SANDSTROM, Miss Beatrice Irene",1,3rd Class,9549,£16 14s,"£1,290.00",,Southampton,,13,,TRUE
+"SANDSTROM, Miss Marguerite Rut",4,3rd Class,9549,£16 14s,"£1,290.00",,Southampton,,13,,TRUE
+"SANDSTROM, Mrs Agnes Charlotta",24,3rd Class,9549,£16 14s,"£1,290.00",,Southampton,,13,,TRUE
+"SAP, Mr Julius (""Jules _"")",21,3rd Class,345768,£9 10s,£734.00,,Southampton,,11,,TRUE
+"SAUNDERCOCK, Mr William Henry",19,3rd Class,2151,£8 1s,£622.00,,Southampton,Miner,,,FALSE
+"SAWYER, Mr Frederick Charles",33,3rd Class,342826,£8 1s,£622.00,,Southampton,Gardener,,284,FALSE
+"SCANLAN, Mr James",22,3rd Class,36209,£7 14s 6d,£597.00,,Queenstown,,,,FALSE
+"SCHEERLINCK, Mr Jean",29,3rd Class,345779,£9 10s,£734.00,,Southampton,,11,,TRUE
+"SDYCOFF, Mr Todor",42,3rd Class,349222,£7 17s 11d,£610.00,,Southampton,,,,FALSE
+"SEMAN, Master Betros",10,3rd Class,2622,£4 3d,£320.00,,Cherbourg,,,,FALSE
+"SHAUGHNESSY, Mr Patrick",24,3rd Class,370374,£7 15s,£598.00,,Queenstown,Farm Labourer,,,FALSE
+"SHEDID, Mr Daher",19,3rd Class,2698,£7 4s 6d,£558.00,,Cherbourg,,,9,FALSE
+"SHELLARD, Mr Frederick William Blainey",55,3rd Class,6212,£15 2s,"£1,170.00",,Southampton,Painter & Decorator,,,FALSE
+"SHINE, Miss Ellen Natalia",20,3rd Class,330968,£7 16s 7d,£605.00,,Queenstown,,,,TRUE
+"SHORNEY, Mr Charles Joseph",22,3rd Class,374910,£8 1s,£622.00,,Southampton,Valet,,,FALSE
+"SIMMONS, Mr John",39,3rd Class,392082,£8 1s,£622.00,,Southampton,General Labourer,,,FALSE
+"SIRAYANIAN, Mr Orsen",22,3rd Class,2669,£7 4s 7d,£558.00,,Cherbourg,Farmer,,,FALSE
+"SIROTA, Mr Maurice",20,3rd Class,392092,£8 1s,£622.00,,Southampton,Tailor,,,FALSE
+"SIVIC, Mr Husein",40,3rd Class,349251,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"SIVOLA, Mr Antti Wilhelm",21,3rd Class,3101280,£7 18s 6d,£612.00,,Southampton,General Labourer,,,FALSE
+"SJàöàÇBLOM, Miss Anna Sofia",18,3rd Class,3101265,£6 9s 11d,£502.00,,Southampton,,16,,TRUE
+"SKOOG, Master Harald",5,3rd Class,347088,£27 18s,"£2,150.00",,Southampton,,,,FALSE
+"SKOOG, Master Karl Thorsten",11,3rd Class,347088,£27 18s,"£2,150.00",,Southampton,,,,FALSE
+"SKOOG, Miss Mabel",9,3rd Class,347088,£27 18s,"£2,150.00",,Southampton,,,,FALSE
+"SKOOG, Miss Margit Elizabeth",2,3rd Class,347088,£27 18s,"£2,150.00",,Southampton,,,,FALSE
+"SKOOG, Mr Wilhelm (""William Johansson"")",40,3rd Class,347088,£27 18s,"£2,150.00",,Southampton,General Labourer,,,FALSE
+"SKOOG, Mrs Anna Bernhardina",43,3rd Class,347088,£27 18s,"£2,150.00",,Southampton,,,,FALSE
+"SLABENOFF, Mr Petco",42,3rd Class,349214,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"SLOCOVSKI, Mr Selman Francis",20,3rd Class,392086,£8 1s,£622.00,,Southampton,Merchant,,,FALSE
+"SMILJANIC, Mr Mile",37,3rd Class,315037,£8 13s 3d,£669.00,,Southampton,Farm Labourer,,,FALSE
+"SMYTH, Miss Julia",17,3rd Class,335432,£7 14s 8d,£597.00,,Queenstown,,13,,TRUE
+"SMYTH, Mr Thomas",26,3rd Class,384461,£7 15s,£598.00,,Queenstown,,,,FALSE
+"SOMERTON, Mr Francis William",31,3rd Class,18509,£8 1s,£622.00,,Southampton,,,,FALSE
+"SPECTOR, Mr Woolf",23,3rd Class,3236,£8 1s,£622.00,,Southampton,General Labourer,,,FALSE
+"SPINNER, Mr Henry John",32,3rd Class,369943,£8 1s,£622.00,,Southampton,Grocer,,,FALSE
+"STANEFF, Mr Ivan",23,3rd Class,349208,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"STANKOVIC, Mr Ivan",33,3rd Class,349239,£8 13s 9d,£671.00,,Cherbourg,General Labourer,,,FALSE
+"STANLEY, Miss Amy Zillah Elsie",24,3rd Class,2314,£7 11s,£583.00,,Southampton,Servant,C,,TRUE
+"STANLEY, Mr Edward Roland",21,3rd Class,45380,£8 1s,£622.00,,Southampton,Porter,,,FALSE
+"STOREY, Mr Thomas",51,3rd Class,370160,,,,Southampton,Seaman,,261,FALSE
+"STOYTCHEFF, Mr Ilia",19,3rd Class,349205,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"STROM, Miss Telma Matilda",2,3rd Class,347054,£10 9s 3d,£808.00,,Southampton,,,,FALSE
+"STROM, Mrs Elna Matilda",29,3rd Class,347054,£10 9s 3d,£808.00,,Southampton,,,,FALSE
+"STRANDEN, Mr Juho Niilosson",31,3rd Class,3101288,£7 18s 6d,£612.00,,Southampton,,9,,TRUE
+"STRANDBERG, Miss Ida Sofia",22,3rd Class,7553,£9 16s 9d,£760.00,,Southampton,,,,FALSE
+"STRILIC, Mr Ivan",27,3rd Class,315083,£8 13s 3d,£669.00,,Southampton,Farmer,,,FALSE
+"SUNDERLAND, Mr Victor Francis",20,3rd Class,392089,£8 1s,£622.00,,Southampton,Farmer,B,,TRUE
+"SUNDMAN, Mr Johan Julian",44,3rd Class,3101269,£7 18s 6d,£612.00,,Southampton,,15,,TRUE
+"SUTEHALL, Mr Henry Jr",25,3rd Class,392076,£7 1s,£544.00,,Southampton,Coach Trimmer,,,FALSE
+"SVENSSON, Mr Johan",74,3rd Class,347060,£7 15s 6d,£600.00,,Southampton,,,,FALSE
+"SVENSSON, Mr Johan Cervin",14,3rd Class,7538,£9 4s 6d,£712.00,,Southampton,,13,,TRUE
+"SVENSSON, Mr Olof",24,3rd Class,350035,£7 15s 11d,£602.00,,Southampton,Farmer,,,FALSE
+"TORBER, Mr Ernst Wilhelm",41,3rd Class,364511,£8 1s,£622.00,,Southampton,Florist,,,FALSE
+"TORNQUIST, Mr William Henry",25,3rd Class,370160,,,,Southampton,Seaman,15,,TRUE
+"TENGLIN, Mr Gunnar Isidor",25,3rd Class,350033,£7 15s 11d,£602.00,,Southampton,,13,,TRUE
+"THEOBALD, Mr Thomas Leonard",34,3rd Class,363294,£8 1s,£622.00,,Southampton,Groom,,176,FALSE
+"THOMAS, Mr Charles R'ad.",31,3rd Class,2621,£6 8s 9d,£497.00,,Cherbourg,Dealer,,,FALSE
+"THOMAS, Mrs Thamine ""Thelma""",16,3rd Class,2625,£8 10s 4d,£658.00,,Cherbourg,,14,,TRUE
+"THOMAS/TANNOUS, Master Assad Alexander",0.4,3rd Class,2625,£8 10s 4d,£658.00,,Cherbourg,,16,,TRUE
+"THOMAS/TANNOUS, Mr John",34,3rd Class,2681,£6 8s 9d,£497.00,,Cherbourg,Dealer,,,FALSE
+"THOMAS/TANNOUS, Mr Tannous",16,3rd Class,2684,£7 4s 6d,£558.00,,Cherbourg,Scholar,,,FALSE
+"THOMPSON, Mr Alexander Morrison",36,3rd Class,32302,£8 1s,£622.00,,Southampton,Mason,,,FALSE
+"THORNEYCROFT, Mr Percival",36,3rd Class,376564,£16 2s,"£1,240.00",,Southampton,General Labourer,,,FALSE
+"THORNEYCROFT, Mrs Florence Kate",32,3rd Class,376564,£16 2s,"£1,240.00",,Southampton,,10,,TRUE
+"TIKKANEN, Mr Juho",32,3rd Class,3101293,£7 18s 6d,£612.00,,Southampton,General Labourer,,,FALSE
+"TOBIN, Mr Roger",20,3rd Class,383121,£7 15s,£598.00,,Queenstown,Farmer,,,FALSE
+"TODOROFF, Mr Lalio",23,3rd Class,349216,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"TOMLIN, Mr Ernest Portage",22,3rd Class,364499,£8 1s,£622.00,,Southampton,Scholar,,50,FALSE
+"TORFA, Mr Assad",20,3rd Class,2673,£7 4s 7d,£558.00,,Cherbourg,Farm Labourer,,,FALSE
+"TOUMA, Master Georges Youssef (""George Thomas"")",8,3rd Class,2650,£15 4s 11d,"£1,180.00",,Cherbourg,,C,,TRUE
+"TOUMA, Miss Maria Youssef (""Mary Thomas"")",9,3rd Class,2650,£15 4s 11d,"£1,180.00",,Cherbourg,,C,,TRUE
+"TOUMA, Mrs Hanna Youssef",27,3rd Class,2650,£15 4s 11d,"£1,180.00",,Cherbourg,,C,,TRUE
+"TURCIN, Mr Stjepan",36,3rd Class,349247,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"TURJA, Miss Anna Sofia",18,3rd Class,4138,£9 16s 10d,£760.00,,Southampton,,15,,TRUE
+"TURKULA, Mrs Hedwig",63,3rd Class,4134,£9 11s 9d,£740.00,,Southampton,,15,,TRUE
+"VAN BILLIARD, Master James William",10,3rd Class,851,£14 10s,"£1,120.00",,Southampton,,,,FALSE
+"VAN BILLIARD, Master Walter John",9,3rd Class,851,£14 10s,"£1,120.00",,Southampton,,,1,FALSE
+"VAN BILLIARD, Mr Austin Blyler",35,3rd Class,851,£14 10s,"£1,120.00",,Southampton,,,255,FALSE
+"VAN DE VELDE, Mr Johannes Josef",35,3rd Class,345780,£9 10s,£734.00,,Southampton,Farmer,,,FALSE
+"VAN DEN STEEN, Mr Leo Peter",28,3rd Class,345783,£9 10s,£734.00,,Southampton,Farmer,,,FALSE
+"VAN IMPE, Miss Catharina",10,3rd Class,345773,£24 3s,"£1,860.00",,Southampton,,,,FALSE
+"VAN IMPE, Mr Jean Baptiste",36,3rd Class,345773,£24 3s,"£1,860.00",,Southampton,Farmer,,,FALSE
+"VAN IMPE, Mrs Rosalie Paula",30,3rd Class,345773,£24 3s,"£1,860.00",,Southampton,,,,FALSE
+"VAN MELCKEBEKE, Mr Philemon",23,3rd Class,345777,£9 10s,£734.00,,Southampton,Farmer,,,FALSE
+"VANDERCRUYSSEN, Mr Victor",46,3rd Class,345765,£9,£695.00,,Southampton,Farmer,,,FALSE
+"VANDERPLANCKE, Miss Augusta Maria",18,3rd Class,345764,£18,"£1,390.00",,Southampton,Servant,,,FALSE
+"VANDERPLANCKE, Mr Julius",31,3rd Class,345763,£18,"£1,390.00",,Southampton,Farmer,,,FALSE
+"VANDERPLANCKE, Mr Leo Edmondus",15,3rd Class,345763,£18,"£1,390.00",,Southampton,Farm Labourer,,,FALSE
+"VANDERPLANCKE, Mrs Emelie Maria",31,3rd Class,345763,£18,"£1,390.00",,Southampton,,,,FALSE
+"VANDEWALLE, Mr Nestor Cyriel",28,3rd Class,345770,£9 10s,£734.00,,Southampton,Merchant,,,FALSE
+"VARTANIAN, Mr David",22,3rd Class,2658,£7 4s 6d,£558.00,,Cherbourg,,13,,TRUE
+"VENDEL, Mr Olof Edvin",20,3rd Class,350416,£7 17s 1d,£606.00,,Southampton,General Labourer,,,FALSE
+"VESTROM, Miss Hulda Amanda Adolfina",14,3rd Class,350406,£7 17s 1d,£606.00,,Southampton,Servant,,,FALSE
+"VOVK, Mr Janko",21,3rd Class,349252,£7 17s 11d,£610.00,,Southampton,General Labourer,,,FALSE
+"WAELENS, Mr Achille",22,3rd Class,345767,£9,£695.00,,Southampton,Farm Labourer,,140,FALSE
+"WARE, Mr Frederick",34,3rd Class,359309,£8 1s,£622.00,,Southampton,Motor Fitter,,,FALSE
+"WARREN, Mr Charles William",30,3rd Class,49867,£7 11s,£583.00,,Southampton,Bricklayer,,,FALSE
+"WAZLI, Mr Yousif Ahmed",25,3rd Class,2647,£7 4s 6d,£558.00,,Cherbourg,Farmer,,,FALSE
+"WEBBER, Mr James",66,3rd Class,3101316,£8 1s,£622.00,,Southampton,Miner,,,FALSE
+"WENNERSTROM, Mr August",27,3rd Class,350043,£7 15s 11d,£602.00,,Southampton,,A,,TRUE
+"WIDEGREN, Mr Carl / Charles Peter",51,3rd Class,347064,£7 15s,£598.00,,Southampton,General Labourer,,,FALSE
+"WIKLUND, Mr Jakob Alfred",18,3rd Class,3101267,£6 9s 11d,£502.00,,Southampton,General Labourer,,314,FALSE
+"WIKLUND, Mr Karl Johan",21,3rd Class,3101266,£6 9s 11d,£502.00,,Southampton,General Labourer,,,FALSE
+"WILKES, Mrs Ellen",47,3rd Class,363272,£7,£541.00,,Southampton,,16,,TRUE
+"WILLER, Mr Aaron",37,3rd Class,3410,£8 14s 3d,£673.00,,Cherbourg,,,,FALSE
+"WILLEY, Mr Edward",18,3rd Class,751,£7 11s,£583.00,,Southampton,Farm Labourer,,,FALSE
+"WILLIAMS, Mr Howard Hugh ""Harry""",28,3rd Class,2466,£8 1s,£622.00,,Southampton,Carman,,,FALSE
+"WILLIAMS, Mr Leslie",28,3rd Class,54636,£16 2s,"£1,240.00",,Southampton,Pugilist,,14,FALSE
+"WINDELOV, Mr Einar",21,3rd Class,3101317,£7 5s,£560.00,,Southampton,Dairy Worker,,,FALSE
+"WIRZ, Mr Albert",27,3rd Class,315154,£8 13s 3d,£669.00,,Southampton,Farmer,,131,FALSE
+"WISEMAN, Mr Phillippe",54,3rd Class,34244,£7 5s,£560.00,,Southampton,Merchant,,,FALSE
+"WITTEVRONGEL, Mr Camilius Aloysius",36,3rd Class,345771,£9 10s,£734.00,,Southampton,Farmer,,,FALSE
+"YASBECK, Mr Antoni",27,3rd Class,2659,£14 9s 1d,"£1,120.00",,Cherbourg,General Labourer,C,,FALSE
+"YAZBECK, Mrs Selini ""Celiney""",15,3rd Class,2659,£14 9s 1d,"£1,120.00",,Cherbourg,,,,TRUE
+"YOUSSEFF (ABI SAAB), Mr Gerios",45,3rd Class,2628,£7 4s 6d,£558.00,,Cherbourg,Shoemaker,,312,FALSE
+"YOUSSIFF (SAM'AAN), Mr Gerios",28,3rd Class,2685,£7 4s 7d,£558.00,,Cherbourg,,,,FALSE
+"ZAKARIAN, Mr Mapriededer",22,3rd Class,2656,£7 4s 6d,£558.00,,Cherbourg,,,304,FALSE
+"ZAKARIAN, Mr Ortin",27,3rd Class,2670,£7 4s 6d,£558.00,,Cherbourg,General Labourer,,,FALSE
+"ZIMMERMANN, Mr Leo",29,3rd Class,315082,£7 17s 6d,£608.00,,Southampton,Farmer ,,,FALSE
+"ALLARIA, Sig. Battista Antonio",22,A la Carte,,,,,Southampton,Assistant Waiter,,221,FALSE
+"ASPESLAGH, Mr Georges",26,A la Carte,,,,,Southampton,Assistant Plateman,,,FALSE
+"BANFI, Sig. Ugo",24,A la Carte,,,,,Southampton,Waiter,,,FALSE
+"BASILICO, Sig. Giovanni",27,A la Carte,,,,,Southampton,Waiter,,,FALSE
+"BAZZI, Sig. Narciso",33,A la Carte,,,,,Southampton,Waiter,,,FALSE
+"BERNARDI, Sig. Battista",22,A la Carte,,,,,Southampton,Assistant Waiter,,215,FALSE
+"BEUX, Mr David",26,A la Carte,,,,,Southampton,Assistant Waiter,,,FALSE
+"BIETRIX, Mr George Baptiste",28,A la Carte,,,,,Southampton,Cook,,,FALSE
+"BLUMET, Mr Jean Baptiste",26,A la Carte,,,,,Southampton,Pantryman,,,FALSE
+"BOCHET, Mr Pierre Giuseppe",44,A la Carte,,,,,Southampton,Waiter,,,FALSE
+"BOLHUIS, Mr Hendrik",21,A la Carte,,,,,Southampton,Larder Cook,,,FALSE
+"BOWKER, Miss Ruth",27,A la Carte,,,,,Southampton,Cashier,,,TRUE
+"CASALI, Sig. Giulio",32,A la Carte,,,,,Southampton,Waiter,,,FALSE
+"CHABOISSON, Mr Adrien Finnin",25,A la Carte,,,,,Southampton,Roast Cook,,,FALSE
+"CORNAIRE, Mr Marcel Raymond Andre",19,A la Carte,,,,,Southampton,Assistant Roast Cook,,,FALSE
+"COUTIN, Mr Auguste Louis",28,A la Carte,,,,,Southampton,Entre Cook,,,FALSE
+"CROVELLA, Sig. Luigi/Louis",17,A la Carte,,,,,Southampton,Assistant Waiter,,,FALSE
+"DE MARSICO, Sig. Govanni",20,A la Carte,,,,,Southampton,Assistant Waiter,,,FALSE
+"DEBREUCQ, Mr Maurice Emile Victor",18,A la Carte,,,,,Southampton,Assistant Waiter,,244,FALSE
+"DESVERNINE, Mr Louis Gabriel",20,A la Carte,,,,,Southampton,Assistant Pastry Cook,,,FALSE
+"DONATI, Sig. Italo Francesco",17,A la Carte,,,,,Southampton,Assistant Waiter,,311,FALSE
+"DORNIER, Mr Louis Auguste",20,A la Carte,,,,,Southampton,Assistant Fish Cook,,,FALSE
+"FEY, Sig. Carlo",30,A la Carte,,,,,Southampton,Scullion,,,FALSE
+"FIORAVANTE, Sig. Giuseppe Bertoldo",23,A la Carte,,,,,Southampton,Assistant Scullion,,,FALSE
+"GATTI, Sig. Gaspare Antonio Pietro",37,A la Carte,,,,,Southampton,a† la Carte Restaurant Manager,,313,FALSE
+"GILARDINO, Sig. Vincenzo Pio",31,A la Carte,,,,,Southampton,Waiter,,,FALSE
+"GROSCLAUDE, Mr Gerald",24,A la Carte,,,,,Southampton,Waiter,,,FALSE
+"JAILLET, Mr Henri Marie",28,A la Carte,,,,,Southampton,Pastry Cook,,277,FALSE
+"JANIN, Mr Claude Marie",29,A la Carte,,,,,Southampton,Soup Cook,,,FALSE
+"JEFFERY, Mr William Alfred",28,A la Carte,,,,,Southampton,Controller,,,FALSE
+"JOUANNAULT, Mr Georges Jules",24,A la Carte,,,,,Southampton,Assistant Sauce Cook,,,FALSE
+"MARTIN, Miss Mabel Edwina",20,A la Carte,,,,,Southampton,Cashier,,,TRUE
+"MATTMANN, Sig. Adolf",20,A la Carte,,,,,Southampton,Ice Man,,,FALSE
+"MAUGE, Mr Paul Achille Maurice Germain",25,A la Carte,,,,,Southampton,Kitchen Clerk,,,TRUE
+"MONTEVERDI, Sig. Giovanni",23,A la Carte,,,,,Southampton,Cook,,,FALSE
+"MOUROS, Sig. Jean/Javier",20,A la Carte,,,,,Southampton,Assistant Waiter,,27,FALSE
+"NANNINI, Sig. Francesco Luigi Arcangelo",42,A la Carte,,,,,Southampton,Head Waiter,,,FALSE
+"PACHERA, Sig. Jean Baptiste Stanislas",19,A la Carte,,,,,Southampton,Assistant Larder Cook,,,FALSE
+"PEDRINI, Sig. Alessandro",21,A la Carte,,,,,Southampton,Assistant Waiter,,104,FALSE
+"PERACCHIO, Sig. Alberto",20,A la Carte,,,,,Southampton,Assistant Waiter,,,FALSE
+"PERACCHIO, Sig. Sebastiano",17,A la Carte,,,,,Southampton,Assistant Waiter,,,FALSE
+"PEROTTI, Sig. Alfonso",20,A la Carte,,,,,Southampton,Assistant Waiter,,,FALSE
+"PHILLIPS, Mr Walter John",35,A la Carte,,,,,Southampton,Storekeeper,,,FALSE
+"PIATTI, Sig. Louis",17,A la Carte,,,,,Southampton,Assistant Waiter,,,FALSE
+"PIAZZA, Sig. Pompeo",30,A la Carte,,,,,Southampton,Waiter,,266,FALSE
+"POGGI, Sig. Emilio",28,A la Carte,,,,,Southampton,Waiter,,301,FALSE
+"PRICE, Mr Ernest",17,A la Carte,,,,,Southampton,Barman,,186,FALSE
+"RATTI, Sig. Enrico",21,A la Carte,,,,,Southampton,Waiter,,,FALSE
+"RICALDONE, Sig. Rinaldo Renato",22,A la Carte,,,,,Southampton,Assistant Waiter,,,FALSE
+"RIGOZZI, Sig. Abele",22,A la Carte,,,,,Southampton,Assistant Waiter,,115,FALSE
+"ROTTA, Sig. Angelo Mario",23,A la Carte,,,,,Southampton,Waiter,,,FALSE
+"ROUSSEAU, Mr Pierre",49,A la Carte,,,,,Southampton,Chef,,,FALSE
+"SACCAGGI, Sig. Giovanni Giuseppe Emilio",24,A la Carte,,,,,Southampton,Assistant Waiter,,,FALSE
+"SALUSSOLIA, Sig. Govanni",25,A la Carte,,,,,Southampton,Glass Man,,,FALSE
+"SARTORI, Sig. Lazar",24,A la Carte,,,,,Southampton,Assistant Glass Man,,,FALSE
+"SCAVINO, Sig. Candido",42,A la Carte,,,,,Southampton,Carver,,,FALSE
+"SESIA, Sig. Giacomo",24,A la Carte,,,,,Southampton,Waiter,,,FALSE
+"TESTONI, Sig. Ercole",23,A la Carte,,,,,Southampton,Assistant Glass Man,,,FALSE
+"TIETZ, Sig. Carlo/Karl",27,A la Carte,,,,,Southampton,Kitchen Porter,,,FALSE
+"TURVEY, Mr Charles",16,A la Carte,,,,,Southampton,Page Boy,,,FALSE
+"URBINI, Sig. Roberto",22,A la Carte,,,,,Southampton,Waiter,,,FALSE
+"VALVASSORI, Sig. Ettore Luigi",35,A la Carte,,,,,Southampton,Waiter,,,FALSE
+"VICAT, Sig. Alphonse Jean Eugene",21,A la Carte,,,,,Southampton,Cook,,,FALSE
+"VILLVARLANGE, Mr Pierre Leon Gabriel",19,A la Carte,,,,,Southampton,Assistant Soup Cook,,,FALSE
+"VINE, Mr H.",18,A la Carte,,,,,Southampton,Assistant Restaurant Controller,,,FALSE
+"VIONI, Sig. Roberto",31,A la Carte,,,,,Southampton,Waiter,,,FALSE
+"VOEGELIN-DUBACH, Sig. Johannes",35,A la Carte,,,,,Southampton,Waiter,,,FALSE
+"ZANETTI, Sig. Minio",20,A la Carte,,,,,Southampton,Assistant Waiter,,,FALSE
+"ZARRACCHI, Sig. L.",26,A la Carte,,,,,Southampton,Wine Butler,,,FALSE
+"ANDERSON, Mr James",40,Deck,,,,,Southampton,Able Seaman,3,,TRUE
+"ARCHER, Mr Ernest Edward",36,Deck,,,,,Southampton,Able Seaman,16,,TRUE
+"BAILEY, Mr Henry Joseph",43,Deck,,,,,Southampton,Master-at-arms,16,,TRUE
+"BOXHALL, Mr Joseph Groves",28,Deck,,,,,Belfast,4th. Officer,2,,TRUE
+"BRADLEY, Mr T.",29,Deck,,,,,Southampton,Able Seaman,,,FALSE
+"BRICE, Mr Walter T",42,Deck,,,,,Southampton,Able Seaman,11,,TRUE
+"BRIGHT, Mr Arthur John",42,Deck,,,,,Belfast,Quartermaster,D,,TRUE
+"BULEY, Mr Edward John",27,Deck,,,,,Southampton,Able Seaman,10,,TRUE
+"CLENCH, Mr Frederick",34,Deck,,,,,Southampton,Able Seaman,12,,TRUE
+"CLENCH, Mr George",31,Deck,,,,,Southampton,Able Seaman,,,FALSE
+"COUCH, Mr Frank",28,Deck,,,,,Southampton,Able Seaman,,253,FALSE
+"DAVIS, Mr Stephen James",39,Deck,,,,,Southampton,Able Seaman,,,FALSE
+"EVANS, Mr Alfred Frank",24,Deck,,,,,Southampton,Lookout,15,,TRUE
+"EVANS, Mr Frank Oliver",27,Deck,,,,,Southampton,Able Seaman,10,,TRUE
+"FLEET, Mr Frederick",24,Deck,,,,,Belfast,Lookout,6,,TRUE
+"FOLEY, Mr John",44,Deck,,,,,Belfast,Storekeeper,,,TRUE
+"FORWARD, Mr James",27,Deck,,,,,Southampton,Able Seaman,16,,TRUE
+"HAINES, Mr Albert M.",31,Deck,,,,,Belfast,Boatswain Mate,9,,TRUE
+"HARDER, Mr William",39,Deck,,,,,Southampton,Window Cleaner,14,,TRUE
+"HEMMING, Mr Samuel Emest",43,Deck,,,,,Belfast,Lamp Trimmer,4,,TRUE
+"HICHENS, Mr Robert",29,Deck,,,,,Southampton,Quartermaster,6,,TRUE
+"HOGG, Mr George Alfred",29,Deck,,,,,Belfast,Lookout,7,,TRUE
+"HOLMAN, Mr Harry",27,Deck,,,,,Belfast,Able Seaman,,,FALSE
+"HOPKINS, Mr Robert John",40,Deck,,,,,Southampton,Able Seaman,13,,TRUE
+"HORSWILL, Mr Albert Edward James",33,Deck,,,,,Southampton,Able Seaman,1,,TRUE
+"HUMPHREYS, Mr Sidney James",48,Deck,,,,,Southampton,Quartermaster,11,,TRUE
+"HUTCHINSON, Mr John Hall",26,Deck,,,,,Belfast,Carpenter / Joiner,,,FALSE
+"JEWELL, Mr Archie",23,Deck,,,,,Belfast,Lookout,7,,TRUE
+"JONES, Mr Thomas William",32,Deck,,,,,Southampton,Able Seaman,8,,TRUE
+"KING, Mr Thomas W.",43,Deck,,,,,Southampton,Master-at-arms,,,FALSE
+"LEE, Mr Reginald Robinson",41,Deck,,,,,Southampton,Lookout,13,,TRUE
+"LIGHTOLLER, Mr Charles Herbert",38,Deck,,,,,Belfast,2nd. Officer,B,,TRUE
+"LOWE, Mr Harold Godfrey",29,Deck,,,,,Belfast,5th. Officer,14,,TRUE
+"LUCAS, Mr William A.",25,Deck,,,,,Southampton,Able Seaman,D,,TRUE
+"LYONS, Mr William Henry",26,Deck,,,,,Southampton,Able Seaman,4,,FALSE
+"MATHERSON, Mr David",30,Deck,,,,,Southampton,Able Seaman,,192,FALSE
+"MATHIAS, Mr Montague Vincent",27,Deck,,,,,Southampton,Mess Steward,,,FALSE
+"MAXWELL, Mr John",31,Deck,,,,,Belfast,Carpenter / Joiner,,,FALSE
+"MCCARTHY, Mr William",47,Deck,,,,,Southampton,Able Seaman,4,,TRUE
+"MCGOUGH, Mr George Francis",36,Deck,,,,,Southampton,Able Seaman,,,TRUE
+"MOODY, Mr James Paul",24,Deck,,,,,Belfast,6th. Officer,,,FALSE
+"MOORE, Mr George Alfred",32,Deck,,,,,Southampton,Able Seaman,3,,TRUE
+"MURDOCH, Mr William McMaster",39,Deck,,,,,Belfast,1st. Officer,,,FALSE
+"NICHOLS, Mr Alfred",42,Deck,,,,,Belfast,Boatswain,,,FALSE
+"O'LOUGHLIN, Dr William Francis Norman",62,Deck,,,,,Belfast,Surgeon,,,FALSE
+"OLLIVER, Mr Alfred",27,Deck,,,,,Belfast,Quartermaster,5,,TRUE
+"OSMAN, Mr Frank",28,Deck,,,,,Southampton,Able Seaman,2,,TRUE
+"PASCOE, Mr Charles H.",43,Deck,,,,,Southampton,Able Seaman,8,,TRUE
+"PERKIS, Mr Walter John",37,Deck,,,,,Belfast,Quartermaster,4,,TRUE
+"PETERS, Mr William Chapman",26,Deck,,,,,Southampton,Able Seaman,9,,TRUE
+"PITMAN, Mr Herbert John",34,Deck,,,,,Belfast,3rd. Officer,5,,TRUE
+"POINGDESTRE, Mr John Thomas",33,Deck,,,,,Southampton,Able Seaman,12,,TRUE
+"ROWE, Mr George Thomas",32,Deck,,,,,Belfast,Quartermaster,C,,TRUE
+"SAWYER, Mr Robert James",30,Deck,,,,,Southampton,Window Cleaner,,,FALSE
+"SCARROTT, Mr Joseph George",33,Deck,,,,,Southampton,Able Seaman,14,,TRUE
+"SIMPSON, Dr John Edward",37,Deck,,,,,Southampton,Assistant Surgeon,,,FALSE
+"SMITH, Captain Edward John",62,Deck,,,,,Southampton,Master,,,FALSE
+"SMITH, Mr William",26,Deck,,,,,Southampton,Seaman,,,FALSE
+"SYMONS, Mr George Thomas Macdonald",24,Deck,,,,,Southampton,Lookout,1,,TRUE
+"TAMLYN, Mr Frederick",23,Deck,,,,,Southampton,Mess Steward,,123,FALSE
+"TAYLOR, Mr C.",35,Deck,,,,,Southampton,Able Seaman,,,FALSE
+"TERRELL, Mr Bertram",20,Deck,,,,,Southampton,Seaman,,,FALSE
+"VIGOTT, Mr Philip Francis",32,Deck,,,,,Southampton,Able Seaman,13,,TRUE
+"WELLER, Mr William Clifford",30,Deck,,,,,Belfast,Able Seaman,7,,TRUE
+"WILDE, Mr Henry Tingle",39,Deck,,,,,Southampton,Chief Officer,,,FALSE
+"WYNN, Mr Walter",41,Deck,,,,,Belfast,Quartermaster,9,,TRUE
+"ABRAMS, Mr William",33,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"ADAMS, Mr R.",26,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"ALLEN, Mr Ernest Frederick",24,Engine,,,,,Southampton,Trimmer,B,,TRUE
+"ALLEN, Mr Henry",32,Engine,,,,,Southampton,Fireman / Stoker,,145,FALSE
+"ALLSOP, Mr Alfred Samuel",34,Engine,,,,,Belfast,Electrician,,,FALSE
+"AVERY, Mr James Frank",22,Engine,,,,,Southampton,Trimmer,15,,TRUE
+"BAILEY, Mr George W.",46,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"BAINES, Mr Richard",24,Engine,,,,,Southampton,Greaser,,,FALSE
+"BANNON, Mr John",32,Engine,,,,,Southampton,Greaser,,,FALSE
+"BARLOW, Mr Charles",30,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"BARNES, Mr Charles",29,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"BARNES, Mr J.",41,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"BARRETT, Mr Frederick",28,Engine,,,,,Southampton,Leading Fireman,13,,TRUE
+"BARRETT, Mr Frederick William",33,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"BEATTIE, Mr Joseph",35,Engine,,,,,Belfast,Greaser,,,FALSE
+"BEAUCHAMP, Mr George William",24,Engine,,,,,Southampton,Fireman / Stoker,13,,TRUE
+"BELL, Mr Joseph",50,Engine,,,,,Belfast,Chief Engineer,,,FALSE
+"BENDELL, Mr F.",24,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"BENNETT, Mr George Alfred",30,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"BENVILLE, Mr E.",42,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"BESSANT, Mr William Edward",39,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"BEVIS, Mr Joseph Henry",22,Engine,,,,,Southampton,Trimmer,,,FALSE
+"BIDDLECOMBE, Mr Charles",33,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"BIGGS, Mr Edward Charles",20,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"BILLOW, Mr J.",20,Engine,,,,,Southampton,Trimmer,,,FALSE
+"BINSTEAD, Mr Walter",19,Engine,,,,,Southampton,Trimmer,3,,TRUE
+"BLACK, Mr Alexander",28,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"BLACK, Mr D.",41,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"BLACKMAN, Mr H.",24,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"BLAKE, Mr Percival Albert",22,Engine,,,,,Southampton,Trimmer,,,TRUE
+"BLAKE, Mr Seaton",26,Engine,,,,,Belfast,Mess Steward,,,FALSE
+"BLAKE, Mr Thomas",36,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"BLANEY, Mr James",29,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"BLANN, Mr Eustace Horatius",21,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"BOTT, Mr W.",44,Engine,,,,,Southampton,Greaser,,,FALSE
+"BRADLEY, Mr Patrick Joseph",39,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"BREWER, Mr Henry (""Harry"")",30,Engine,,,,,Southampton,Trimmer,,,FALSE
+"BRIANT, Mr Albert",34,Engine,,,,,Southampton,Greaser,,,FALSE
+"BROOKS, Mr J.",25,Engine,,,,,Southampton,Trimmer,,,FALSE
+"BROWN, Mr John",25,Engine,,,,,Southampton,Fireman / Stoker,,267,FALSE
+"BROWN, Mr Joseph James",25,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"BURROUGHS, Mr Arthur",35,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"BURTON, Mr Edward John",32,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"BUTT, Mr William John",30,Engine,,,,,Southampton,Fireman / Stoker,,77,FALSE
+"CALDERWOOD, Mr Hugh",30,Engine,,,,,Belfast,Trimmer,,,FALSE
+"CANNER, Mr J.",40,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"CARR, Mr Richard Stephen",37,Engine,,,,,Southampton,Trimmer,,,FALSE
+"CARTER (BALL), Mr James (W.)",46,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"CASEY, Mr T.",28,Engine,,,,,Southampton,Trimmer,,,FALSE
+"CASTLEMAN, Mr Edward",37,Engine,,,,,Southampton,Greaser,,,FALSE
+"CAVELL, Mr George Henry",22,Engine,,,,,Southampton,Trimmer,,,TRUE
+"CHERRETT, Mr William Victor",24,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"CHISNALL, Mr George Alexander",35,Engine,,,,,Belfast,Boilermaker,,111,FALSE
+"CHORLEY, Mr John",25,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"CLARK, Mr William",39,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"COE, Mr Harry",21,Engine,,,,,Southampton,Trimmer,,,FALSE
+"COLEMAN, Mr John",57,Engine,,,,,Belfast,Mess Steward,,,FALSE
+"COLLINS, Mr Samuel",35,Engine,,,,,Southampton,Fireman / Stoker,1,,TRUE
+"COMBES, Mr George",34,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"COOPER, Mr Harry",26,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"COOPER, Mr James",25,Engine,,,,,Southampton,Trimmer,,,FALSE
+"COPPERTHWAITE, Mr B.",22,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"CORCORAN, Mr Denny",33,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"COTTON, Mr A.",,Engine,,,,,Southampton,Trimmer,,,FALSE
+"COUCH, Mr Joseph Henry",45,Engine,,,,,Southampton,Greaser,,,FALSE
+"COUPER, Mr Robert",30,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"COY, Mr Francis Ernest George",26,Engine,,,,,Belfast,Junior Assistant 3rd. Engineer,,,FALSE
+"CRABB, Mr H.",23,Engine,,,,,Southampton,Trimmer,,,FALSE
+"CREESE, Mr Henry Philip",44,Engine,,,,,Belfast,Deck Engineer,,,FALSE
+"CRIMMINS, Mr James",21,Engine,,,,,Southampton,Fireman / Stoker,13,,TRUE
+"CROSS, Mr W.",39,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"CUNNINGHAM, Mr B.",30,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"CURTIS, Mr Arthur",25,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"DAVIES, Mr Thomas",33,Engine,,,,,Southampton,Leading Fireman,,,FALSE
+"DAWSON, Mr Joseph",23,Engine,,,,,Southampton,Trimmer,,227,FALSE
+"DIAPER, Mr J",24,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"DICKSON, Mr W.",36,Engine,,,,,Southampton,Trimmer,,,FALSE
+"DILLEY, Mr John",30,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"DILLON, Mr Thomas Patrick",24,Engine,,,,,Southampton,Trimmer,,,TRUE
+"DODD, Mr Edward Charles",38,Engine,,,,,Belfast,Junior 3rd. Engineer,,,FALSE
+"DODDS, Mr Henry Watson",27,Engine,,,,,Southampton,Junior Assistant 4th Engineer,,,FALSE
+"DOEL, Mr Frederick",22,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"DORE, Mr A.",22,Engine,,,,,Southampton,Trimmer,,,TRUE
+"DOYLE, Mr Laurence",27,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"DUFFY, Mr William Luke",28,Engine,,,,,Belfast,Writer / Engineer's Clerk,,,FALSE
+"DYER, Mr Henry Ryland",24,Engine,,,,,Belfast,Senior Assistant 4th. Engineer,,,FALSE
+"DYMOND, Mr Frank",25,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"EAGLE, Mr A. J.",22,Engine,,,,,Southampton,Trimmer,,,FALSE
+"EASTMAN, Mr Charles",44,Engine,,,,,Southampton,Greaser,,,FALSE
+"ELLIOTT, Mr Everett Edward",24,Engine,,,,,Southampton,Trimmer,,317,FALSE
+"ERVINE, Mr Albert George",18,Engine,,,,,Belfast,Electrician,,,FALSE
+"EVANS, Mr William",30,Engine,,,,,Southampton,Trimmer,,31,FALSE
+"FARQUHARSON, Mr William Edward",39,Engine,,,,,Belfast,Senior 2nd. Engineer,,,FALSE
+"FAY, Mr Thomas Joseph",30,Engine,,,,,Southampton,Greaser,,,FALSE
+"FERRARY, Mr Anton",34,Engine,,,,,Southampton,Trimmer,,,FALSE
+"FERRIS, Mr W.",38,Engine,,,,,Southampton,Leading Fireman,,,FALSE
+"FITZPATRICK, Mr Cecil William",21,Engine,,,,,Southampton,Mess Steward,,,TRUE
+"FITZPATRICK, Mr Hugh J.",27,Engine,,,,,Belfast,Junior Boilermaker,,,FALSE
+"FLARTY, Mr Edward",43,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"FORD, Mr H.",22,Engine,,,,,Southampton,Trimmer,,,FALSE
+"FORD, Mr Thomas",30,Engine,,,,,Southampton,Leading Fireman,,,FALSE
+"FOSTER, Mr Albert C.",37,Engine,,,,,Belfast,Storekeeper,,,FALSE
+"FRASER, Mr J.",30,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"FRASER, Mr James",29,Engine,,,,,Belfast,Junior Assistant 3rd. Engineer,,,FALSE
+"FREDERICKS, Mr Walter Francis",20,Engine,,,,,Southampton,Trimmer,,,TRUE
+"FRYER, Mr Albert Ernest",26,Engine,,,,,Southampton,Trimmer,,,TRUE
+"GEER, Mr Alfred Emest",24,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"GODLEY, Mr George",34,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"GODWIN, Mr Frederick Walter",34,Engine,,,,,Southampton,Greaser,,,FALSE
+"GOLDER, Mr M. W.",32,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"GORDON, Mr J.",29,Engine,,,,,Southampton,Trimmer,,,FALSE
+"GOREE, Mr Frank",42,Engine,,,,,Southampton,Greaser,,222,FALSE
+"GOSLING, Mr Bertram James",22,Engine,,,,,Southampton,Trimmer,,,FALSE
+"GOSLING, Mr S.",26,Engine,,,,,Southampton,Trimmer,,,FALSE
+"GRADIDGE, Mr Ernest Edward",22,Engine,,,,,Southampton,Fireman / Stoker,,276,FALSE
+"GRAHAM, Mr Thomas G.",28,Engine,,,,,Belfast,Fireman / Stoker,,,TRUE
+"GREEN, Mr George",20,Engine,,,,,Southampton,Trimmer,,,FALSE
+"GREGORY, Mr David",40,Engine,,,,,Southampton,Greaser,,,FALSE
+"GUMERY, Mr George",24,Engine,,,,,Southampton,Mess Steward,,,FALSE
+"HAGGAN, Mr John",35,Engine,,,,,Belfast,Fireman / Stoker,3,,TRUE
+"HALL, Mr J.",32,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"HALLETT, Mr George",22,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"HANDS, Mr Bernard",53,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"HANNAM, Mr George",30,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"HARRIS, Mr Amos Fred",21,Engine,,,,,Southampton,Trimmer,,,FALSE
+"HARRIS, Mr Edward",28,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"HARRIS, Mr Frederick",39,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"HARRISON, Mr Norman E.",38,Engine,,,,,Belfast,Junior 2nd. Engineer,,,FALSE
+"HART, Mr James",49,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"HARVEY, Mr Herbert Gifford",34,Engine,,,,,Belfast,Junior Assistant 2nd. Engineer,,,FALSE
+"HASLIN, Mr James",45,Engine,,,,,Southampton,Trimmer,,,FALSE
+"HEAD, Mr A.",24,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"HEBB, Mr A.",20,Engine,,,,,Southampton,Trimmer,,,TRUE
+"HENDRICKSON, Mr Charles George",29,Engine,,,,,Southampton,Leading Fireman,1,,TRUE
+"HESKETH, Mr John Henry",33,Engine,,,,,Belfast,Engineer,,,FALSE
+"HILL, Mr James",25,Engine,,,,,Southampton,Trimmer,,,FALSE
+"HINTON, Mr Stephen William",30,Engine,,,,,Southampton,Trimmer,,85,FALSE
+"HODGE, Mr Charles",29,Engine,,,,,Belfast,Senior Assistant 3rd. Engineer,,,FALSE
+"HODGES, Mr W.",26,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"HODGKINSON, Mr Leonard",46,Engine,,,,,Belfast,Senior 4th. Engineer,,,FALSE
+"HOPGOOD, Mr Roland",22,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"HOSGOOD, Mr Richard",22,Engine,,,,,Southampton,Fireman / Stoker,,242,FALSE
+"HOSKING, Mr George Fox",36,Engine,,,,,Belfast,Senior 3rd. Engineer,,,FALSE
+"HUNT, Mr Albert",22,Engine,,,,,Southampton,Trimmer,,,TRUE
+"HUNT, Mr Tom",28,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"HURST, Mr Charles John",35,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"HURST, Mr Walter",23,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"INGRAM, Mr Charles",20,Engine,,,,,Southampton,Trimmer,,204,FALSE
+"INSTANCE, Mr T.",33,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"JACOBSON, Mr John",29,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"JAGO, Mr Joseph",27,Engine,,,,,Southampton,Greaser,,,FALSE
+"JAMES, Mr Thomas",27,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"JARVIS, Mr Walter",37,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"JOAS, Mr N.",38,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"JUDD, Mr Charles E.",32,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"JUKES, Mr James",35,Engine,,,,,Southampton,Greaser,,,FALSE
+"JUPE, Mr Boykett Herbert",30,Engine,,,,,Southampton,Electrician,,73,FALSE
+"KASPER, Mr F.",40,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"KEARL, Mr Charles Henry",43,Engine,,,,,Southampton,Greaser,,,FALSE
+"KEARL, Mr G.",24,Engine,,,,,Southampton,Trimmer,,,FALSE
+"KEEGAN, Mr James",38,Engine,,,,,Southampton,Leading Fireman,,,FALSE
+"KELLY, Mr James",44,Engine,,,,,Southampton,Greaser,,,FALSE
+"KELLY, Mr William",23,Engine,,,,,Belfast,Assistant Electrician,,,FALSE
+"KEMISH, Mr George",24,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"KEMP, Mr Thomas Hulman",43,Engine,,,,,Belfast,Extra Assistant 4th Engineer (Refrigeration),,,FALSE
+"KENCHENTEN, Mr Frederick",37,Engine,,,,,Southampton,Greaser,,,FALSE
+"KENZLER, Mr Augustus",43,Engine,,,,,Belfast,Storekeeper,,,FALSE
+"KERR, Mr Thomas",26,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"KINSELLA, Mr L.",30,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"KIRKHAM, Mr J.",39,Engine,,,,,Southampton,Greaser,,,FALSE
+"KNOWLES, Mr Thomas",42,Engine,,,,,Southampton,Fireman Messman,,,TRUE
+"LAHY, Mr T. E.",32,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"LEE, Mr H.",18,Engine,,,,,Southampton,Trimmer,,,FALSE
+"LIGHT, Mr Christopher William",20,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"LIGHT, Mr W.",47,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"LINDSAY, Mr William Charles",30,Engine,,,,,Southampton,Fireman / Stoker,3,,TRUE
+"LLOYD, Mr W.",29,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"LONG, Mr F.",28,Engine,,,,,Southampton,Trimmer,,,FALSE
+"LONG, Mr W.",30,Engine,,,,,Southampton,Trimmer,,,FALSE
+"MACKIE, Mr William Dickson",32,Engine,,,,,Belfast,Junior 5th. Engineer,,,FALSE
+"MAJOR, Mr William James",32,Engine,,,,,Southampton,Fireman / Stoker,13,,TRUE
+"MARRETT, Mr G.",22,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"MARSH, Mr Frederick Charles",39,Engine,,,,,Southampton,Fireman / Stoker,,268,FALSE
+"MASKELL, Mr Leopold Adolphus",25,Engine,,,,,Southampton,Trimmer,,,FALSE
+"MASON, Mr Frank Archibald Robert",32,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"MASON, Mr J.",39,Engine,,,,,Southampton,Leading Fireman,,,FALSE
+"MAY, Mr Arthur",24,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"MAY, Mr Arthur William",60,Engine,,,,,Southampton,Fireman Messman,,,FALSE
+"MAYO, Mr William Peter",27,Engine,,,,,Southampton,Leading Fireman,,177,FALSE
+"MAYZES, Mr Thomas",25,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"MCANDREW, Mr Thomas",36,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"MCANDREWS, Mr William",23,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"MCCASTLAN, Mr W.",38,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"MCGANN, Mr James",26,Engine,,,,,Southampton,Trimmer,,,TRUE
+"MCGARVEY, Mr Edward Joseph",34,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"MCGAW, Mr Eroll V.",30,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"MCGREGOR, Mr J.",30,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"MCINERNEY, Mr Thomas",37,Engine,,,,,Southampton,Greaser,,,FALSE
+"MCINTYRE, Mr William",21,Engine,,,,,Southampton,Trimmer,,,TRUE
+"MCQUILLAN, Mr William",26,Engine,,,,,Belfast,Fireman / Stoker,,183,FALSE
+"MCRAE, Mr William Alexander",32,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"MCREYNOLDS, Mr William",22,Engine,,,,,Belfast,Junior 6th. Engineer,,,FALSE
+"MIDDLETON, Mr Alfred Pirrie",26,Engine,,,,,Belfast,Electrician,,,FALSE
+"MILFORD, Mr George",28,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"MILLAR, Mr Robert",26,Engine,,,,,Belfast,Extra 5th Engineer,,,FALSE
+"MILLAR, Mr Thomas",33,Engine,,,,,Belfast,Deck Enginer,,,FALSE
+"MINTRAM, Mr William",46,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"MITCHELL, Mr Lawrence",18,Engine,,,,,Southampton,Trimmer,,,FALSE
+"MOORE, Mr John J.",29,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"MOORE, Mr Ralph William",21,Engine,,,,,Southampton,Trimmer,,,FALSE
+"MOORES, Mr Richard Henry",44,Engine,,,,,Southampton,Greaser,,,FALSE
+"MORELL, Mr R.",21,Engine,,,,,Southampton,Trimmer,,,FALSE
+"MORGAN, Mr Arthur Herbert",27,Engine,,,,,Southampton,Trimmer,,,FALSE
+"MORGAN, Mr Thomas A.",26,Engine,,,,,Southampton,Fireman / Stoker,,302,FALSE
+"MORRIS, Mr Arthur",30,Engine,,,,,Southampton,Greaser,,,FALSE
+"MORRIS, Mr W.",24,Engine,,,,,Southampton,Trimmer,,,FALSE
+"MOYES, Mr William Young",23,Engine,,,,,Belfast,Senior 6th. Engineer,,,FALSE
+"MURDOCH, Mr William John",33,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"NETTLETON, Mr George",28,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"NEWMAN, Mr Charles Thomas",33,Engine,,,,,Southampton,Assistant Storekeeper,,,FALSE
+"NOON, Mr John",35,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"NORRIS, Mr J.",23,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"NOSS, Mr Bertram Arthur",21,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"NOSS, Mr Henry",30,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"NUTBEAN, Mr William",30,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"O'CONNOR, Mr John",25,Engine,,,,,Southampton,Trimmer,,,TRUE
+"OLIVE, Mr Charles",31,Engine,,,,,Southampton,Greaser,,,FALSE
+"OLIVER, Mr Harry",32,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"OTHEN, Mr Charles",35,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"PAICE, Mr Richard Charles John",32,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"PAINTER, Mr Charles",31,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"PAINTER, Mr Frank Frederick",29,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"PALLES, Mr Thomas",42,Engine,,,,,Belfast,Greaser,,,FALSE
+"PARSONS, Mr Frank Alfred",26,Engine,,,,,Belfast,Senior 5th. Engineer,,,FALSE
+"PEARCE, Mr John",28,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"PELHAM, Mr George",39,Engine,,,,,Southampton,Trimmer,16,,TRUE
+"PERRY, Mr Edgar Lionel",19,Engine,,,,,Southampton,Trimmer,,,TRUE
+"PERRY, Mr H.",23,Engine,,,,,Southampton,Trimmer,,,FALSE
+"PHILLIPS, Mr A. G.",27,Engine,,,,,Southampton,Greaser,,,FALSE
+"PITFIELD, Mr William James",25,Engine,,,,,Southampton,Greaser,,,FALSE
+"PODESTA, Mr John Alexander",24,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"POND, Mr George",32,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"PRANGNELL, Mr George Alexander",30,Engine,,,,,Southampton,Greaser,,,TRUE
+"PRESTON, Mr Thomas Charles Alfred",20,Engine,,,,,Southampton,Trimmer,,,FALSE
+"PRIEST, Mr Arthur John",24,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"PROUDFOOT, Mr Richard",23,Engine,,,,,Southampton,Trimmer,,,FALSE
+"PUGH, Mr Percy",31,Engine,,,,,Southampton,Leading Fireman,,,FALSE
+"PUSEY, Mr Robert William",24,Engine,,,,,Southampton,Fireman / Stoker,1,,TRUE
+"RANGER, Mr Thomas",29,Engine,,,,,Southampton,Greaser,4,,TRUE
+"READ, Mr J.",21,Engine,,,,,Southampton,Trimmer,,,FALSE
+"READ, Mr Robert",30,Engine,,,,,Southampton,Trimmer,,,FALSE
+"REEVES, Mr F.",31,Engine,,,,,Southampton,Fireman / Stoker,,180,FALSE
+"RICE, Mr Charles",32,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"RICHARDS, Mr Joseph James",28,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"RICKMAN, Mr George Albert",36,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"ROBERTS, Mr Robert George",35,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"ROUS, Mr Arthur J.",26,Engine,,,,,Belfast,Plumber,,,FALSE
+"RUDD, Mr Henry",23,Engine,,,,,Southampton,Assistant Storekeeper,,86,FALSE
+"RUTTER (GRAVES), Mr Sidney Frank",30,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"SANGSTER, Mr Charles",32,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"SAUNDERS, Mr F.",23,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"SAUNDERS, Mr W.",23,Engine,,,,,Southampton,Fireman / Stoker,,184,FALSE
+"SAUNDERS, Mr Walter Edward",23,Engine,,,,,Southampton,Trimmer,,0,FALSE
+"SCOTT, Mr Archibald",40,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"SCOTT, Mr Frederick William",28,Engine,,,,,Southampton,Greaser,,,TRUE
+"SELF, Mr Alfred Henry",39,Engine,,,,,Southampton,Greaser,,,FALSE
+"SELF, Mr Edward",25,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"SENIOR, Mr Harry",31,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"SHEA, Mr Thomas",32,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"SHEATH, Mr Frederick",20,Engine,,,,,Southampton,Trimmer,1,,TRUE
+"SHEPHERD, Mr Jonathan",32,Engine,,,,,Southampton,Junior Assistant 2nd. Engineer,,,FALSE
+"SHIERS, Mr Alfred Charles",25,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"SHILLABEER, Mr Charles Frederick",20,Engine,,,,,Southampton,Trimmer,,195,FALSE
+"SKEATES, Mr William",26,Engine,,,,,Southampton,Trimmer,,,FALSE
+"SLOAN, Mr Peter",31,Engine,,,,,Belfast,Chief Electrician,,,FALSE
+"SMALL, Mr William",40,Engine,,,,,Southampton,Leading Fireman,,,FALSE
+"SMITH, Mr Emest George",26,Engine,,,,,Southampton,Trimmer,,,FALSE
+"SMITH, Mr James M.",35,Engine,,,,,Belfast,Junior 4th. Engineer,,,FALSE
+"SMITHER, Mr Harry John",22,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"SNELLGROVE, Mr G.",40,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"SNOOKS, Mr W.",26,Engine,,,,,Southampton,Trimmer,,,FALSE
+"SNOW, Mr Eustace Philip",21,Engine,,,,,Southampton,Trimmer,,,TRUE
+"SPARKMAN, Mr H.",30,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"STANBROOK, Mr Alfred Augustus",30,Engine,,,,,Southampton,Fireman / Stoker,,316,FALSE
+"STEEL, Mr Robert Edward",,Engine,,,,,Southampton,Trimmer,,,FALSE
+"STOCKER, Mr H.",20,Engine,,,,,Southampton,Trimmer,,,FALSE
+"STREET, Mr Thomas Albert",25,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"STUBBS, Mr James Henry",28,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"SULLIVAN, Mr S.",25,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"TAYLOR, Mr J.",42,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"TAYLOR, Mr James",24,Engine,,,,,Southampton,Fireman / Stoker,1,,TRUE
+"TAYLOR, Mr John",50,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"TAYLOR, Mr William Henry",26,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"THOMAS, Mr Joseph",25,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"THOMPSON, Mr John William",35,Engine,,,,,Southampton,Fireman / Stoker,A,,TRUE
+"THRELFALL, Mr Thomas",44,Engine,,,,,Southampton,Leading Fireman,,,TRUE
+"THRESHER, Mr George Terrill",25,Engine,,,,,Southampton,Fireman / Stoker,9,,TRUE
+"TIZARD, Mr Arthur",31,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"TOZER, Mr James",30,Engine,,,,,Southampton,Greaser,,,FALSE
+"TRIGGS, Mr Robert",40,Engine,,,,,Southampton,Fireman / Stoker,,,TRUE
+"TURLEY, Mr Richard",35,Engine,,,,,Belfast,Fireman / Stoker,,,FALSE
+"VAN DER BRUGGE, Mr Wessel Adrianus",42,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"VEAL, Mr Arthur",35,Engine,,,,,Southampton,Greaser,,,FALSE
+"VEAR, Mr H.",32,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"VEAR, Mr William",33,Engine,,,,,Southampton,Fireman / Stoker,,59,FALSE
+"WARD, Mr Arthur",24,Engine,,,,,Belfast,Junior Assistant 4th. Engineer,,,FALSE
+"WARD, Mr J.",31,Engine,,,,,Southampton,Leading Fireman,,,FALSE
+"WARDNER, Mr Albert",39,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"WATERIDGE, Mr Edward Lewis",25,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"WATSON, Mr W.",27,Engine,,,,,Southampton,Fireman / Stoker,,158,FALSE
+"WATTS, Mr",36,Engine,,,,,Southampton,Trimmer,,,FALSE
+"WEBB, Mr S.",28,Engine,,,,,Southampton,Trimmer,,,FALSE
+"WEBBER, Mr Francis Albert",31,Engine,,,,,Southampton,Leading Fireman,,,FALSE
+"WHITE, Mr Alfred",32,Engine,,,,,Southampton,Greaser,,,TRUE
+"WHITE, Mr Frank Leonard",28,Engine,,,,,Southampton,Trimmer,,,FALSE
+"WHITE, Mr William George",23,Engine,,,,,Southampton,Trimmer,,,TRUE
+"WILLIAMS, Mr Samuel S.",26,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"WILSON, Mr Bertie",28,Engine,,,,,Belfast,Senior Assistant 2nd. Engineer,,,FALSE
+"WILTON, Mr William",45,Engine,,,,,Southampton,Trimmer,,,FALSE
+"WITCHER, Mr Albert Ernest",39,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"WITT, Mr Henry Dennis",37,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"WOOD, Mr Henry",30,Engine,,,,,Southampton,Trimmer,,,FALSE
+"WOODFORD, Mr Frederick",40,Engine,,,,,Southampton,Greaser,,163,FALSE
+"WYETH, Mr James",26,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"YOUNG, Mr Francis James",30,Engine,,,,,Southampton,Fireman / Stoker,,,FALSE
+"ABBOTT, Mr Ernest Owen",21,Victualling,,,,,Southampton,Lounge Pantry Steward,,,FALSE
+"AHIER, Mr Percy Snowden",20,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"AKERMAN, Mr Albert",28,Victualling,,,,,Southampton,Steward,,,FALSE
+"AKERMAN, Mr Joseph Francis",35,Victualling,,,,,Southampton,Assistant Pantryman Steward,,205,FALSE
+"ALLAN, Mr Robert Spencer",36,Victualling,,,,,Southampton,Bed Room Steward,,,FALSE
+"ALLEN, Mr Frederick",17,Victualling,,,,,Southampton,Lift Steward,,,FALSE
+"ALLEN, Mr George",26,Victualling,,,,,Southampton,Scullion,,,FALSE
+"ALLSOP, Mr Frank Richard",41,Victualling,,,,,Belfast,Saloon Steward,,,FALSE
+"ANDERSON, Mr Walter J.",48,Victualling,,,,,Southampton,Bed Room Steward,,146,FALSE
+"ANDREWS, Mr Charles Edward",19,Victualling,,,,,Southampton,Assistant Saloon Steward,16,,TRUE
+"ASHCROFT, Mr Austin Aloysius",26,Victualling,,,,,Southampton,Clerk,,,FALSE
+"ASHE, Mr Henry Wellesley",32,Victualling,,,,,Southampton,Glory Hole Steward,,34,FALSE
+"AYLING, Mr George Edwin",22,Victualling,,,,,Southampton,Assistant Vegetable Cook,,,FALSE
+"BACK, Mr Charles Frederick",32,Victualling,,,,,Belfast,Assistant Lounge Steward,,,FALSE
+"BAGGOTT, Mr Allen Marden",28,Victualling,,,,,Southampton,Saloon Steward,,,TRUE
+"BAGLEY, Mr Edward Ernest",31,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"BAILEY, Mr George Francis",36,Victualling,,,,,Belfast,Saloon Steward,,161,FALSE
+"BALL, Mr Percy",19,Victualling,,,,,Southampton,Plate Steward,,,TRUE
+"BARKER, Mr Albert Vale",19,Victualling,,,,,Southampton,Baker,,,FALSE
+"BARKER, Mr Ernest T.",37,Victualling,,,,,Southampton,Saloon Steward,,159,FALSE
+"BARKER, Mr Reginald Lomond",40,Victualling,,,,,Belfast,Purser,,,FALSE
+"BARLOW, Mr George",36,Victualling,,,,,Southampton,Bed Room Steward,,,FALSE
+"BARNES, Mr Frederick",37,Victualling,,,,,Southampton,Baker,,,FALSE
+"BARRATT, Mr Arthur",15,Victualling,,,,,Southampton,Bell Boy,,,FALSE
+"BARRINGER, Mr Arthur William",33,Victualling,,,,,Belfast,Saloon Steward,,,FALSE
+"BARROW, Mr Harry",35,Victualling,,,,,Southampton,Butcher,,,FALSE
+"BARROWS, Mr William",32,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"BARTON, Mr Sidney John",25,Victualling,,,,,Southampton,Steward,,,FALSE
+"BAXTER, Mr Harry Ross",51,Victualling,,,,,Southampton,Steward,,,FALSE
+"BAXTER, Mr Thomas Ferguson",48,Victualling,,,,,Southampton,Linen Steward,,235,FALSE
+"BEDFORD, Mr William Barnet",31,Victualling,,,,,Southampton,Assistant Roast Cook,,,FALSE
+"BEEDEM, Mr George Arthur",34,Victualling,,,,,Southampton,Bed Room Steward,,,FALSE
+"BEERE, Mr William",19,Victualling,,,,,Southampton,Kitchen Porter,,,FALSE
+"BENHAM, Mr Frederick",29,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"BENNETT, Mrs Mabel",30,Victualling,,,,,Southampton,Stewardess,,,TRUE
+"BESSANT, Mr Edward William",31,Victualling,,,,,Southampton,Baggage Steward,,,FALSE
+"BEST, Mr Alfred Edwin",38,Victualling,,,,,Belfast,Saloon Steward,,,FALSE
+"BISHOP, Mr Walter Alexander",34,Victualling,,,,,Belfast,Bed Room Steward,,,FALSE
+"BLISS, Mrs Emma",45,Victualling,,,,,Southampton,Stewardess,,,TRUE
+"BOCHATAY, Mr Alexis Joseph",30,Victualling,,,,,Southampton,Chef,,,FALSE
+"BOGIE, Mr Norman Leslie",29,Victualling,,,,,Southampton,Bed Room Steward,,274,FALSE
+"BOND, Mr William John",40,Victualling,,,,,Belfast,Bed Room Steward,,,FALSE
+"BOOTHBY, Mr W.",36,Victualling,,,,,Southampton,Bed Room Steward,,107,FALSE
+"BOSTON, Mr William John",30,Victualling,,,,,Belfast,Deck Steward,,,FALSE
+"BOUGHTON, Mr B.",24,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"BOYD, Mr John",35,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"BOYES, Mr John Henry",36,Victualling,,,,,Belfast,Saloon Steward,,,FALSE
+"BRADSHAW, Mr J. A.",43,Victualling,,,,,Southampton,Plate Steward,,,FALSE
+"BREWSTER, Mr George H.",48,Victualling,,,,,Belfast,Bed Room Steward,,,FALSE
+"BRIDE, Mr Harold Sydney",22,Victualling,,,,,Belfast,Assistant Telegraphist,B,,TRUE
+"BRISTOW, Mr Harry",33,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"BRISTOW, Mr Robert Charles",31,Victualling,,,,,Southampton,Steward,,290,FALSE
+"BROOKMAN, Mr John",27,Victualling,,,,,Southampton,Steward,,,FALSE
+"BROOM, Mr H.",33,Victualling,,,,,Belfast,Bath Steward,,,FALSE
+"BROOME, Mr Athol Frederick",30,Victualling,,,,,Southampton,Verandah Steward,,,FALSE
+"BROWN, Mr Edward",34,Victualling,,,,,Belfast,Saloon Steward,,,TRUE
+"BROWN, Mr Walter James",28,Victualling,,,,,Belfast,Saloon Steward,,,FALSE
+"BUCKLEY, Mr H. E.",34,Victualling,,,,,Southampton,Assistant Vegetable Cook,,,FALSE
+"BULL, Mr W.",30,Victualling,,,,,Southampton,Scullion,,,FALSE
+"BULLEY, Mr Henry Ashburnham",21,Victualling,,,,,Southampton,Boots,,,FALSE
+"BUNNELL, Mr Wilfred",20,Victualling,,,,,Belfast,Plate Steward,,,FALSE
+"BURGESS, Mr Charles Reginald",18,Victualling,,,,,Southampton,Extra 3rd. Baker,,,TRUE
+"BURKE, Mr Richard Edward",30,Victualling,,,,,Belfast,Lounge Steward,,,FALSE
+"BURKE, Mr William",31,Victualling,,,,,Belfast,Saloon Steward,,,TRUE
+"BURR, Mr Ewart Sydenham",29,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"BURRAGE, Mr A.",20,Victualling,,,,,Southampton,Plate Steward,13,,TRUE
+"BUTT, Mr Robert Henry",21,Victualling,,,,,Southampton,Saloon Steward,,10,FALSE
+"BUTTERWORTH, Mr John",23,Victualling,,,,,Southampton,Saloon Steward,,116,FALSE
+"BYRNE, Mr J. E.",38,Victualling,,,,,Southampton,Bed Room Steward,,,FALSE
+"CAMPBELL, Mr Donald S.",25,Victualling,,,,,Southampton,3rd Class Clerk,,,FALSE
+"CARNEY, Mr William",31,Victualling,,,,,Southampton,Lift Steward,,251,FALSE
+"CARTWRIGHT, Mr James Edward",32,Victualling,,,,,Belfast,Saloon Steward,,320,FALSE
+"CASSWILL, Mr Charles",34,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"CATON, Miss Annie",33,Victualling,,,,,Southampton,Turkish Bath Stewardess,11,,TRUE
+"CAUNT, Mr William Ewart",27,Victualling,,,,,Southampton,Grill Cook,,,FALSE
+"CAVE, Mr Herbert",34,Victualling,,,,,Belfast,Saloon Steward,,218,FALSE
+"CECIL, Mr C.",20,Victualling,,,,,Southampton,Steward,,,FALSE
+"CHAPMAN, Mr Joseph Charles",32,Victualling,,,,,Southampton,Boots,,,TRUE
+"CHARMAN, Mr John",25,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"CHEVERTON, Mr William Edward",27,Victualling,,,,,Belfast,Saloon Steward,,334,FALSE
+"CHITTY, Mr Archibald George",28,Victualling,,,,,Southampton,Steward,,,FALSE
+"CHITTY, Mr George Henry",52,Victualling,,,,,Southampton,Baker,,,FALSE
+"CHRISTMAS, Mr H.",33,Victualling,,,,,Southampton,Assistant Saloon Steward,,,FALSE
+"COLEMAN, Mr Albert Edward",28,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"COLGAN, Mr E. Joseph",33,Victualling,,,,,Southampton,Scullion,,,TRUE
+"COLLINS, Mr John",17,Victualling,,,,,Southampton,Scullion,,,TRUE
+"CONWAY, Mr P. W.",25,Victualling,,,,,Belfast,Saloon Steward,,,FALSE
+"COOK, Mr George",32,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"COOMBS, Mr Augustus Charles",42,Victualling,,,,,Southampton,Cook,,,FALSE
+"CORBEN, Mr Ernest Theodore",27,Victualling,,,,,Southampton,Assistant Printer Steward,,,FALSE
+"COX, Mr William Denton",29,Victualling,,,,,Southampton,Steward,,300,FALSE
+"CRAFTER, Mr Frederick",27,Victualling,,,,,Southampton,Saloon Steward,,,TRUE
+"CRAWFORD, Mr Alfred",36,Victualling,,,,,Belfast,Bed Room Steward,8,,TRUE
+"CRISP, Mr Albert Hector",39,Victualling,,,,,Belfast,Saloon Steward,,,FALSE
+"CRISPIN, Mr William",32,Victualling,,,,,Southampton,Glory Hole Steward,,,FALSE
+"CROSBY, Mr J. Bertram",42,Victualling,,,,,Southampton,Turkish Bath Attendant,,,FALSE
+"CROWE, Mr George Frederick",30,Victualling,,,,,Southampton,Saloon Steward,,,TRUE
+"CRUMPLIN, Mr Charles",35,Victualling,,,,,Belfast,Bed Room Steward,,,FALSE
+"CULLEN, Mr Charles",45,Victualling,,,,,Belfast,Bed Room Steward,,,TRUE
+"CUNNINGHAM, Mr Andrew",35,Victualling,,,,,Belfast,Bed Room Steward,4,,TRUE
+"DANIELS, Mr Sidney Edward",18,Victualling,,,,,Southampton,Steward,,,TRUE
+"DASHWOOD, Mr William George",19,Victualling,,,,,Southampton,Saloon Steward,,83,FALSE
+"DAVIES, Mr Gordon Raleigh",33,Victualling,,,,,Belfast,Bed Room Steward,,,FALSE
+"DAVIES, Mr John James",27,Victualling,,,,,Belfast,Extra 2nd Baker,,200,FALSE
+"DAVIES, Mr Robert J.",26,Victualling,,,,,Belfast,Saloon Steward,,191,FALSE
+"DEAN, Mr George H.",19,Victualling,,,,,Southampton,Assistant Saloon Steward,,252,FALSE
+"DEEBLE, Mr Alfred Arnold",29,Victualling,,,,,Belfast,Saloon Steward,,270,FALSE
+"DERRETT, Mr Albert",26,Victualling,,,,,Belfast,Saloon Steward,,,FALSE
+"DESLANDS, Mr Percival Stainer",36,Victualling,,,,,Southampton,Saloon Steward,,212,FALSE
+"DINENAGE, Mr James Richard",49,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"DODD, Mr George Charles",44,Victualling,,,,,Belfast,Steward,,,FALSE
+"DOLBY, Mr Joseph",36,Victualling,,,,,Belfast,Reception Room Steward,,,FALSE
+"DONOGHUE, Mr Frank (?Thomas)",35,Victualling,,,,,Belfast,Bed Room Steward,,,FALSE
+"DOUGHTY, Mr W.",22,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"DUNFORD, Mr William",41,Victualling,,,,,Southampton,Hospital Steward,,71,FALSE
+"DYER, Mr William",31,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"EDBROOKE, Mr F.",24,Victualling,,,,,Southampton,Steward,,,FALSE
+"EDE, Mr George B.",22,Victualling,,,,,Southampton,Steward,,,FALSE
+"EDGE, Mr Frederick William",39,Victualling,,,,,Southampton,Deck Steward,,,FALSE
+"EDWARDS, Mr Clement",39,Victualling,,,,,Southampton,Assistant Pantryman Steward,,,FALSE
+"EGG, Mr W. H.",34,Victualling,,,,,Southampton,Steward,,,FALSE
+"ELLIS, Mr John Bertram",30,Victualling,,,,,Southampton,Assistant Vegetable Cook,2,,TRUE
+"ENNIS, Mr Walter",35,Victualling,,,,,Southampton,Turkish Bath Attendant,,,FALSE
+"ETCHES, Mr Henry Samuel",41,Victualling,,,,,Belfast,Bed Room Steward,5,,TRUE
+"EVANS, Mr George Richard",27,Victualling,,,,,Belfast,Saloon Steward,,,FALSE
+"FAIRALL, Mr Henry",38,Victualling,,,,,Belfast,Saloon Steward,,,FALSE
+"FARRENDEN, Mr Ernest John",22,Victualling,,,,,Belfast,Confectioner,,,FALSE
+"FAULKNER, Mr William Stephen",37,Victualling,,,,,Belfast,Bed Room Steward,11,,TRUE
+"FELLOWES, Mr Alfred J.",29,Victualling,,,,,Belfast,Boots,,138,FALSE
+"FELTHAM, Mr G.",36,Victualling,,,,,Southampton,Vienna Baker,,,FALSE
+"FINCH, Mr Harry",18,Victualling,,,,,Southampton,Steward,,,FALSE
+"FLETCHER, Mr Peter W.",26,Victualling,,,,,Belfast,Bugler Steward,,,FALSE
+"FOLEY, Mr William C.",26,Victualling,,,,,Southampton,Steward,,,TRUE
+"FORD, Mr Ernest",32,Victualling,,,,,Southampton,Steward,,,FALSE
+"FORD, Mr F.",37,Victualling,,,,,Southampton,Bed Room Steward,,,FALSE
+"FOX, Mr William Thomas",27,Victualling,,,,,Southampton,Steward,,,FALSE
+"FRANKLIN, Mr Alan Vincent",29,Victualling,,,,,Southampton,Saloon Steward,,262,FALSE
+"FREEMAN, Mr Ernest Edward Samuel",43,Victualling,,,,,Belfast,Deck Steward,,239,FALSE
+"GEDDES, Mr Richard Charles",31,Victualling,,,,,Southampton,Bed Room Steward,,,FALSE
+"GIBBONS, Mr Jacob William",36,Victualling,,,,,Southampton,Saloon Steward,,,TRUE
+"GILES, Mr John Robert",33,Victualling,,,,,Southampton,Baker,,,FALSE
+"GILL, Mr Joseph Stanley",34,Victualling,,,,,Belfast,Bed Room Steward,,49,FALSE
+"GILL, Mr Patrick",38,Victualling,,,,,Southampton,Ship's Cook,,,FALSE
+"GOLD, Mrs Katherine",42,Victualling,,,,,Southampton,Stewardess,,,TRUE
+"GOLLOP, Mr F.",28,Victualling,,,,,Southampton,Assistant Passage Cook,,,FALSE
+"GOSHAWK, Mr Arthur James",31,Victualling,,,,,Belfast,3rd Saloon Steward,,,FALSE
+"GREGSON, Miss Mary",44,Victualling,,,,,Southampton,Stewardess,,,TRUE
+"GUNN, Mr Joseph Alfred",28,Victualling,,,,,Southampton,Assistant Saloon Steward,,,FALSE
+"GUY, Mr Edward John",28,Victualling,,,,,Southampton,Boots,,,TRUE
+"GWYNN, Mr William Logan",37,Victualling,,,,Postal Clerk,Southampton,Postal Clerk,,,FALSE
+"HALFORD, Mr Richard",22,Victualling,,,,,Southampton,Steward,,,TRUE
+"HALL, Mr F. A. J.",38,Victualling,,,,,Southampton,Scullion,,,FALSE
+"HAMBLYN, Mr Ernest William",41,Victualling,,,,,Southampton,Bed Room Steward,,,FALSE
+"HAMILTON, Mr Ernest",25,Victualling,,,,,Belfast,Assistant Smoke Room Steward,,,FALSE
+"HARDING, Mr A.",20,Victualling,,,,,Southampton,Assistant Pantry Steward,,,FALSE
+"HARDWICK, Mr Reginald",21,Victualling,,,,,Southampton,Kitchen Porter,11,,TRUE
+"HARDY, Mr John T.",37,Victualling,,,,,Belfast,Chief 2nd Class Steward,D,,TRUE
+"HARRIS, Mr Charles William",19,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"HARRIS, Mr Clifford Henry",16,Victualling,,,,,Southampton,Bell Boy,,,FALSE
+"HARRIS, Mr Edward",18,Victualling,,,,,Southampton,Assistant Pantryman Steward,,,FALSE
+"HARRISON, Mr Aragon Drummond",40,Victualling,,,,,Southampton,Saloon Steward,,,TRUE
+"HART, Mr John Edward",31,Victualling,,,,,Southampton,Steward,,,TRUE
+"HARTNELL, Mr Frederick",21,Victualling,,,,,Southampton,Saloon Steward,,,TRUE
+"HATCH, Mr Hugh",23,Victualling,,,,,Southampton,Scullion,,,FALSE
+"HAWKESWORTH, Mr James",38,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"HAWKESWORTH, Mr William Walter",43,Victualling,,,,,Southampton,Deck Steward,,,FALSE
+"HAYTER, Mr Arthur",44,Victualling,,,,,Belfast,Bed Room Steward,,25,FALSE
+"HEINEN, Mr Joseph",30,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"HENDY, Mr Edward Martin",38,Victualling,,,,,Belfast,Saloon Steward,,,FALSE
+"HENSFORD, Mr Herbert George",27,Victualling,,,,,Southampton,Butcher,,,FALSE
+"HEWETT, Mr Thomas",37,Victualling,,,,,Belfast,Bed Room Steward,,168,FALSE
+"HILL, Mr H. P.",36,Victualling,,,,,Southampton,Steward,,,FALSE
+"HILL, Mr James Colston",38,Victualling,,,,,Belfast,Bed Room Steward,,152,FALSE
+"HINCKLEY, Mr George",35,Victualling,,,,,Southampton,Bath Steward,,66,FALSE
+"HINE, Mr William Edward",36,Victualling,,,,,Southampton,Baker,,,FALSE
+"HISCOCK, Mr S.",22,Victualling,,,,,Southampton,Plate Steward,,,FALSE
+"HOARE, Mr Leonard James",16,Victualling,,,,,Belfast,Saloon Steward,,,FALSE
+"HOGG, Mr Charles William",37,Victualling,,,,,Southampton,Bed Room Steward,,,FALSE
+"HOGUE, Mr E.",22,Victualling,,,,,Southampton,Plate Steward,,,FALSE
+"HOLLAND, Mr Thomas",28,Victualling,,,,,Belfast,Reception Steward,,,FALSE
+"HOLLOWAY, Mr Sidney",20,Victualling,,,,,Southampton,Clothes Presser,,273,FALSE
+"HOPKINS, Mr F.",16,Victualling,,,,,Southampton,Plate Steward,,,FALSE
+"HOUSE, Mr William",38,Victualling,,,,,Belfast,Saloon Steward,,,FALSE
+"HOWELL, Mr Arthur Albert",31,Victualling,,,,,Belfast,Saloon Steward,,319,FALSE
+"HUGHES, Mr William Thomas",36,Victualling,,,,,Southampton,Steward,,,FALSE
+"HUMBY, Mr Frederick",16,Victualling,,,,,Southampton,Plate Steward,,,FALSE
+"HUMPHREYS, Mr Thomas Humphrey",31,Victualling,,,,,Southampton,Assistant Saloon Steward,,,FALSE
+"HUTCHINSON, Mr James",28,Victualling,,,,,Southampton,Vegetable. Cook,,250,FALSE
+"HYLAND, Mr Leo James",19,Victualling,,,,,Southampton,Steward,11,,TRUE
+"IDE, Mr Harry John",32,Victualling,,,,,Southampton,Bed Room Steward,,,FALSE
+"INGROUILLE, Mr Henry",21,Victualling,,,,,Southampton,Steward,,,FALSE
+"INGS, Mr William Ernest",20,Victualling,,,,,Southampton,Scullion,,,FALSE
+"JACKSON, Mr Cecil",22,Victualling,,,,,Belfast,Boots,,,FALSE
+"JANAWAY, Mr William Frank",35,Victualling,,,,,Belfast,Bed Room Steward,,,FALSE
+"JENNER, Mr Harry",41,Victualling,,,,,Belfast,Saloon Steward,,,FALSE
+"JENSEN, Mr Charles Valdemar",25,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"JESSOP, Miss Violet Constance",24,Victualling,,,,,Southampton,Stewardess,,,TRUE
+"JOHNSON THORNE, Mr Harry",25,Victualling,,,,,Southampton,Assistant Ship's Cook,,,FALSE
+"JOHNSTON, Mr James",41,Victualling,,,,,Belfast,Saloon Steward,2,,TRUE
+"JONES, Mr Albert",17,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"JONES, Mr Arthur Ernest",38,Victualling,,,,,Southampton,Plate Steward,,,FALSE
+"JONES, Mr H.",29,Victualling,,,,,Southampton,Roast Cook,,,FALSE
+"JONES, Mr Reginald V.",20,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"JOUGHIN, Mr Charles John",32,Victualling,,,,,Belfast,Chief Baker,B,,TRUE
+"KEEN, Mr Percy Edward",28,Victualling,,,,,Southampton,Saloon Steward,,,TRUE
+"KELLAND, Mr Thomas",21,Victualling,,,,,Southampton,Library Steward,,,FALSE
+"KENNELL, Mr Charles",30,Victualling,,,,,Southampton,Hebrew Cook,,,FALSE
+"KERLEY, Mr William Thomas",28,Victualling,,,,,Southampton,Assistant Saloon Steward,,-1,FALSE
+"KETCHLEY, Mr Henry",30,Victualling,,,,,Belfast,Saloon Steward,,,FALSE
+"KIERAN, Mr James W.",32,Victualling,,,,,Southampton,Chief 3rd Class Steward,,,FALSE
+"KIERAN, Mr Michael",31,Victualling,,,,,Southampton,Storekeeper,,,FALSE
+"KING, Mr Alfred",18,Victualling,,,,,Southampton,Lift Steward,,238,FALSE
+"KING, Mr Ernest Waldron",28,Victualling,,,,,Southampton,Clerk,,321,FALSE
+"KING, Mr G.",20,Victualling,,,,,Southampton,Scullion,,,FALSE
+"KINGSCOTE, Mr William Ford",42,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"KIRKALDY, Mr Thomas",39,Victualling,,,,,Southampton,Bed Room Steward,,,FALSE
+"KITCHING, Mr Arthur Alfred",30,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"KLEIN, Mr Herbert",33,Victualling,,,,,Southampton,Barber,,,FALSE
+"KNIGHT, Mr George",44,Victualling,,,,,Southampton,Saloon Steward,,,TRUE
+"KNIGHT, Mr Leonard George",21,Victualling,,,,,Southampton,Steward,,,FALSE
+"LACEY, Mr Bert W.",21,Victualling,,,,,Southampton,Assistant Saloon Steward,,,FALSE
+"LAKE, Mr William",35,Victualling,,,,,Belfast,Saloon Steward,,,FALSE
+"LANE, Mr Albert Edward",34,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"LATIMER, Mr Andrew L",55,Victualling,,,,,Belfast,Chief Steward,,,FALSE
+"LAVINGTON, Miss Bessie",38,Victualling,,,,,Southampton,Stewardess,,,TRUE
+"LAWRENCE, Mr Arthur",35,Victualling,,,,,Belfast,Saloon Steward,,90,FALSE
+"LEADER, Mr Archie",22,Victualling,,,,,Southampton,Confectioner,,,FALSE
+"LEATHER, Mrs Elizabeth May",41,Victualling,,,,,Southampton,Stewardess,,,TRUE
+"LEFEBVRE, Mr Paul Georges",35,Victualling,,,,,Southampton,Saloon Steward,,211,FALSE
+"LEONARD, Mr Matthew",26,Victualling,,,,,Belfast,Steward,,,FALSE
+"LEVETT, Mr George Alfred",21,Victualling,,,,,Belfast,Assistant Pantryman Steward,,,FALSE
+"LEWIS, Mr Arthur Ernest Read",27,Victualling,,,,,Southampton,Steward,,,TRUE
+"LIGHT, Mr C.",23,Victualling,,,,,Southampton,Plate Steward,,,FALSE
+"LITTLEJOHN, Mr Alexander James",40,Victualling,,,,,Belfast,Saloon Steward,,,TRUE
+"LLOYD, Mr Humphrey",32,Victualling,,,,,Belfast,Saloon Steward,,57,FALSE
+"LOCKE, Mr A.",33,Victualling,,,,,Southampton,Scullion,,,FALSE
+"LONGMUIR, Mr John Dickson",19,Victualling,,,,,Southampton,Assistant Pantry Steward,,,FALSE
+"LOVELL, Mr John",38,Victualling,,,,,Southampton,Grill Cook,,,FALSE
+"LUCAS, Mr William",34,Victualling,,,,,Belfast,Saloon Steward,A,,TRUE
+"LYDIATT, Mr Charles",38,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"MULLER, Mr L.",36,Victualling,,,,,Southampton,Interpreter Steward,,,FALSE
+"MABEY, Mr J.",23,Victualling,,,,,Southampton,Steward,,,FALSE
+"MACKAY, Mr Charles Donald",34,Victualling,,,,,Belfast,Saloon Steward,11,,TRUE
+"MACKIE, Mr George William",34,Victualling,,,,,Southampton,Bed Room Steward,,,FALSE
+"MAJOR, Mr Thomas Edgar",35,Victualling,,,,,Belfast,Bath Steward,,,FALSE
+"MANTLE, Mr Roland Frederick",36,Victualling,,,,,Southampton,Steward,,,FALSE
+"MARCH, Mr John Starr",50,Victualling,,,,Postal Clerk,Southampton,Postal Clerk,,225,FALSE
+"MARKS, Mr J.",26,Victualling,,,,,Southampton,Assistant Pantryman Steward,,,FALSE
+"MARRIOTT, Mr J. W.",20,Victualling,,,,,Southampton,Assistant Pantryman Steward,,2,FALSE
+"MARSDEN, Miss Evelyn",28,Victualling,,,,,Southampton,Stewardess,16,,TRUE
+"MARTIN, Mr F.",29,Victualling,,,,,Southampton,Scullion,,,TRUE
+"MARTIN, Mrs Annie",33,Victualling,,,,,Southampton,Stewardess,,,TRUE
+"MAYNARD, Mr Isaac Hiram",31,Victualling,,,,,Belfast,Entre Cook,B,,TRUE
+"MAYTUM, Mr Alfred",52,Victualling,,,,,Belfast,Chief Butcher,,141,FALSE
+"MCCARTHY, Mr Frederick J.",36,Victualling,,,,,Southampton,Bed Room Steward,,,FALSE
+"MCCAWLEY, Mr Thomas W.",36,Victualling,,,,,Belfast,Gymnasium Steward,,,FALSE
+"MCELROY, Mr Hugh Walter",37,Victualling,,,,,Southampton,Purser,,157,FALSE
+"MCGRADY, Mr James",27,Victualling,,,,,Southampton,Saloon Steward,,330,FALSE
+"MCLAREN, Mrs",40,Victualling,,,,,Southampton,Stewardess,,,TRUE
+"MCMICKEN, Mr Arthur",23,Victualling,,,,,Belfast,Saloon Steward,11,,TRUE
+"MCMICKEN, Mr Benjamin Tucker",21,Victualling,,,,,Belfast,Second Pantry Steward,,,FALSE
+"MCMULLIN, Mr James",32,Victualling,,,,,Belfast,Saloon Steward,,,FALSE
+"MCMURRAY, Mr William Ernest",43,Victualling,,,,,Belfast,Bed Room Steward,,,FALSE
+"MELLOR, Mr Arthur",34,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"MIDDLETON, Mr M. V.",24,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"MILLS, Mr Christopher",51,Victualling,,,,,Southampton,Butcher,,,TRUE
+"MISHELLAMY, Mr Abraham",52,Victualling,,,,,Belfast,Printer Steward,,,FALSE
+"MOORE, Mr Alfred Ernest",39,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"MORGAN (BIRD), Mr Charles Frederick",42,Victualling,,,,,Southampton,Assistant Storekeeper,,,FALSE
+"MORRIS, Mr Frank Herbert",28,Victualling,,,,,Belfast,Bath Room Steward,14,,TRUE
+"MOSS, Mr William",34,Victualling,,,,,Belfast,1st. Saloon Steward,,,FALSE
+"MULLEN, Mr Thomas A.",20,Victualling,,,,,Southampton,Steward,,323,FALSE
+"NEAL, Mr Henry",25,Victualling,,,,,Southampton,Baker,,,TRUE
+"NICHOLLS, Mr Sidney",39,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"NICHOLS, Mr A.D.",34,Victualling,,,,,Southampton,Steward,,,FALSE
+"NICHOLS, Mr Walter Henry",35,Victualling,,,,,Southampton,Assistant Saloon Steward,,,TRUE
+"O'CONNOR, Mr Thomas Peter",39,Victualling,,,,,Belfast,Bed Room Steward,,,FALSE
+"OLIVE, Mr Ernest Roskelly",28,Victualling,,,,,Southampton,Clothes Presser Steward,,,FALSE
+"ORPET, Mr Walter Hayward",31,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"ORR, Mr J.",40,Victualling,,,,,Southampton,Assistant Vegetable Cook,,,FALSE
+"OSBORNE, Mr William Edward",32,Victualling,,,,,Belfast,Saloon Steward,,,FALSE
+"OWEN, Mr Lewis",49,Victualling,,,,,Southampton,Assistant Saloon Steward,,,FALSE
+"PACEY, Mr Reginald lvan",17,Victualling,,,,,Southampton,Lift Steward,,,FALSE
+"PAINTIN, Mr James Arthur",29,Victualling,,,,,Southampton,Captain's Steward (Tiger),,,FALSE
+"PARSONS, Mr Edward",35,Victualling,,,,,Southampton,Chief Storekeeper,,,FALSE
+"PARSONS, Mr Richard",18,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"PEARCE, Mr Alfred Emest",24,Victualling,,,,,Southampton,Steward,,,FALSE
+"PEARCEY, Mr Albert Victor",32,Victualling,,,,,Southampton,Steward,,,TRUE
+"PENNAL, Mr Thomas Francis",33,Victualling,,,,,Southampton,Bath Steward,,,FALSE
+"PENNY, Mr William Farr",30,Victualling,,,,,Southampton,Assistant Saloon Steward,,,FALSE
+"PENROSE, Mr John Poole",49,Victualling,,,,,Belfast,Bed Room Steward,,,FALSE
+"PERKINS, Mr Laurence Alexander",22,Victualling,,,,,Southampton,Telephone Steward,,,FALSE
+"PERRIN, Mr William Charles",39,Victualling,,,,,Southampton,Boots,,,FALSE
+"PERRITON, Mr Hubert Prouse",31,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"PETTY, Mr Edwin Henry",25,Victualling,,,,,Southampton,Bed Room Steward,,82,FALSE
+"PFROPPER, Mr Richard",30,Victualling,,,,,Southampton,Saloon Steward,,,TRUE
+"PHILLIMORE, Mr Harold Charles William",23,Victualling,,,,,Belfast,Saloon Steward,14,,TRUE
+"PHILLIPS, Mr John George",25,Victualling,,,,,Belfast,Telegraphist,,,FALSE
+"PLATT, Mr W.",18,Victualling,,,,,Southampton,Scullion,,,FALSE
+"POOK, Mr P.",34,Victualling,,,,,Southampton,Assistant Pantry,,,FALSE
+"PORT, Mr Frank",22,Victualling,,,,,Southampton,Steward,,,TRUE
+"PORTEUS, Mr Thomas",32,Victualling,,,,,Southampton,Butcher,,,FALSE
+"PRENTICE, Mr Frank Winnold",22,Victualling,,,,,Southampton,Storekeeper,,,TRUE
+"PRICHARD, Mrs Alice",33,Victualling,,,,,Southampton,Stewardess,,,TRUE
+"PRIDEAUX, Mr John ""Jack"" Arthur",23,Victualling,,,,,Southampton,Steward,,,FALSE
+"PRIOR, Mr Harold John",21,Victualling,,,,,Southampton,Steward,,,TRUE
+"PROCTOR, Mr Charles",40,Victualling,,,,,Belfast,Chef,,,FALSE
+"PRYCE, Mr Charles William",22,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"PUGH, Mr Alfred",20,Victualling,,,,,Southampton,Steward,,,TRUE
+"PUSEY, Mr John E.",35,Victualling,,,,,Belfast,Saloon Steward,,,FALSE
+"RANDALL, Mr Frank Henry",29,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"RANSOM, Mr James",33,Victualling,,,,,Belfast,Saloon Steward,,,FALSE
+"RATTONBURY, Mr William Henry",36,Victualling,,,,,Belfast,Boots,,,FALSE
+"RAY, Mr Frederick Dent",32,Victualling,,,,,Belfast,Saloon Steward,13,,TRUE
+"REED, Mr Thomas Charles Prowse",54,Victualling,,,,,Southampton,Bed Room Steward,,,FALSE
+"REVELL, Mr William",31,Victualling,,,,,Belfast,Saloon Steward,,,FALSE
+"RICE, Mr John Reginald",25,Victualling,,,,,Southampton,Clerk,,64,FALSE
+"RICE, Mr Percy",19,Victualling,,,,,Southampton,Steward,,,FALSE
+"RICKS, Mr Cyril G.",23,Victualling,,,,,Southampton,Storekeeper,,100,FALSE
+"RIDOUT, Mr W.",29,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"RIMMER, Mr Gilbert",27,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"ROBERTON, Mr George Edward",19,Victualling,,,,,Southampton,Assistant Saloon Steward,,127,FALSE
+"ROBERTS, Mr Frederick (Frank John?)",36,Victualling,,,,,Belfast,Third Butcher,,231,FALSE
+"ROBERTS, Mr Hugh H.",40,Victualling,,,,,Belfast,Bed Room Steward,,93,FALSE
+"ROBERTS, Mrs Mary Kezziah",41,Victualling,,,,,Southampton,Stewardess,,,TRUE
+"ROBINSON, Mr James William",30,Victualling,,,,,Southampton,Saloon Steward,,151,FALSE
+"ROBINSON, Mrs Annie",40,Victualling,,,,,Southampton,Stewardess,11,,TRUE
+"ROGERS, Mr Edward James William",32,Victualling,,,,,Southampton,Assistant Storekeeper,,282,FALSE
+"ROGERS, Mr Michael",27,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"ROSS, Mr Horace Leopold",36,Victualling,,,,,Southampton,Scullion,,,TRUE
+"ROWE, Mr Edward M.",31,Victualling,,,,,Belfast,Saloon Steward,,,FALSE
+"RULE, Mr Samuel James",58,Victualling,,,,,Belfast,Bath Room Steward,,,TRUE
+"RUSSELL, Mr Boysie Richard",17,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"RYAN, Mr Tom",27,Victualling,,,,,Southampton,Steward,,,FALSE
+"RYERSON, Mr William Edwy",32,Victualling,,,,,Southampton,Saloon Steward,,,TRUE
+"SAMUEL, Mr Owen Wilmore",41,Victualling,,,,,Southampton,Saloon Steward,,217,FALSE
+"SAUNDERS, Mr D. E.",26,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"SAVAGE, Mr Charles J.",23,Victualling,,,,,Southampton,Steward,,,TRUE
+"SCOTT, Mr John",21,Victualling,,,,,Southampton,Boots,,,FALSE
+"SCOVELL, Mr Robert",42,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"SEDUNARY, Mr Sidney Francis",25,Victualling,,,,,Southampton,Steward,,,FALSE
+"SEWARD, Mr Wilfred Deable",25,Victualling,,,,,Southampton,Chief Pantry Steward,,,TRUE
+"SHAW, Mr Henry",39,Victualling,,,,,Southampton,Kitchen Porter,,,FALSE
+"SHEA, Mr John",39,Victualling,,,,,Belfast,Saloon Steward,,11,FALSE
+"SIEBERT, Mr Sidney Conrad",29,Victualling,,,,,Belfast,Bed Room Steward,4,,FALSE
+"SIMMONS, Mr Alfred (Andrew)",31,Victualling,,,,,Southampton,Scullion,,,TRUE
+"SIMMONS, Mr Frederick C.",25,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"SIMMONS, Mr W.",32,Victualling,,,,,Southampton,Passage Cook,,,FALSE
+"SIVIER, Mr William",23,Victualling,,,,,Southampton,Steward,,,FALSE
+"SKINNER, Mr Edward",33,Victualling,,,,,Belfast,Saloon Steward,,,FALSE
+"SLIGHT, Mr Harry John",35,Victualling,,,,,Southampton,Steward,,,FALSE
+"SLIGHT, Mr William H.",37,Victualling,,,,,Belfast,Larder Cook,,,FALSE
+"SLOAN, Miss Mary",28,Victualling,,,,,Southampton,Stewardess,,,TRUE
+"SLOCOMBE, Mrs Maud (ne Waldon)",30,Victualling,,,,,Southampton,Turkish Bath Stewardess,,,TRUE
+"SMILLIE, Mr John",29,Victualling,,,,,Belfast,Saloon Steward,,91,FALSE
+"SMITH, Miss Katherine E.",42,Victualling,,,,,Southampton,Stewardess,,,TRUE
+"SMITH, Mr Charles",38,Victualling,,,,,Southampton,Kitchen Porter,,,FALSE
+"SMITH, Mr Charles Edwin",38,Victualling,,,,,Southampton,Bed Room Steward,,329,FALSE
+"SMITH, Mr F.",20,Victualling,,,,,Belfast,Assistant Pantryman Steward,,,FALSE
+"SMITH, Mr J.",24,Victualling,,,,,Southampton,Baker,,,FALSE
+"SMITH, Mr John Richard Jago",35,Victualling,,,,Postal Clerk,Southampton,Postal Clerk,,,FALSE
+"SMITH, Mr Robert G.",30,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"SNAPE, Mrs Lucy Violet",22,Victualling,,,,,Southampton,Stewardess,,,FALSE
+"STAGG, Mr John Henry",34,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"STAP, Miss Sarah Agnes",47,Victualling,,,,,Southampton,Stewardess,,,TRUE
+"STEBBINGS, Mr Sydney Frederick",34,Victualling,,,,,Belfast,Chief Boots Steward,,,FALSE
+"STEWART, Mr John",27,Victualling,,,,,Belfast,Verandah Steward,15,,TRUE
+"STONE, Mr Edmond J.",33,Victualling,,,,,Southampton,Bed Room Steward,,41,FALSE
+"STONE, Mr Edward Thomas",30,Victualling,,,,,Southampton,Bed Room Steward,,243,FALSE
+"STROUD, Mr Edward Alfred Orlando",19,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"STROUD, Mr Harry John",35,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"STRUGNELL, Mr John H.",34,Victualling,,,,,Belfast,Saloon Steward,,,FALSE
+"STUBBINGS, Mr Harry Robert",31,Victualling,,,,,Belfast,2nd. Class Cook,,,FALSE
+"SWAN, Mr W.",46,Victualling,,,,,Belfast,Bed Room Steward,,,FALSE
+"SYMONDS, Mr J.",38,Victualling,,,,,Belfast,Saloon Steward,,,FALSE
+"TALBOT, Mr George Frederick Charles",,Victualling,,,,,Southampton,Steward,,150,FALSE
+"TAYLOR, Mr Bernard Cuthbert",22,Victualling,,,,,Southampton,Steward,,,FALSE
+"TAYLOR, Mr George Frederick",32,Victualling,,,,,Southampton,Stenographer,,,FALSE
+"TAYLOR, Mr Leonard",23,Victualling,,,,,Southampton,Turkish Bath Attendant,,,FALSE
+"TAYLOR, Mr William John",30,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"TERRELL, Mr Frank",27,Victualling,,,,,Southampton,Assistant Saloon Steward,,,TRUE
+"TEUTON (?FENTON), Mr Thomas Moore",32,Victualling,,,,,Southampton,Saloon Steward,,226,FALSE
+"THALER, Mr Montague Donald",17,Victualling,,,,,Southampton,Steward,,,FALSE
+"THEISSINGER, Mr Alfred",43,Victualling,,,,,Southampton,Bed Room Steward,,,TRUE
+"THOMAS, Mr Albert Charles",23,Victualling,,,,,Southampton,Saloon Steward,,,TRUE
+"THOMAS, Mr Benjamin James",32,Victualling,,,,,Belfast,Saloon Steward,15,,TRUE
+"THOMPSON, Mr Herbert Henry",25,Victualling,,,,,Belfast,2nd (Assistant) Storekeeper,,,FALSE
+"THORLEY, Mr William",39,Victualling,,,,,Southampton,Cook,,,FALSE
+"TOMS, Mr Francis A.",31,Victualling,,,,,Belfast,Saloon Steward,15,,TRUE
+"TOPP, Mr Thomas Frederick",28,Victualling,,,,,Southampton,Butcher,,,FALSE
+"TOSHACK, Mr James Adamson",30,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"TURNER, Mr L.",28,Victualling,,,,,Belfast,Saloon Steward,,23,FALSE
+"VEAL, Mr Thomas Henry Edom",38,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"WAKE, Mr Percy",37,Victualling,,,,,Southampton,Baker,,,FALSE
+"WALLIS, Mrs Catherine Jane",35,Victualling,,,,,Southampton,Matron,,,FALSE
+"WALPOLE, Mr James",48,Victualling,,,,,Belfast,Chief Pantryman Steward,,,FALSE
+"WALSH, Miss Catherine",32,Victualling,,,,,Southampton,Stewardess,,,FALSE
+"WARD, Mr Edward",34,Victualling,,,,,Belfast,Bed Room Steward,,,FALSE
+"WARD, Mr Percy Thomas",38,Victualling,,,,,Belfast,Bed Room Steward,,,FALSE
+"WARD, Mr William",36,Victualling,,,,,Southampton,Saloon Steward,,,TRUE
+"WAREHAM, Mr Robert Arthur",36,Victualling,,,,,Belfast,Bed Room Steward,,246,FALSE
+"WARWICK, Mr Tom",35,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"WATSON, Mr W. A.",14,Victualling,,,,,Southampton,Bell Boy,,,FALSE
+"WEATHERSTONE, Mr Thomas Herbert",24,Victualling,,,,,Belfast,Saloon Steward,,,FALSE
+"WEBB, Mr Brooke Holding",50,Victualling,,,,,Belfast,Smoke Room Steward,,,FALSE
+"WEIKMAN, Mr August H.",51,Victualling,,,,,Southampton,Barber,,,TRUE
+"WELCH, Mr W. H.",23,Victualling,,,,,Southampton,Cook,,,FALSE
+"WHEAT, Mr Joseph Thomas",29,Victualling,,,,,Belfast,Assistant Second Steward,11,,TRUE
+"WHEELTON, Mr Edneser (Ernest) Edward",29,Victualling,,,,,Belfast,Saloon Steward,11,,TRUE
+"WHITE, Mr Arthur",37,Victualling,,,,,Southampton,Barber,,247,FALSE
+"WHITE, Mr J. W.",27,Victualling,,,,,Southampton,Glory Hole Steward,,272,FALSE
+"WHITE, Mr Leonard Lisle Oliver",31,Victualling,,,,,Belfast,Saloon Steward,,,FALSE
+"WHITELEY, Mr Thomas Arthur",18,Victualling,,,,,Southampton,Saloon Steward,,,TRUE
+"WHITFORD, Mr Alfred Henry",39,Victualling,,,,,Southampton,Saloon Steward,,,FALSE
+"WIDGERY, Mr James George",37,Victualling,,,,,Southampton,Bath Steward,,,TRUE
+"WILLIAMS, Mr Arthur J.",38,Victualling,,,,,Southampton,Storekeeper,,,FALSE
+"WILLIAMS, Mr Walter John",28,Victualling,,,,,Southampton,Assistant Saloon Steward,,,TRUE
+"WILLIAMSON, Mr James Bertram",35,Victualling,,,,Postal Clerk,Southampton,Postal Clerk,,,FALSE
+"WILLIS, Mr W.",46,Victualling,,,,,Southampton,Steward,,,FALSE
+"WILLSHER, Mr William Audrey",33,Victualling,,,,,Southampton,Butcher,,,FALSE
+"WINDEBANK, Mr Alfred Edgar",38,Victualling,,,,,Southampton,Cook,,,TRUE
+"WINSER, Mr Rowland",33,Victualling,,,,,Southampton,Steward,,,FALSE
+"WITTER, Mr James William Cheetham",31,Victualling,,,,,Southampton,Smoke Room Steward,,,TRUE
+"WITTMAN, Mr Henry",34,Victualling,,,,,Southampton,Bed Room Steward,,315,FALSE
+"WOOD, Mr James Thomas",40,Victualling,,,,,Southampton,Assistant Saloon Steward,,,FALSE
+"WOODY, Mr Oscar Scott",44,Victualling,,,,Postal Clerk,Southampton,Postal Clerk,,167,FALSE
+"WORMALD, Mr Frederick William",36,Victualling,,,,,Southampton,Saloon Steward,,144,FALSE
+"WRAPSON, Mr Frederick Bernard",19,Victualling,,,,,Belfast,Assistant Pantryman Steward,,,FALSE
+"WRIGHT, Mr Frederick",24,Victualling,,,,,Southampton,Sports Instructor,,,FALSE
+"WRIGHT, Mr William",40,Victualling,,,,,Southampton,Glory Hole Steward,,,TRUE
+"YEARSLEY, Mr Harry",38,Victualling,,,,,Southampton,Saloon Steward,,,TRUE

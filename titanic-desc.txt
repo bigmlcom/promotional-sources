@@ -1,0 +1,5 @@
+Data set to predict survival on the Titanic, based on demographics and ticket information.
+
+**Source**
+
+The data source is from [Encyclopedia Titanica](http://www.encyclopedia-titanica.org)

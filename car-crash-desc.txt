@@ -1,0 +1,7 @@
+Accident final result in a dataset of people involved in car accidents with fatalities, based on accident and personal variables during 2011 in USA
+
+**Source**
+
+[Fatality Analysis Reporting System (FARS) Encyclopedia](http://www-fars.nhtsa.dot.gov)
+
+

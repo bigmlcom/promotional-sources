@@ -1,0 +1,6 @@
+0,'Country','Country','Country wine origin'
+1,'Grape','Grape','Grape variety'
+2,'Rating','Rating','Wine rating'
+3,'From Oregon?','From Oregon?','Is the wine from Oregon?'
+4,'Price','Price','Wine Price ($)'
+5,'Total Sales','Total Sales','Wine total sales ($)'
