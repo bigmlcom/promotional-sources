@@ -1,5 +1,5 @@
 0,'State','State','USA State'
-1,'Atmospheric Condition','Atmospheric Condition','Atmospheric condition during the crash'
+1,'Atmospheric Condition','Atmospheric Condition','Atmospheric condition at the time of the crash'
 2,'Crash Date','Crash Date','Crash Date'
 3,'Fatalities in crash','Fatalities in crash','Number of fatalities in crash'
 4,'Roadway','Roadway','Roadway Function Class'
