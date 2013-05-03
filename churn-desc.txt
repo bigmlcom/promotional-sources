@@ -1,3 +1,5 @@
-Churn in telephony based on different variables
+A dataset relating characteristics of telephony account features and usage and whether or not the customer churned.
 
+** Source **
 
+[Churn Data Set](http://www.dataminingconsultant.com/data/churn.txt) from [Discovering Knowledge in Data: An Introduction to Data Mining](http://www.dataminingconsultant.com/DKD.htm)
