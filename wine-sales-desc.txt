@@ -1,3 +1,2 @@
-This is a fictional dataset used by Wendy, the BigML masquote, to illustrate how BigML works.
-
+This is a fictional dataset used by Wendy, the BigML mascot, to illustrate how BigML works.
 
