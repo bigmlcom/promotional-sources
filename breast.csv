@@ -1,4 +1,4 @@
-Class,Age range,Menopause,Tumor size (mm),Lymph node invasion,Node caps,Malignant degree,Breast,Breast quadrant,Irratiate
+Class,Age range,Menopause,Tumor size (mm),Lymph node invasion,Node caps,Malignant degree,Breast,Breast quadrant,Irradiate
 No recurrence events,30-39,premeno,30-34,0-2,no,3,left,left_low,no
 No recurrence events,40-49,premeno,20-24,0-2,no,2,right,right_up,no
 No recurrence events,40-49,premeno,20-24,0-2,no,2,left,left_low,no
