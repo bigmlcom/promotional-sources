@@ -1,4 +1,4 @@
-Diabetes study. It contains data on females who are at least 21 years old of Pima Indian heritage. Pima Indians live in the state of Arizona.
+Dataset created from a study of diabetes in females 21 years or older and of Pima Indian heritage. 
 
 Pima Indians are an interesting population to study for diabetes because they have a higher incidence of diabetes than the general U.S. population.
 
