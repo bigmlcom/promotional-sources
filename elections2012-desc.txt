@@ -1,6 +1,6 @@
 Uses county demographics to predict Presidential US Election 2012
 
-**Sources**:
+**Source**
 
 Demographics from [Esri](http://www.esri.com/) at [Azure Datamarket](https://datamarket.azure.com/dataset/esri/keyusdemographicstrial)
 

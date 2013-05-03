@@ -1,7 +1,7 @@
 A dataset created by merging indicators by country for:
 Employment Rate,Alcohol Consumption per adult (lt),Expend/student Primary,Expend/student Secondary,Expend/student Tertiary,CO2 Emissions per person (Mt Tons),Gender Equality Ratio,GDP per capita
 
-** Source **
+**Source**
 
 Country stats in [Gapminder](http://www.gapminder.org/data/)
 

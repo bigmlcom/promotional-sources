@@ -2,6 +2,6 @@ Dataset created from a study of diabetes in females 21 years or older and of Pim
 
 Pima Indians are an interesting population to study for diabetes because they have a higher incidence of diabetes than the general U.S. population.
 
-** Source **
+**Source**
 
 [Pima Indians Diabetes Data Set](http://archive.ics.uci.edu/ml/datasets/Pima+Indians+Diabetes) at [UCI](http://cml.ics.uci.edu/) [Machine Learning Repository](http://archive.ics.uci.edu/ml/index.html)

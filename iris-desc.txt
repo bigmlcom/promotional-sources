@@ -2,7 +2,7 @@ This is perhaps the best known database to be found in the pattern recognition l
 in the field and is referenced frequently to this day. (See Duda & Hart, for example.) The data set contains 3 classes 
 of 50 instances each, where each class refers to a type of iris plant.
 
-** Source **
+**Source**
 
 Originally from the [UCI repository](http://archive.ics.uci.edu/ml/datasets/Iris)
 

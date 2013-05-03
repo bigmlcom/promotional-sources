@@ -4,6 +4,6 @@ This data set includes 201 instances of one class and 85 instances of another cl
 
 This breast cancer domain was obtained from the University Medical Centre, Institute of Oncology, Ljubljana, Yugoslavia. Thanks go to M. Zwitter and M. Soklic for providing the data. Please include this citation if you plan to use this database.
 
-** Source **
+**Source**
 
 [Breast Cancer Data Set](http://archive.ics.uci.edu/ml/datasets/Breast+Cancer) at [UCI Repository](http://archive.ics.uci.edu/ml/index.html)
