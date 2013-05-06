@@ -1,4 +1,4 @@
-Uses county demographics to predict Presidential US Election 2012
+This dataset relates demographic information for counties in the U.S. with the outcome of the 2012 Presidential Election for that county.
 
 **Source**
 
