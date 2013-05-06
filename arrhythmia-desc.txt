@@ -8,4 +8,7 @@ For the time being, there exists a computer program that makes such a classifica
 
 **Source**
 
-[Arrhythmia Data Set](http://archive.ics.uci.edu/ml/datasets/Arrhythmia) at [UCI](http://cml.ics.uci.edu/) [Machine Learning Repository](http://archive.ics.uci.edu/ml/index.html)
+[Arrhythmia Data Set](http://archive.ics.uci.edu/ml/datasets/Arrhythmia)
+
+Bache, K. & Lichman, M. (2013). [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml). Irvine, CA: University of California, School of Information and Computer Science.
+
