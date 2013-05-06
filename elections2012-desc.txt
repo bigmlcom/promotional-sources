@@ -5,4 +5,5 @@ Uses county demographics to predict Presidential US Election 2012
 Demographics from [Esri](http://www.esri.com/) at [Azure Datamarket](https://datamarket.azure.com/dataset/esri/keyusdemographicstrial)
 
 2012 Elections results from [The Guardian Datablog](http://www.guardian.co.uk/news/datablog/2012/nov/07/us-2012-election-county-results-download)
+
 2012 Elections results source: [US presidential election results by county](https://www.google.com/fusiontables/DataSource?docid=1qcQLqrAIAe3RcEfdWSm_QcXMLmteVg4uSpSs1rM)
