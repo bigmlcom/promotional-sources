@@ -1,5 +1,4 @@
-A dataset created by merging various economic and sociologic indicators for countries globally. The features are: 
-Employment Rate,Alcohol Consumption per adult (lt),Expend/student Primary,Expend/student Secondary,Expend/student Tertiary,CO2 Emissions per person (Mt Tons),Gender Equality Ratio,GDP per capita
+A dataset created by merging various economic and sociologic indicators for countries globally. The features are: Employment Rate, Alcohol Consumption per adult (lt), Expend/student Primary, Expend/student Secondary, Expend/student Tertiary, CO2 Emissions per person (Mt Tons), Gender Equality Ratio, GDP per capita
 
 **Source**
 
@@ -7,10 +6,10 @@ The gender equality ration is from the [Global Gender Gap Report](http://en.wiki
 
 The remaining indicators were provided through [Gapminder](http://www.gapminder.org/data/)
 
-* Aged 15+ employment rate (%): [International Labour Organization](http://www.ilo.org/global/lang--en/index.htm) 
-* Alcohol consumption per adult (15+), litres: [World Health Organization](http://www.who.int/) 
-* Expenditure per student, primary (% of GDP per capita): [World Bank](http://www.worldbank.org/) 
-* Expenditure per student, secondary (% of GDP per capita): [World Bank](http://www.worldbank.org/) 
-* Expenditure per student, tertiary (% of GDP per capita): [World Bank](http://www.worldbank.org/) 
-* CO2 emissions (tonnes per person): [CDIAC (Carbon Dioxide Information Analysis Center)](http://cdiac.ornl.gov/)
-* GDP/capita (US$, inflation-adjusted): [World Bank](http://www.worldbank.org/) 
+- Aged 15+ employment rate (%): [International Labour Organization](http://www.ilo.org/global/lang--en/index.htm) 
+- Alcohol consumption per adult (15+), litres: [World Health Organization](http://www.who.int/) 
+- Expenditure per student, primary (% of GDP per capita): [World Bank](http://www.worldbank.org/) 
+- Expenditure per student, secondary (% of GDP per capita): [World Bank](http://www.worldbank.org/) 
+- Expenditure per student, tertiary (% of GDP per capita): [World Bank](http://www.worldbank.org/) 
+- CO2 emissions (tonnes per person): [CDIAC (Carbon Dioxide Information Analysis Center)](http://cdiac.ornl.gov/)
+- GDP/capita (US$, inflation-adjusted): [World Bank](http://www.worldbank.org/) 
